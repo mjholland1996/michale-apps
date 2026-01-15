@@ -5,9 +5,9 @@ import Link from 'next/link';
 import { useMealPlan } from '@/context/MealPlanContext';
 
 export default function CurrentMealsPage() {
-  const { confirmedRecipes, startNewSelection } = useMealPlan();
+  const { selectedRecipes, clearSelection } = useMealPlan();
 
-  if (confirmedRecipes.length === 0) {
+  if (selectedRecipes.length === 0) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
@@ -31,7 +31,7 @@ export default function CurrentMealsPage() {
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-bold text-gray-900">Your Meal Plan</h1>
-            <p className="text-gray-600 mt-1">{confirmedRecipes.length} meals for this week</p>
+            <p className="text-gray-600 mt-1">{selectedRecipes.length} meals selected</p>
           </div>
           <div className="flex items-center gap-3">
             <Link
@@ -43,12 +43,13 @@ export default function CurrentMealsPage() {
               </svg>
               Shopping List
             </Link>
-            <button
-              onClick={startNewSelection}
+            <Link
+              href="/"
+              onClick={clearSelection}
               className="px-4 py-2 text-emerald-600 font-medium border border-emerald-600 rounded-lg hover:bg-emerald-50 transition-colors"
             >
-              <Link href="/">Choose New Meals</Link>
-            </button>
+              Choose New Meals
+            </Link>
           </div>
         </div>
       </header>
@@ -56,7 +57,7 @@ export default function CurrentMealsPage() {
       {/* Meals grid */}
       <main className="max-w-4xl mx-auto px-4 py-6">
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {confirmedRecipes.map((recipe, index) => (
+          {selectedRecipes.map((recipe, index) => (
             <Link
               key={recipe.slug}
               href={`/recipe/${recipe.slug}`}

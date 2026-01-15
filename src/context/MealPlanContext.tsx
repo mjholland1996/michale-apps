@@ -10,21 +10,17 @@ const DEFAULT_SERVING_SIZE = 2;
 
 interface MealPlanState {
   selectedRecipes: RecipeSummary[];
-  confirmedRecipes: RecipeSummary[];
   servingSize: number;
 }
 
 interface MealPlanContextType {
   selectedRecipes: RecipeSummary[];
-  confirmedRecipes: RecipeSummary[];
   servingSize: number;
   setServingSize: (size: number) => void;
   isSelected: (slug: string) => boolean;
   toggleRecipe: (recipe: RecipeSummary) => void;
   canSelectMore: boolean;
-  confirmSelection: () => void;
   clearSelection: () => void;
-  startNewSelection: () => void;
 }
 
 const MealPlanContext = createContext<MealPlanContextType | undefined>(undefined);
@@ -32,7 +28,6 @@ const MealPlanContext = createContext<MealPlanContextType | undefined>(undefined
 export function MealPlanProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<MealPlanState>({
     selectedRecipes: [],
-    confirmedRecipes: [],
     servingSize: DEFAULT_SERVING_SIZE,
   });
   const [isHydrated, setIsHydrated] = useState(false);
@@ -42,8 +37,13 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
       try {
-        const parsed = JSON.parse(saved) as MealPlanState;
-        setState(parsed);
+        const parsed = JSON.parse(saved);
+        // Handle migration from old format with confirmedRecipes
+        const recipes = parsed.selectedRecipes ?? parsed.confirmedRecipes ?? [];
+        setState({
+          selectedRecipes: recipes,
+          servingSize: parsed.servingSize ?? DEFAULT_SERVING_SIZE,
+        });
       } catch {
         // Invalid data, ignore
       }
@@ -81,22 +81,7 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     });
   };
 
-  const confirmSelection = () => {
-    setState(prev => ({
-      ...prev,
-      confirmedRecipes: [...prev.selectedRecipes],
-      selectedRecipes: [],
-    }));
-  };
-
   const clearSelection = () => {
-    setState(prev => ({
-      ...prev,
-      selectedRecipes: [],
-    }));
-  };
-
-  const startNewSelection = () => {
     setState(prev => ({
       ...prev,
       selectedRecipes: [],
@@ -121,15 +106,12 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     <MealPlanContext.Provider
       value={{
         selectedRecipes: state.selectedRecipes,
-        confirmedRecipes: state.confirmedRecipes,
         servingSize: state.servingSize,
         setServingSize,
         isSelected,
         toggleRecipe,
         canSelectMore,
-        confirmSelection,
         clearSelection,
-        startNewSelection,
       }}
     >
       {children}
