@@ -44,6 +44,9 @@ export function IngredientsPanel({
     ? ingredients.filter(ing => ingredientIds.includes(ing.id))
     : ingredients;
 
+  // Clean up ingredient label by removing "x0" suffix (data artifact)
+  const cleanLabel = (label: string) => label.replace(/\s*x0$/i, '');
+
   return (
     <div className="bg-white rounded-xl shadow-sm p-6 sticky top-4">
       <div className="flex items-center justify-between mb-4">
@@ -69,7 +72,7 @@ export function IngredientsPanel({
                 </div>
               )}
               <div>
-                <p className="font-medium text-gray-900">{ingredient.label}</p>
+                <p className="font-medium text-gray-900">{cleanLabel(ingredient.label)}</p>
               </div>
             </li>
           ))}

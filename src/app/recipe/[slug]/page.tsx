@@ -115,7 +115,10 @@ export default async function RecipePage({ params }: PageProps) {
                       <span className="inline-flex items-center justify-center w-8 h-8 bg-emerald-600 text-white rounded-full font-semibold text-sm mb-2">
                         {instruction.step}
                       </span>
-                      <p className="text-gray-700 leading-relaxed">{instruction.text}</p>
+                      <div
+                        className="text-gray-700 leading-relaxed prose prose-sm max-w-none [&_.text-purple]:text-purple-600 [&_.text-purple]:font-medium [&_.text-danger]:text-red-600 [&_.text-danger]:font-medium"
+                        dangerouslySetInnerHTML={{ __html: instruction.text }}
+                      />
                     </div>
                   </li>
                 ))}
