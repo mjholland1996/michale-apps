@@ -1,0 +1,160 @@
+{
+  "uid": "bltf3378a57abf06b54",
+  "title": "Creamy Chicken, Leek & Bacon Pie With Dill Pastry",
+  "slug": "creamy-chicken-leek-bacon-pie-with-thyme-pastry",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 10147
+  },
+  "prepTimes": {
+    "for2": 50,
+    "for4": 60
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/4264--Creamy-Chicken-Leek--Bacon-Pie-With-Tarragon-Pastry-1647512104289-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Chicken breast portion x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
+    },
+    {
+      "name": "Bacon lardons (50g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-British-bacon-lardons-x200.jpg"
+    },
+    {
+      "name": "Bacon lardons (100g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-British-bacon-lardons-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Puff pastry (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg"
+    },
+    {
+      "name": "Waxy potatoes (350g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
+    },
+    {
+      "name": "Chicken breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    },
+    {
+      "name": "Soft cheese (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Chinese rice wine (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
+    },
+    {
+      "name": "Fine green beans (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
+    },
+    {
+      "name": "Chinese rice wine (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
+    },
+    {
+      "name": "Wholegrain mustard (21g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x200.jpg"
+    },
+    {
+      "name": "Leek",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg"
+    },
+    {
+      "name": "Fine green beans (80g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
+    },
+    {
+      "name": "Dill (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-dill-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7, then take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Boil half a kettle, then chop your <strong>dill</strong> finely</p><p>Add your <strong>chicken breast portion[s] </strong>to a <strong>baking paper</strong>-lined tray<strong> </strong>with a drizzle of <strong>olive oil </strong>and a pinch of <strong>salt </strong>and <strong>pepper</strong>, then put the tray in the oven for 18-20 min or until cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-copy-6-1647947348953-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable oil</strong> over a medium-high heat</p><p>Once hot, add your <strong>bacon lardons</strong> and cook for 3-4 min or until golden and crisp</p><p>Chop your <strong>leek[s] </strong>in half lengthways, wash thoroughly to remove any grit then top, tail and slice finely</p><p>Peel and finely chop your<strong> garlic</strong>,<strong> </strong>then chop your <strong>waxy potatoes</strong> in half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-6-1647947358549-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Once the lardons are crisp, add the <strong>sliced leek</strong> and cook for 4-5 min or until beginning to soften</p><p>Dissolve your<strong> chicken stock mix </strong>in 80ml <span class=\"text-purple\">[90ml]</span> <span class=\"text-danger\">[100ml]</span> <strong>boiled water </strong>and add 50ml <span class=\"text-purple\">[60ml]</span> <span class=\"text-danger\">[80ml]</span> <strong>milk</strong>, your <strong>soft cheese </strong>and your<strong> wholegrain mustard </strong>– this is your<strong> stock</strong></p><p>Once the leek has softened, add <strong>half</strong> the <strong>chopped garlic</strong> (save the rest for later!) with 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span><span class=\"text-danger\"> [2 tbsp] </span><strong>flour</strong> and cook for a further 1-2 min</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-6-1647947506590-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add the <strong>stock</strong> to the pan with your <strong>Chinese rice wine </strong>and a generous crack of<strong> pepper</strong>, bring to the boil over a high heat and cook for 3-4 min or until slightly thickened</p><p>Once the chicken is cooked, transfer it to a clean board and shred it apart using two forks – this technique is known as 'pulling'</p><p>Reserve the tray with the baking paper and add the <strong>chopped waxy potatoes</strong>,<strong> </strong>a drizzle of <strong>vegetable oil</strong> and a generous pinch of <strong>salt</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-copy-6-1647948029240-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Put the <strong>waxy potatoes</strong> in the oven for 25-30 min or until golden</p><p>Dust your work surface with a generous sprinkling of <strong>flour</strong> and unwrap your <strong>puff pastry</strong>,<strong> </strong>then roll it out to approx. 0.5cm thickness with a<strong> rolling pin</strong></p><p>Wash with a little <strong>milk </strong>and press the<strong> chopped dill</strong> into the pastry – this is your <strong>dill pastry</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-copy-6-1647948074641-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add the <strong>pulled chicken</strong> to the<strong> </strong>pan with a generous grind of<strong> black pepper</strong> and give everything a good mix up – this is your <strong>creamy chicken pie filling</strong></p><p>Transfer the <strong>creamy chicken pie filling</strong> to an <strong>oven-proof dish</strong>, then lay the <strong>dill pastry</strong> over the oven-proof dish and trim off any excess</p><p>Press the edges with a fork to seal the pastry to the dish and put in the oven for 15-20 min or until the pastry is puffed up, golden and cooked through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-copy-6-1647948086161-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Trim, then add your <strong>green beans </strong>to a large piece of <strong>tin foil </strong>(or two!) with the <strong>remaining chopped garlic</strong>, a large knob of<strong> butter </strong>and 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp] </span><strong>cold water</strong></p><p>Scrunch the edges of the foil around the green beans to form a sealed parcel[s] and add to a separate baking tray</p><p>Put the tray in the oven for 10-12 min or until tender with a slight bite – these are your <strong>garlicky green beans</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-6-1647948099457-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>creamy chicken</strong>,<strong> leek & bacon pie with dill pastry</strong> with the <strong>roast potatoes</strong> and <strong>garlicky green beans</strong> to the side</p><p>Season with a grind of <strong>black pepper</strong></p><p>Enjoy</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 819,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Vegetable oil",
+    "Flour",
+    "Milk",
+    "Butter",
+    "Water"
+  ]
+}

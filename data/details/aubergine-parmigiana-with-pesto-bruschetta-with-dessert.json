@@ -1,0 +1,146 @@
+{
+  "uid": "blt08b3c260c7184171",
+  "title": "Aubergine Parmigiana With Pesto Bruschetta With Dessert",
+  "slug": "aubergine-parmigiana-with-pesto-bruschetta-with-dessert",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 31
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/816---Aubergine-Parmigiana--Pesto-Bruschetta1080-copy-1657126454659-1745588825603-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": " Pots & Co - chocolate ganache (45g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-70-chocolate2-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Dried oregano (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
+    },
+    {
+      "name": "Ciabatta x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Grated Italian hard cheese (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Mozzarella (125g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Basil (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Basil (10g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Aubergine",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Trim the green stalk[s] off your <strong>aubergine[s]</strong> and slice lengthways as thinly as you can</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a high heat</p><p>Once hot, add the<strong> aubergine slices</strong> and cook for 3-4 min on each side (you may have to do this in batches!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1744122387356-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Once the aubergine is cooked, set aside and reserve the pan</p><p>Meanwhile, peel and dice your <strong>red</strong> <strong>onion[s]</strong></p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Chop your <strong>basil</strong> finely, including the stalks</p><p>Boil half a kettle</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1744122392295-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Return the pan to a medium heat with a drizzle of <strong>olive oil</strong></p><p>Once hot, add the <strong>diced onion</strong> with a pinch of <strong>salt</strong> and cook for 5 min or until softened slightly but not coloured</p><p>Add 3/4 of the <strong>chopped garlic</strong> (save the rest for later!) and cook for a further 1 min</p><p>Meanwhile, dissolve your<strong> vegetable stock mix </strong>in 50ml <span class=\"text-purple\">[75ml]</span> <span class=\"text-danger\">[100ml]</span> <strong>boiled water</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1744122397407-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add your <strong>tomato paste</strong>, <strong>dried</strong> <strong>oregano</strong> and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp]</span> <strong>sugar </strong>to the pan and cook for 30 secs</p><p>Add your <strong>chopped tomatoes</strong>, <strong>vegetable stock</strong> and <strong>half</strong> the <strong>chopped basil </strong>(you'll use the rest later!)<strong> </strong>and cook for 3 min until it resembles a thick bolognese sauce consistency – this is your <strong>tomato sauce</strong></p><p>Drain your <strong>mozzarella</strong>, then pat it<strong> </strong>dry with<strong> </strong>kitchen paper (squeeze as much liquid out as you can!) then tear into chunks</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1744122402542-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add <strong>half</strong> the <strong>cooked aubergine slices</strong> to an <strong>oven-proof dish</strong> in a single layer</p><p>Spoon over <strong>half</strong> the <strong>tomato sauce</strong> and repeat so there are two layers of aubergine and sauce</p><p>Top with the <strong>torn mozzarella</strong> and <strong>half</strong> your <strong>grated</strong> <strong>Italian hard cheese </strong>(you'll use the rest later!)</p><p>Put the dish in the oven for 15-20 min or until the cheese has browned – this is your <strong>aubergine parmigiana</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1744122408154-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Meanwhile, grind the <strong>reserved</strong> <strong>chopped basil</strong>, <strong>remaining chopped garlic</strong> and <strong>remaining</strong> <strong>grated Italian hard cheese</strong> with a pinch of <strong>salt</strong> in a <strong>pestle & mortar</strong> to form a smooth paste</p><p>Tip: If you don't have a pestle & mortar, chop everything very finely!</p><p>Add 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp]</span> <strong>olive oil</strong> and 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>cold</strong> <strong>water</strong> and mix well – this is your <strong>basil</strong> <strong>pesto</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1744122413788-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Slice your <strong>ciabatta[s]</strong> into 4 slices and place onto a baking tray (or two!)</p><p>Spread the<strong> basil pesto</strong> evenly over the <strong>ciabatta slices</strong></p><p>Put the tray[s] in the oven for 5 min until the ciabatta slices are warmed through and crispy – this is your <strong>pesto bruschetta</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1744122419843-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Once the <strong>aubergine parmigiana</strong> has cooked, allow it to cool slightly before serving (this helps the flavours to develop and makes it easier to serve!)</p><p>Serve the<strong> aubergine</strong> <strong>parmigiana</strong> with the <strong>pesto</strong> <strong>bruschetta</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 665,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Water",
+    "Sugar",
+    "Salt",
+    "Olive oil"
+  ]
+}

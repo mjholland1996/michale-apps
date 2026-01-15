@@ -1,0 +1,129 @@
+{
+  "uid": "blte543f5e4caf84f1e",
+  "title": "Caramelised Onion & Cheddar Pasty With Wedges",
+  "slug": "caramelised-onion-cheddar-pasty-with-wedges",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 3197
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 50
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/3304_Caramelised-Onion--Cheddar-Pasty-With-Wedges-9358-1616495028940-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "150g puff pastry",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/VPastry-x200.jpg"
+    },
+    {
+      "name": "50g baby leaf salad",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
+    },
+    {
+      "name": "5g parsley",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "2 pots of mustard ketchup (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x200.jpg"
+    },
+    {
+      "name": "1 pot of soft cheese (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
+    },
+    {
+      "name": "80g cheddar cheese",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "1 cider vinegar sachet (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    },
+    {
+      "name": "125g cherry tomatoes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
+    },
+    {
+      "name": "1 brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "3 white potatoes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ Gas 6</p><p>Chop the <strong>potatoes</strong> into wedges</p><p>Add the <strong>wedges</strong> to a baking tray with a drizzle of <strong>vegetable oil </strong>and a pinch of <strong>salt</strong></p><p>Put the tray in the oven for 30 min or until golden and cooked through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1618925059879-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, peel and finely slice the<strong> brown onion<span class=\"text-danger\">[s]</span></strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a knob of <strong>butter</strong> over a medium-low heat</p><p>Once hot, add the<strong> sliced onion</strong> with a pinch of <strong>salt</strong> and cook for 8-10 min or until softened and caramelised</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1618925216594-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, grate the <strong>cheddar cheese</strong></p><p>Chop the <strong>parsley</strong> finely, including the stalks</p><p>Combine the <strong>grated cheddar </strong>with the <strong>soft cheese</strong> and <strong>chopped parsley</strong></p><p>Season with a very generous grind of<strong> black pepper</strong> – this is your <strong>cheese mixture</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1618925230138-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Cut the <strong>cherry tomatoes</strong> in half</p><p>Add the<strong> cider vinegar </strong>to a large bowl with 2 tbsp <span class=\"text-danger\">[4 tbsp]</span> <strong>olive oil </strong>and a pinch of <strong>salt </strong>– this is your<strong> dressing</strong></p><p>Set both aside for serving</p><p>Once the onion has caramelised, add 1 tbsp<span class=\"text-danger\"> [2 tbsp]</span><strong> flour</strong> and cook for 30 secs, then add 2 tbsp<span class=\"text-danger\"> [4 tbsp] </span><strong>milk </strong>and cook for a further 30 secs or until a thick paste has formed – this is your <strong>onion mixture </strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1618925256465-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Transfer the<strong> onion mixture</strong> to the <strong>cheese mixture</strong> and give everything a good stir</p><p>Cut the <strong>puff pastry</strong> into 2 <span class=\"text-danger\">[4]</span> rectangles and add them to a baking tray lined with <strong>non-stick baking paper</strong></p><p>Divide the <strong>cheese & onion mixture</strong> between the pastry rectangles, covering only one half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1618925264413-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Brush a little <strong>cold water </strong>around the edges of the pastry (this helps to seal the pastry!)</p><p>Fold the pastry over the mixture and press it together with your fingers to seal in the mixture with as little air trapped inside as possible – these are your <strong>pasties</strong></p><p>Prick air holes into the centre of the<strong> pasties</strong> evenly with a fork</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1618925283175-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Put the tray in the oven for 15-18 min or until golden and puffed up</p><p>Use this time to clear up, set the table, have a cup of tea or simply chill!</p><p>Once everything's almost done, wash the <strong>baby leaf salad </strong>and pat it dry with <strong>kitchen paper</strong></p><p>Add the <strong>salad leaves </strong>and <strong>halved</strong> <strong>cherry tomatoes </strong>to the bowl of <strong>dressing</strong> and gently mix together – this is your <strong>dressed salad</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1618925293300-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>caramelised onion & cheddar pasties </strong>with the <strong>wedges</strong>, <strong>dressed salad</strong> and <strong>mustard ketchup</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 739,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Flour",
+    "Milk",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Vegetable oil"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "uid": "blt4e2792bd7e6159a9",
+  "title": "Fried Free Range Chicken Thigh Burger With Sriracha Mayo",
+  "slug": "fried-free-range-chicken-thigh-burger-with-sriracha-mayo",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 76
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/1651---Fried-Chicken-Burger-With-Sriracha-Mayo18432-1663081576130-1695726467882-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Brioche style buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
+    },
+    {
+      "name": "Free range skinless chicken thighs (320g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-chicken-thigh-fillets4-2-x200.jpg"
+    },
+    {
+      "name": "White wine vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    },
+    {
+      "name": "Cornflour (4tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
+    },
+    {
+      "name": "Cayenne pepper (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg"
+    },
+    {
+      "name": "Sriracha hot chilli sauce (8ml) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Gem lettuce",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-gem-lettuce-2-x200.jpg"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7, then take your <strong>chicken </strong>out of the fridge, open the packet and let it air</p><p>Cut your <strong>potatoes</strong> (skins on) into thin chips</p><p>Add the <strong>chips</strong> to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for 20-25 min or until golden and crispy</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1695718924621-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>While the chips are cooking, cut your <strong>free range</strong> <strong>chicken thighs</strong> into strips</p><p>Add the <strong>chicken strips</strong> to a bowl with your <strong>cayenne pepper</strong> (can't handle the heat? Go easy!) and <strong>soy sauce</strong> then mix well until evenly coated</p><p>Add your<strong> cornflour</strong> and give everything a good mix up until the chicken is fully coated in the cornflour mixture – these are your<strong> coated chicken strips</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-14-1695718927744-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Combine your<strong> sriracha</strong> (not a fan of spice? Just add a little!)<strong> </strong>with your<strong> mayo</strong> in a small bowl – this is your <strong>sriracha mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-21-1695718930838-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Wash your<strong> lettuce</strong>, pat it dry with<strong> </strong>kitchen paper, then remove 2<strong><span class=\"text-danger\"> </span>outer leaves </strong>per person and set these aside for serving</p><p>Cut the <strong>remaining lettuce</strong> in half</p><p>Slice your<strong> tomato[es]</strong><span class=\"text-danger\"> </span>finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-20-1695718934251-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Combine your <strong>white wine vinegar</strong> with 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp]</span> <strong>olive oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper </strong>in a separate small bowl – this is your <strong>dressing</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-20-1695718937877-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a very generous drizzle of <strong>vegetable oil </strong>(enough to cover the whole base of the pan) over a high heat</p><p>Once hot, add the <strong>coated chicken strips </strong>and cook for 5-6 min on each side or until golden and cooked through (no pink meat!) – this is your<strong> fried free range chicken</strong></p><p>Tip: Add more oil to the pan if it is looking a little dry</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-17-1695718943079-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Meanwhile, slice your <strong>brioche bun[s]</strong> in half</p><p>Add the <strong>brioche halves</strong> to a baking tray and put the tray in the oven for 4-5 min or until warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-6-1695718947706-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Fill your <strong>warmed brioche bun</strong> with the <strong>outer lettuce leaves</strong>,<strong> sliced tomato</strong>,<strong> fried free range chicken</strong> and <strong>sriracha mayo</strong></p><p>Serve the<strong> chips</strong> and <strong>lettuce halves</strong> to the side</p><p>Drizzle the lettuce with the <strong>dressing</strong> and serve any <strong>remaining sriracha mayo</strong> to the side for dipping</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 675,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

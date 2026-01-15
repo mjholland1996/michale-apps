@@ -1,0 +1,148 @@
+{
+  "uid": "blt58cb8c244dca0f9b",
+  "title": "One Hour Christmas Dinner & All The Trimmings",
+  "slug": "one-hour-christmas-dinner-all-the-trimmings",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 2972
+  },
+  "prepTimes": {
+    "for2": 55,
+    "for4": 60
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/5007---One-Hour-Christmas-Dinner--All-The-Trimmings2637-1699280845048-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Parsnip",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-Parsnips-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Brussels sprouts (100g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x200.jpg"
+    },
+    {
+      "name": "Turkey breast joint (300g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/turkey-joint-300g-x200.jpg"
+    },
+    {
+      "name": "Pigs in blankets (6pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/6-pigs-in-blankets-x200.png"
+    },
+    {
+      "name": "Cranberry sauce (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cranberry-sauce-1-x200.jpg"
+    },
+    {
+      "name": "Henderson's Relish (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Rosemary (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x200.jpg"
+    },
+    {
+      "name": "Carrot x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
+    },
+    {
+      "name": "Marmite (8g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Honey (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
+    },
+    {
+      "name": "Pork, sage & onion stuffing (100g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-sage--onion-stuffing-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7 and boil a full kettle</p><p>Peel and chop your <strong>potatoes </strong>in half</p><p>Add the <strong>chopped potatoes </strong>to a pot with plenty of <strong>boiled water</strong>, bring to the boil over a high heat and cook for 10-12 min or until fork-tender</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1696950213231-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Top, tail and chop your <strong>parsnip[s]</strong> in half lengthways (no need to peel)</p><p>With the flat side down, make diagonal crosses along the parsnip halves without cutting all the way through</p><p>Top, tail and chop your <strong>carrot[s]</strong> in quarters lengthways</p><p>Trim the ends off your <strong>Brussels sprouts</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1696950216478-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Line a tray (or two!) with <strong>baking paper </strong>and add your <strong>turkey breast joint[s] </strong>to one side</p><p>Top each turkey breast joint with a sprig of your<strong> rosemary</strong> (you’ll use the rest later!) and a pinch of <strong>salt </strong>and<strong> pepper</strong></p><p>Put the tray[s] in the oven for 36-38 min or until it's cooked through and the juices run clear (no pink meat!)</p><p>Tip: Set a timer because your turkey will rest until everything else is ready!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1-1696950224762-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once the potatoes are fork-tender, drain them in a colander and shake them until they're fluffy</p><p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of<strong> vegetable oil </strong>over a medium heat</p><p>Once hot, add the <strong>remaining rosemary</strong> with a pinch of <strong>salt </strong>and<strong> pepper </strong>and cook for 30 secs or until fragrant – this is your<strong> rosemary oil</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1696950271985-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add the <strong>cooked potatoes</strong> to one side of a separate baking tray and drizzle over the <strong>rosemary oil </strong>then reserve the pan</p><p>Add the<strong> chopped parsnip </strong>and<strong> chopped carrot </strong>to the other side of the baking tray (or a separate one!)<strong> </strong>with a drizzle of <strong>vegetable oil </strong>and put the tray[s] in the oven for an initial 15 min</p><p>Divide your<strong> pork, sage & onion stuffing</strong> (remove any paper!) and shape into 2 stuffing meatballs per person, then boil half a kettle</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1696950292950-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Return the reserved pan to a medium heat with 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>butter</strong></p><p>Once melted, add 2 tsp <span class=\"text-purple\">[3 tsp]</span><strong> </strong><span class=\"text-danger\">[4 tsp]</span> <strong>flour </strong>and cook for 30 secs, stirring to form a paste</p><p>Dissolve your <strong>chicken stock mix</strong> in 250ml <span class=\"text-purple\">[325ml]</span> <span class=\"text-danger\">[450ml]</span> <strong>boiled water </strong>and stir in your <strong>Henderson's Relish</strong> and<strong> Marmite</strong></p><p>Gradually add the <strong>stock</strong> to the pan and cook for 10-12 min or until thickened – this is your <strong>gravy</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1696950409224-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the veg has been in the oven for 15 min, add the <strong>Brussels sprouts </strong>to the tray[s], then turn the potatoes and drizzle your <strong>honey</strong> over the parsnip and carrot and top with<strong> </strong>a couple of knobs of<strong> butter</strong></p><p>Add the <strong>stuffing meatballs</strong> and<strong> pigs in blankets</strong> to the tray[s] with the turkey and return all the trays to the oven for a further 15-18 min or until the potatoes are crispy and the pigs in blankets are cooked through, once cooked, transfer the <strong>turkey</strong> to a clean board to rest</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1665139261924-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Warm up the <strong>gravy</strong> over a low heat</p><p>Slice the<strong> rested turkey </strong>finely on a clean board</p><p>Serve the <strong>sliced turkey</strong> with the<strong> pigs in blankets</strong>,<strong> stuffing meatballs</strong>, <strong>rosemary roast potatoes</strong>, <strong>honey roast veg</strong> and <strong>roasted sprouts</strong></p><p>Add a dollop of <strong>cranberry sauce</strong> to the side and drizzle over the <strong>gravy</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 863,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Flour",
+    "Pepper",
+    "Salt",
+    "Vegetable oil",
+    "Water"
+  ]
+}

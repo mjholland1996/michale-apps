@@ -1,0 +1,127 @@
+{
+  "uid": "blt0711aaeb7ab033a1",
+  "title": "Goats' Cheese, Caramelised Onion & Hot Honey Pizza",
+  "slug": "goats-cheese-caramelised-onion-hot-honey-pizza",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 10688
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/6201_Goats-Cheese-Caramelised-Onion--Hot-Honey-Pizza-V_001_0-1694696645762-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Flame-baked pizza bases (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x200.jpg"
+    },
+    {
+      "name": "Dried chilli flakes (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Soft goats' cheese (75g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x200.jpg"
+    },
+    {
+      "name": "Baby leaf salad (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
+    },
+    {
+      "name": "Mozzarella (125g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Balsamic vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "Honey (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Peel and finely slice your<strong> red onion[s]</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> olive oil </strong>over a medium heat, once hot, add the<strong> sliced onion </strong>with a pinch of <strong>salt</strong></p><p>Cook the onion for 8-10 min or until it has softened and caramelised, then stir through <strong>half</strong> your <strong>balsamic vinegar</strong> (save the rest for later!) and cook for a final 30 secs - this is your <strong>caramelised onion</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1689687489053-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Put a large baking tray (or two) in the oven to heat up (this will stop the<strong> </strong>pizza bottom[s] from going soggy!)</p><p>Add your <strong>tomato paste </strong>to a bowl with a generous pinch of<strong> salt</strong>, <strong>pepper</strong> and <strong>sugar</strong></p><p>Add 5 tbsp <span class=\"text-purple\">[7 1/2 tbsp] </span><span class=\"text-danger\">[10 tbsp] </span><strong>cold water </strong>and stir it all together – this is your <strong>tomato base</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1689687493501-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Drain your <strong>mozzarella</strong>, then pat and squeeze as much liquid out as you can with kitchen paper</p><p>Tear the <strong>drained mozzarella</strong> into rough, bite-sized pieces</p><p>Crumble your <strong>goats' cheese </strong>into rough, bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1689687497101-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Remove the heated tray[s] from the oven and add your<strong> pizza base[s]</strong></p><p>Tip: Cooking for 2 or more? Make sure the pizza[s] don't overlap on the tray to avoid raw dough!</p><p>Spread the <strong>tomato base</strong> evenly over the pizza base[s] with the back of a spoon</p><p>Top with the<strong> torn mozzarella</strong>, <strong>caramelised onion</strong>, <strong>crumbled goats’ cheese </strong>and a generous pinch of <strong>pepper</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1689687502112-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Put the tray[s] in the oven for 13-15 min or until the cheese has melted and the base[s] is crisp – this is your <strong>goats' cheese & caramelised onion pizza</strong></p><p>Meanwhile, wash your <strong>salad</strong>, then pat it dry with kitchen paper</p><p>Cut your <strong>cucumber</strong> in half lengthways, then slice finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1689687507513-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add the <strong>salad </strong>and <strong>chopped cucumber </strong>to a bowl with the<strong> remaining balsamic vinegar</strong>, 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp] </span><span class=\"text-danger\">[2 tbsp]</span><strong> olive oil </strong>and a pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Toss to combine – this is your <strong>dressed salad</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1689687512653-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Combine your<strong> honey </strong>with 1/2 tsp <span class=\"text-purple\">[3/4 tsp] </span><span class=\"text-danger\">[1 tsp]</span><span class=\"text-purple\"> </span><strong>warm water</strong><span class=\"text-purple\"> in a small bowl</span></p><p>Add your<strong> chilli flakes</strong> (can't handle the heat? Go easy!) with a generous pinch of <strong>salt</strong> and stir together – this is your <strong>hot honey</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1689687516680-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>goats' cheese & caramelised onion pizza</strong> with the <strong>dressed salad </strong>to the side</p><p>Drizzle the <strong>hot honey </strong>over the pizza and season with a pinch of <strong>pepper</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 728,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Sugar",
+    "Pepper",
+    "Salt",
+    "Olive oil",
+    "Water"
+  ]
+}

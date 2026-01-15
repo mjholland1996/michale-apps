@@ -1,0 +1,136 @@
+{
+  "uid": "blt321079b1accf0fda",
+  "title": "Hake, Red Pepper & Cherry Tomato Bake",
+  "slug": "hake-red-pepper-cherry-tomato-bake",
+  "description": "",
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "prepTimes": {
+    "for2": 45,
+    "for4": 50
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/4049_Basa-Red-Pepper-and-Cherry-Tomato-Bake_001_0-1684414011585-1729165734934-1755865005225-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Hake fillets (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-125g-hake-fillets-x200.jpg"
+    },
+    {
+      "name": "Dried oregano (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
+    },
+    {
+      "name": "Intense vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Brown onion x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Basil (5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Basil (10g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Red pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
+    },
+    {
+      "name": "Cherry tomatoes (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Cherry tomatoes (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Sweet potato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Peel and chop your <strong>potato[es]</strong> into bite-sized pieces</p><p>Add the <strong>chopped potatoes </strong>to an <strong>oven-proof dish</strong> with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong></p><p>Put the dish in the oven and cook for an initial 25 min</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1729593434511-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, peel and cut your <strong>brown</strong> <strong>onion[s]</strong> into wedges</p><p>Peel and roughly chop your <strong>garlic</strong></p><p>Pick your <strong>basil leaves</strong> from the <strong>stalks </strong>(you'll be using both)</p><p>Cut your <strong>cherry tomatoes</strong> in half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1729593450907-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Cut your <strong>pepper[s]<span class=\"text-danger\"> </span></strong>in half (scrape the seeds and pith out with a teaspoon) and slice into long strips</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1729593466603-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with 1 tbsp<span class=\"text-purple\"> [1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>onion wedges</strong>,<strong> sliced pepper </strong>and<strong> chopped garlic</strong> to the pan with a pinch of <strong>salt</strong> and cook for 4-5 min or until starting to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1729593475668-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once softened, add the <strong>halved</strong> <strong>cherry tomatoes</strong>, <strong>basil stalks </strong>(you'll use the leaves later!) and <strong>dried oregano</strong> to the pan</p><p>Add in your <strong>vegetable</strong> <strong>stock mix</strong> and season with a good grind of <strong>pepper</strong></p><p>Cook for a further 2 min, stirring regularly</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-1729593488008-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the potatoes have had an initial 25 min, add the <strong>vegetables</strong> and any <strong>remaining juices</strong> from the pan into the <strong>oven-proof dish</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-1729593495710-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Pat your <strong>hake fillet[s]</strong> dry with kitchen paper and season with <strong>salt</strong> and <strong>pepper</strong>, then add them to the vegetables and push them down slightly</p><p>Return the dish to the oven for 12-15 min or until the potatoes are fork-tender and the hake is cooked through – this is your <strong>hake</strong>,<strong> red pepper & cherry tomato bake</strong></p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-1729593512202-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Tear your <strong>basil leaves</strong> roughly</p><p>Serve the <strong>hake</strong>,<strong> red pepper & cherry tomato bake</strong> and garnish with the<strong> torn basil leaves</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 352,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

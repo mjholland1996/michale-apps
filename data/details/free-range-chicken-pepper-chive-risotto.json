@@ -1,0 +1,152 @@
+{
+  "uid": "blt8cf24bff9de8a99d",
+  "title": "Free Range Chicken, Pepper & Chive Risotto",
+  "slug": "free-range-chicken-pepper-chive-risotto",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 42
+  },
+  "prepTimes": {
+    "for2": 50,
+    "for4": 60
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/3945_Chicken-Yellow-Pepper--Chive-Risotto_011_0-1657723417698-1711440271395-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Free range chicken breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    },
+    {
+      "name": "Cheddar cheese (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Yellow pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x200.jpg"
+    },
+    {
+      "name": "Arborio rice (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg"
+    },
+    {
+      "name": "Chives (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Red chilli relish (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-jam-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Chinese rice wine (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6, then take your <strong>chicken </strong>out of the fridge, open the packet and let it air</p><p>Heat a large, wide-based pan (preferably non-stick) over a high heat</p><p>Once hot, add your <strong>free range chicken breast portion[s]</strong> and cook for 3 min on each side or until lightly browned, then remove from the heat</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1710937090718-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Deseed your<strong> pepper[s]</strong><span class=\"text-danger\"> </span>(scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Add the <strong>pepper strips</strong> to a <strong>tin foil </strong>lined-baking tray (or two!) with a drizzle of <strong>olive oil</strong> and a pinch of <strong>salt</strong></p><p>Transfer the<strong> browned chicken</strong> to the baking tray[s]</p><p>Put the tray[s] in the oven for 15-20 min until the pepper has roasted and the chicken is cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1710937095978-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, boil a full kettle</p><p>Peel and finely dice your <strong>red onion[s]</strong></p><p>Dissolve your <strong>chicken stock mix </strong>in 700ml <span class=\"text-purple\">[975ml]</span> <span class=\"text-danger\">[1.4L]</span> <strong>boiled water</strong>, then add your <strong>tomato paste</strong>, <strong>Chinese rice wine </strong>and <strong>chilli relish</strong> – this is your<strong> sweet tomato stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1710937099908-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> and a knob of <strong>butter</strong> over a medium heat</p><p>Once hot, add the <strong>diced onion</strong> with a pinch of <strong>salt</strong> and cook for 4 min until softened but not browned</p><p>Meanwhile, peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1710937104992-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add your <strong>arborio rice</strong>, <strong>chopped garlic</strong>, <strong>ground smoked paprika</strong> and <strong>ground turmeric</strong> to the pan and cook for 1 min further</p><p>Add 1/3 of the <strong>sweet tomato stock</strong> and stir continuously until absorbed</p><p>Continue to add the <strong>remaining</strong> <strong>sweet tomato stock</strong>, a ladle at a time, stirring continuously for 25-30 min, until all the stock is absorbed and the rice is cooked – this is your <strong>risotto</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1710937109372-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Meanwhile, chop your <strong>chives</strong> finely</p><p>Grate your <strong>cheddar cheese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1710937113290-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once cooked, transfer the <strong>chicken </strong>to a clean board and shred it apart, using two forks - this technique is known as ‘pulling’</p><p>Return the <strong>pulled chicken </strong>and <strong>half</strong> of the <strong>roasted pepper</strong> into the risotto (save the rest for garnish!) and give everything a good mix up</p><p>Once the rice is cooked, remove the<strong> </strong>risotto from the heat and stir in<strong> half</strong> of the <strong>grated cheese</strong> and <strong>half</strong> of the <strong>chopped chives</strong>, then season with a grind of <strong>pepper</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1710937116896-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>To serve, top the<strong> free range chicken, pepper & chive risotto </strong>with the <strong>reserved roasted pepper</strong> and the <strong>remaining</strong> <strong>grated cheese</strong></p><p>Garnish with the <strong>chopped chives</strong> and a<strong> </strong>drizzle of <strong>olive oil</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 589,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Pepper",
+    "Salt",
+    "Butter",
+    "Olive oil",
+    "Water"
+  ]
+}

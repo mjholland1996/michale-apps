@@ -1,0 +1,146 @@
+{
+  "uid": "bltc542b4f6936bbc09",
+  "title": "Fiery Chipotle Meat-Free Tacos With Coriander Slaw",
+  "slug": "fiery-chipotle-meat-free-tacos-with-coriander-slaw",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 6940
+  },
+  "prepTimes": {
+    "for2": 10,
+    "for4": 10
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/6325_Fiery-Chipotle-MeatFree-Tacos-With-Coriander-Slaw-V_001_0-1695890905515-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Sriracha hot chilli sauce (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
+    },
+    {
+      "name": "Carrot & cabbage slaw mix (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg"
+    },
+    {
+      "name": "Chipotle paste (20g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Ultimate vegan burger patties (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
+    },
+    {
+      "name": "Chipotle paste (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
+    },
+    {
+      "name": "Plain tortillas (6pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Green chilli",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
+    },
+    {
+      "name": "Lime",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin-10mm-Step-1-1733298196335-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p><strong>Now, let's get started!</strong></p><p>Boil half a kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil </strong>over a medium-high heat</p><p>Once hot, crumble your <strong>meat-free patty[ies] </strong>into the pan and cook for 4-5 min or until beginning to brown, breaking it up into bite-sized pieces with a wooden spoon as you go</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1696410573573-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Slice your <strong>green chilli[es] </strong>finely</p><p>Chop your <strong>coriander </strong>finely, including the stalks</p><p>Cut your <strong>lime[s]</strong> in half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1696410577132-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add the <strong>sliced green chilli </strong>(can't handle the heat? Go easy!) to a small bowl with the juice of <strong>half</strong> the <strong>lime[s]</strong> and a pinch of<strong> salt </strong>and<strong> sugar</strong></p><p>Give everything a good mix up and set aside to pickle – this is your <strong>quick-pickled chilli</strong></p><p>Combine your <strong>carrot & cabbage slaw mix</strong> in a large bowl with the juice of the <strong>remaining</strong> <strong>lime</strong>, <strong>chopped</strong> <strong>coriander</strong> and a pinch of <strong>salt</strong> – this is your <strong>coriander slaw</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1696410580764-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Dissolve your <strong>chipotle</strong> <strong>paste</strong> (can't handle the heat? Go easy!), <strong>tomato</strong> <strong>paste</strong> and<strong> stock mix </strong>in 100ml <span class=\"text-purple\">[130ml]</span> <span class=\"text-danger\">[170ml] </span><strong>boiled water </strong>– this is your <strong>chipotle stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1696410583814-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the crumbled meat-free burger has browned, add the <strong>chipotle stock </strong>to the pan and cook for 3-4 min further or until the sauce has thickened – this is your <strong>chipotle meat-free mix</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1696410586985-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Combine your <strong>mayo</strong> and <strong>sriracha</strong> (not a fan of spice? Just add a little!) in a small bowl – this is your <strong>sriracha mayo</strong></p><p>Add your <strong>tortillas</strong> to a plate and pop in the <strong>microwave</strong> for 20 secs on high or until warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1696410590931-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Divide the <strong>chipotle meat-free mix</strong>, <strong>coriander</strong> <strong>slaw</strong> and <strong>sriracha</strong> <strong>mayo </strong>evenly between the <strong>warmed tortillas </strong>and top with<strong> </strong>with the <strong>quick-pickled chilli</strong> (can't handle the heat? Go easy!)</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 678,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Sugar",
+    "Salt",
+    "Water"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "uid": "bltd37deaffb3aa7a2a",
+  "title": "German-Style Lean Meatballs & Creamy Caper Sauce With Rice",
+  "slug": "german-style-lean-meatballs-creamy-caper-sauce-with-rice",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 24
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/1524_German-Style-Meatballs-In-Creamy-Caper-Sauce-With-Rice_003_0-1741962355772-1742569521955-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "White basmati rice (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "White basmati rice (65g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Cornish clotted cream (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
+    },
+    {
+      "name": "Panko breadcrumbs (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
+    },
+    {
+      "name": "Capers (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Dijon mustard (18g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Spring greens (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/150g-spring-greens-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Peel and grate your <strong>brown</strong> <strong>onion[s]</strong></p><p>Add the <strong>grated onion</strong>,<strong> mince</strong>,<strong> panko breadcrumbs</strong>, <strong>Dijon mustard</strong>, <strong>soy sauce</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong> to a large bowl</p><p>Massage thoroughly, with clean hands, until fully combined, then divide the mixture and roll into 5 meatballs per person</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-60-1742301448201-x200.jpeg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add your <strong>basmati rice </strong>and 300ml<span class=\"text-purple\"> [390ml]</span> <span class=\"text-danger\">[600ml]</span><strong> cold water</strong> to a pot with a lid and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 10-12 min or until all the water has absorbed and the rice is cooked</p><p>Once cooked, remove from the heat and keep covered until serving</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-54-1742301454725-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, boil half a kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a matching lid, with a large knob of <strong>butter</strong> over a medium-high heat</p><p>Once hot, add the <strong>meatballs</strong> to the pan and cook for 9-10 min, turning occasionally, until they are browned (they don't need to be fully cooked through yet!)</p><p>Meanwhile, dissolve your<strong> chicken stock mix</strong> in 200ml <span class=\"text-purple\">[300ml]</span> <span class=\"text-danger\">[400ml]</span> <strong>boiled water</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-61-1742301461393-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once browned, transfer the <strong>meatballs</strong> to a plate</p><p>Return the pan to a medium heat, add 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>flour</strong> and stir until a sandy paste forms (if your pan is looking dry add a small knob of butter)</p><p>Whisk the <strong>chicken</strong> <strong>stock</strong> into the flour</p><p>Cook for 2-3 min or until it has thickened slightly</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-58-1742301464409-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once thickened, add your <strong>capers</strong> and <strong>clotted cream</strong> to the sauce</p><p>Return the <strong>meatballs</strong> to the pan</p><p>Reduce the heat to medium-low and cook, covered, for 4-5 min further until the meatballs are cooked through (no pink meat!) and the sauce has thickened to a gravy-like consistency – this is your <strong>German-style meatballs & creamy caper sauce</strong></p><p>Slice your<strong> lemon[s]</strong> into wedges</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-56-1742301468874-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Remove the <strong>German-style</strong> <strong>meatballs & creamy caper sauce</strong> from the heat and add a squeeze of<strong> lemon juice</strong></p><p>Chop your <strong>parsley</strong> roughly, discarding the stems</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-54-1742301471709-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Wash your <strong>spring greens</strong> then pat it dry with kitchen paper, rip the leaves off, discard the tough stalks, then layer the leaves over each other, roll them up and slice into thin strips</p><p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the<strong> sliced spring greens </strong>and <strong>chopped garlic</strong>, then cook for 3-4 min or until tender with a bite</p><p>Season with a pinch of<strong> salt</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Frying-spring-greens-1742804717726-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>spring greens</strong> and<strong> basmati rice</strong> with the <strong>German-style meatballs & creamy caper sauce</strong> to the side</p><p>Garnish with the<strong> chopped parsley</strong> and a <strong>lemon wedge</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 626,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Flour",
+    "Pepper",
+    "Salt",
+    "Water",
+    "Vegetable oil"
+  ]
+}

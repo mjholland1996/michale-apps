@@ -1,0 +1,133 @@
+{
+  "uid": "bltfd60644176ca0fb7",
+  "title": "Chilli Paneer Masala With Brown Rice & Extra Chicken",
+  "slug": "chilli-paneer-masala-with-brown-rice-extra-chicken",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 8
+  },
+  "prepTimes": {
+    "for2": 10,
+    "for4": 10
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/1750-2_Chilli-Paneer-Masala-With-Brown-Rice--Naan_001_0-1690464929283-1729510090033-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Curry powder (0.5tbsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Paneer (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
+    },
+    {
+      "name": "Curry powder (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Cayenne pepper (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg"
+    },
+    {
+      "name": "British chicken breast portion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
+    },
+    {
+      "name": "Natural yoghurt (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg"
+    },
+    {
+      "name": "Mini garlic & coriander naans (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
+    },
+    {
+      "name": "Cooked brown long grain rice (280g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Tomato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Spinach (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Take your <strong>chicken </strong>out of the fridge, open the packet and let it air</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1728916991546-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p><strong>Now, let's get started!</strong></p><p>Heat a large, wide-based pan (preferably non-stick with a matching lid), over a medium-high heat</p><p>Once hot, add your <strong>chicken breast portion</strong> and cook for 3 min on each side or until golden, then add a couple of splashes of <strong>water</strong> to the pan and cook, covered, for 10-12 min or until the chicken is cooked through (no pink meat!)</p><p>Meanwhile, chop your <strong>tomato[es]</strong> into wedges</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1730289430244-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Heat a separate large, wide-based pan (preferably non-stick with a matching lid) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat, then chop your <strong>paneer </strong>into bite-sized pieces and add to the pan, then cook for 3-5 min, turning once halfway until beginning to turn golden</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1730289433802-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Squeeze your pouch[es] of <strong>cooked brown long grain rice</strong> to separate the grains</p><p>Tear the top corner of the pouch[es] (just a little!) and <strong>microwave </strong>for 2 min or until piping hot</p><p>Tip: If you're cooking two or more pouches, pop them in together but increase the microwave cook time accordingly!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1730289443259-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add your <strong>garlic & coriander naan[s] </strong>to a <strong>toaster </strong>for 1-2 min or until warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1730289438542-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add your <strong>curry powder</strong> and <strong>cayenne pepper</strong> (can't handle the heat? Go easy!) to the pan with the paneer and cook for 10 secs</p><p>Add your <strong>tomato paste</strong> and<strong> tomato wedges </strong>and cook for 1 min further, stirring until fully combined</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1728917104638-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Wash your<strong> spinach</strong>, then add it to the pan with a small splash of <strong>cold water</strong> and cook, covered, for 1-2 min or until wilted</p><p>Once wilted, remove the pan from the heat and stir your <strong>natural yoghurt</strong> through the sauce – this is your <strong>chilli paneer masala</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1728917108354-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Once done, transfer the <strong>cooked chicken </strong>to a clean board and slice</p><p>Serve the <strong>chilli paneer masala </strong>with the<strong> brown rice</strong> and a <strong>warmed garlic & coriander naan</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 755,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil"
+  ]
+}

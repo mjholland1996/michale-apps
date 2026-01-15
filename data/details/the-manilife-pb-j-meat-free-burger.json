@@ -1,0 +1,151 @@
+{
+  "uid": "blt1289b97f46c129bc",
+  "title": "The ManiLife PB&J Meat-Free Burger",
+  "slug": "the-manilife-pb-j-meat-free-burger",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 3731
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/3380---The-PB--J-Vegan-Burger-With-Potato-Wedges-copy-1620645112799-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Cheese flavour slices (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-Cheese-Slice-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (2tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Brioche style buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
+    },
+    {
+      "name": "Shallot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "Ultimate vegan burger patties (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
+    },
+    {
+      "name": "Red chilli relish (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-jam-x200.jpg"
+    },
+    {
+      "name": "Gem lettuce",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
+    },
+    {
+      "name": "Gem lettuces (2pcs) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "Smooth peanut butter (26g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Cut the <strong>potatoes</strong> (skins on) into wedges</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1619779797590-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add the<strong> potato wedges</strong> to a baking tray with a drizzle of <strong>vegetable oil</strong>, a pinch of <strong>salt</strong> and <strong>pepper</strong> and the <strong>ground smoked paprika</strong> and give everything a good mix up</p><p>Put the tray in the oven and cook for 25-30 min or until the wedges are golden and crispy – these are your <strong>smoky wedges</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1619779873528-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the wedges are in the oven, peel and finely slice the <strong>shallot<span class=\"text-danger\">[s]</span></strong> into rings</p><p>Add the <strong>sliced shallot</strong> to a bowl with the <strong>red wine vinegar </strong>and a pinch of <strong>sugar</strong> and <strong>salt</strong></p><p>Set aside to pickle – these are your <strong>pickled shallots</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1619779901740-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Wash the<strong> lettuce</strong>, separate the <strong>leaves </strong>and set aside for serving then pat it dry with<strong> </strong>kitchen paper</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1648481785585-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Line a separate baking tray with <strong>baking paper</strong></p><p>Add the <strong>ultimate vegan burger patties</strong> to the lined tray and put the tray in the oven for 10-12 min or until cooked through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1619779951790-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Meanwhile, slice the <strong>plant-based brioche buns </strong>in half (if required!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1619779961042-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the patties are cooked through, remove the tray from the oven and top each patty with a <strong>cheese flavour slice</strong></p><p>Add the<strong> brioche halves</strong> to the other side of the tray</p><p>Return the tray to the oven for 3-4 min or until the cheese has melted and the brioche is warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1619779991045-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Drain the <strong>pickled shallots</strong></p><p>Spread each <strong>brioche base</strong> with the <strong>mayo </strong>and each <strong>brioche lid</strong> with the<strong> chilli jam</strong></p><p>Build your meat-free burger by topping the base with the <strong>pickled shallots</strong>, some<strong> lettuce leaves</strong>,<strong> </strong>a <strong>cheesy patty</strong>, some<strong> peanut butter </strong>and finish with the lid</p><p>Serve with the <strong>smoky wedges</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 774,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Salt",
+    "Pepper",
+    "Sugar"
+  ]
+}

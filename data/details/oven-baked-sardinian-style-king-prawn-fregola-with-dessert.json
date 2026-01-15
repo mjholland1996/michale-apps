@@ -1,0 +1,138 @@
+{
+  "uid": "blt2ca847ea55580c86",
+  "title": "Oven Baked Sardinian-Style King Prawn Fregola With Dessert",
+  "slug": "oven-baked-sardinian-style-king-prawn-fregola-with-dessert",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 9
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-7850-2-Oven-Baked-Sardinian-Style-Gamberi-Con-Fregola-1747133521251-1748515241998-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Finely chopped tomatoes (390g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Intense vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Raw peeled king prawns (85g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Gu Tiramisu 2x80g (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Gu-Tirimasu-x200.jpg"
+    },
+    {
+      "name": "Raw peeled king prawns (171g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg"
+    },
+    {
+      "name": "Balsamic sun-dried tomato paste (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Giant couscous (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/giant-couscous-2-x200.jpg"
+    },
+    {
+      "name": "Red pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
+    },
+    {
+      "name": "Rocket (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p><strong>Before you begin...</strong></p><p>This recipe takes around 5-10 min to prep, so get your casserole dish and all your ingredients ready, then wash your fruit and veg</p><p>Note: Make sure your dish is oven-proof and safe to use on the hob. Don't have one? Start cooking in a large, wide-based pan then transfer to an oven-proof dish and cover tightly with foil</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1748417555744-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p><strong>Now let's get started!</strong></p><p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7 and boil a kettle</p><p>Heat a <strong>hob-safe oven-proof casserole dish </strong>with a drizzle of <strong>olive oil</strong> over a high heat</p><p>Once hot, add your <strong>giant couscous</strong> and cook for 1-2 min or until lightly toasted</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1748417558983-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, deseed your <strong>pepper[s]</strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Peel and thinly slice (don't chop!) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1748417565313-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once the giant couscous is lightly toasted, add the <strong>sliced pepper</strong> and <strong>garlic</strong> to the dish and cook for 30 secs or until fragrant</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1748417569283-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once fragrant, add your <strong>chopped tomatoes, vegetable stock mix </strong>and 500ml <span class=\"text-purple\">[650ml]</span> <span class=\"text-danger\">[850ml]</span> <strong>boiled water </strong>with a generous pinch of <strong>pepper</strong> and <strong>sugar</strong></p><p>Give everything a good mix up and put in the oven, uncovered for 20 min, stirring halfway, or until the giant couscous is tender</p><p>Wash your <strong>salad</strong> and pat it dry with kitchen paper</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1748417574580-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Use this time to clear up, set the table, have a cup of tea or simply chill!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1748417578784-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the couscous is tender, remove from the oven, drain your <strong>king prawns </strong>and add them to the dish with a knob of <strong>butter</strong> and a pinch of <strong>salt</strong> and stir it all together, cover with a lid and return the dish to the oven for a final 6 min or until the<strong> </strong>prawns are cooked through – this is your <strong>oven baked Sardinian-style king prawn fregola</strong></p><p>Once the prawns are cooked, remove from the oven and leave to stand for 2 min before serving (this helps the flavours to develop)</p><p>Tip: Add a splash of water if the mixture is looking a little dry</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1748417581993-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>To serve, drizzle your <strong>balsamic sun-dried tomato paste</strong> over the<strong> oven baked Sardinian-style king prawn fregola</strong></p><p>Garnish with the <strong>salad</strong>, a drizzle of <strong>olive oil</strong> and a generous pinch of <strong>pepper</strong></p><p>Dig in!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 671,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Water",
+    "Sugar",
+    "Pepper",
+    "Salt",
+    "Butter",
+    "Olive oil"
+  ]
+}

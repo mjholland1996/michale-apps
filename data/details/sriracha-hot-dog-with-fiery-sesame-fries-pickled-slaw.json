@@ -1,0 +1,141 @@
+{
+  "uid": "bltcb8177c155bdd8ba",
+  "title": "Sriracha Hot Dog With Fiery Sesame Fries And Pickled Slaw",
+  "slug": "sriracha-hot-dog-with-fiery-sesame-fries-pickled-slaw",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 5054
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-5334-2-Sriracha-Hot-Dog-With-Fiery-Sesame-Fries--Pickled-Slaw-0200-1675159027978-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Carrot, mooli & pink cabbage slaw mix (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mooli-Slaw-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Rice vinegar (15ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Toasted sesame seeds (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x200.jpg"
+    },
+    {
+      "name": "Rice vinegar (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
+    },
+    {
+      "name": "Brioche style hot dog buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hot-dog-buns-x200.jpg"
+    },
+    {
+      "name": "Pork sausage (100g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
+    },
+    {
+      "name": "Sriracha hot chilli sauce (8ml) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
+    },
+    {
+      "name": "Pork sausage (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
+    },
+    {
+      "name": "Crispy onions (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg"
+    },
+    {
+      "name": "Spring onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes </strong>(skins on) into thin chips</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1674557179121-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add the <strong>chips</strong> to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong>, <strong>half</strong> your <strong>sriracha </strong>(can't handle the heat? Go easy!) and a small pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for 20-25 min or until golden and crisp</p><p>Once golden, remove the tray[s] from the oven and sprinkle over your <strong>toasted sesame seeds</strong> – these are your <strong>fiery sesame fries</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1674557188740-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, add your <strong>mooli slaw mix</strong> and <strong>rice vinegar</strong> to a bowl with a small pinch of <strong>salt</strong> and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp] </span><strong>sugar</strong></p><p>Give everything a good mix up and set aside – this is your <strong>quick-pickled mooli slaw</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1674557193123-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Trim, then slice your <strong>spring onion[s]</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1674557199170-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil </strong>over a medium-high heat</p><p>Once hot, add your <strong>hot dog sausage[s] </strong>and cook for 15-17 min, turning frequently until browned all over and cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1674557203898-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>While the sausage[s] is cooking, combine your <strong>mayo </strong>and <strong>remaining</strong> <strong>sriracha </strong>(not a fan of spice? Just add a little!) in a small bowl<strong> </strong>and give everything a good mix up – this is your <strong>sriracha mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1674557209667-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Cut a slit into the top of your<strong> hot dog bun[s]</strong></p><p>Add the <strong>cut</strong> <strong>hot dog bun[s]</strong> to a separate baking tray (or two!) and put the tray[s] in the oven for 2-3 min or until warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1674557226882-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Fill the<strong> hot dog bun </strong>with a <strong>hot dog</strong>, then top with your <strong>crispy onions </strong>and some of the <strong>quick-pickled mooli slaw</strong> and <strong>sriracha mayo</strong></p><p>Serve the <strong>remaining</strong> <strong>quick-pickled mooli slaw </strong>and <strong>fiery sesame fries</strong> to the side</p><p>Drizzle the fries with any <strong>remaining sriracha mayo</strong> and top with the <strong>sliced spring onion</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 819,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Pepper",
+    "Salt",
+    "Sugar",
+    "Vegetable oil"
+  ]
+}

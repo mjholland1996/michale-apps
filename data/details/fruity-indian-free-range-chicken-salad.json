@@ -1,0 +1,157 @@
+{
+  "uid": "blta93f9e270b32728d",
+  "title": "Fruity Indian-Style Free Range Chicken Salad",
+  "slug": "fruity-indian-free-range-chicken-salad",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 32
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 25
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/1065---Fruity-Indian-Chicken-Salad1006-1605548485355-1709023037662-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Curry powder (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Nigella seeds (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg"
+    },
+    {
+      "name": "Sultanas (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (0.5tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Mini garlic & coriander naans (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
+    },
+    {
+      "name": "Baby leaf salad (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
+    },
+    {
+      "name": "Red pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
+    },
+    {
+      "name": "White basmati rice (100g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "White basmati rice (50g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Mango chutney (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Carrot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
+    },
+    {
+      "name": "Lime",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
+    },
+    {
+      "name": "British free range chicken breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6, then take your <strong>chicken </strong>out of the fridge, open the packet and let it air</p><p>Add your <strong>basmati rice</strong>,<strong> ground turmeric</strong>, <strong>sultanas</strong>, a generous pinch of <strong>salt</strong> and 250ml <span class=\"text-purple\">[325ml]</span><span class=\"text-danger\"> [500ml]</span> <strong>cold water</strong> to a pot with a lid and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 10-12 min or until all the water has absorbed and the rice is cooked</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-1-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, deseed your<strong> pepper[s]</strong> (scrape the seeds and pith out with a teaspoon) and cut into thin strips</p><p>Peel your <strong>carrot[s]</strong>, then continue to peel lengths until you end up with a pile of <strong>carrot ribbons</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-2-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Combine your <strong>mayo</strong> with the juice of <strong>half</strong> your <strong>lime[s]</strong> and 2 tbsp <span class=\"text-purple\">[3 tbsp]</span><span class=\"text-danger\"> [4 tbsp]</span> <strong>olive oil</strong></p><p>Season with a pinch of <strong>salt</strong> and <strong>pepper</strong> – this is your <strong>lime dressing</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-3-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Chop your <strong>free range</strong> <strong>chicken breast portion[s]</strong> into bite-sized pieces</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a high heat</p><p>Once hot, add the <strong>chopped chicken</strong>,<strong> curry powder</strong> and a generous pinch of <strong>salt</strong> and cook for 10-12 min or until the chicken is cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-4-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Meanwhile, tear your <strong>garlic & coriander naan[s]</strong> into bite-sized pieces and add to a baking tray (or two!) with a drizzle of <strong>olive oil</strong></p><p>Put the tray[s] in the oven and cook for 4-5 min or until golden and crispy – these are your <strong>naan croutons</strong></p><p>Cut the <strong>remaining</strong> <strong>lime</strong> into wedges</p><p>Wash your <strong>salad</strong>, then pat it dry with kitchen paper</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-5-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once cooked, remove the chicken pan from the heat, then add your<strong> mango chutney</strong> and <strong>nigella seeds</strong> and give everything a good mix up – this is your <strong>mango glazed chicken</strong></p><p>Add the <strong>cooked basmati rice</strong> to a sieve and run it under <strong>cold running water</strong> until cool</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-6-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Add the<strong> salad</strong>,<strong> cooled basmati rice, carrot ribbons</strong>,<strong> pepper strips </strong>and<strong> naan croutons</strong> to a large bowl and give everything a good mix up</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1065.-step-7-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>salad</strong> in a bowl, top with the<strong> mango glazed free range chicken</strong> and drizzle the <strong>lime dressing</strong> all over – this is your <strong>fruity indian-style free range chicken salad</strong></p><p>Garnish with a<strong> lime wedge</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 691,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Pepper",
+    "Salt",
+    "Olive oil",
+    "Water"
+  ]
+}

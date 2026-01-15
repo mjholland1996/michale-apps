@@ -1,0 +1,167 @@
+{
+  "uid": "blt0da01d9492a51751",
+  "title": "Chicken, Date & Tamarind Curry With Brown Rice",
+  "slug": "chicken-date-tamarind-curry-with-brown-rice",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 2674
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2942---Chicken-Date--Tamarind-Curry-With-Brown-Rice0379-1592820833540-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Chicken breast strips (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
+    },
+    {
+      "name": "Chicken breast strips (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (0.5tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Curry powder (2tbsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Curry powder (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Fresh root ginger (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
+    },
+    {
+      "name": "Brown long grain rice (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Chopped dates (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-bag-of-chopped-dates-30g-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "Tamarind paste (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tamarind-paste-x200.jpg"
+    },
+    {
+      "name": "Solid creamed coconut (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Before you start cooking, take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Boil a kettle</p><p>Peel and slice your <strong>red onion[s]</strong> finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1599839851092-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick with a matching lid) with a knob of <strong>butter</strong> over a medium-low heat</p><p>Once melted, add most of the <strong>sliced onion</strong> (you'll use the rest later!) with a pinch of <strong>salt</strong> and cook for 8-10 min or until softened and caramelised</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1599839855062-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the onion is cooking, rinse your <strong>brown rice </strong>and add it<strong> </strong>to a pot with plenty of <strong>cold water</strong> and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook for 20-25 min or until it's tender with a slight bite</p><p>Once cooked, drain and return it to the pot with a knob of <strong>butter</strong> and keep covered until serving</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1599839868208-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Whilst the rice is cooking, peel (scrape the skin off with a teaspoon) and finely chop (or grate) your <strong>ginger</strong></p><p>Chop your <strong>creamed coconut </strong>roughly (if required!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1599839877932-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Combine your <strong>chopped dates</strong>, <strong>tamarind paste</strong>, <strong>chicken stock mix</strong> and <strong>chopped creamed coconut</strong> with 400ml <span class=\"text-purple\">[600ml]</span> <span class=\"text-danger\">[800ml]</span> <strong>boiled water</strong> – this is your <strong>date & tamarind stock</strong></p><p>Chop your <strong>coriander</strong> finely (including the stalks), then dice your <strong>tomato[es] </strong>and <strong>cucumber</strong> and set everything aside for later</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1599839887365-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add the <strong>chopped</strong> <strong>ginger</strong>, <strong>ground</strong> <strong>turmeric</strong>,<strong> curry powder</strong> and a generous grind of <strong>black pepper</strong> to the softened onion and cook for 30 secs</p><p>Add the <strong>date & tamarind stock</strong> and give everything a good mix up, then add your <strong>chicken</strong> and increase the heat to high</p><p>Cook, covered, for 13-15 min or until the chicken is cooked through (no pink meat!) and the sauce has reduced to a curry-like consistency</p><p>(Doubled your protein? Use 2 pans!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1599839895371-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Combine the <strong>diced</strong> <strong>tomato</strong>, <strong>diced cucumber </strong>and <strong>remaining onion</strong> with a pinch of <strong>salt</strong> and drizzle of <strong>olive oil </strong>in a large bowl, then add the <strong>chopped</strong> <strong>coriander</strong> just before serving – this is your<strong> Indian-style salad</strong></p><p>Remove the pan from the heat and shred the<strong> cooked chicken</strong> apart in the pan using two forks – this technique is known as ‘pulling’</p><p>Give everything a good mix up – this is your <strong>chicken, date & tamarind curry</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1599839905627-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>chicken, date & tamarind curry</strong> over the <strong>brown rice</strong> with the <strong>Indian-style salad</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 571,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Water"
+  ]
+}

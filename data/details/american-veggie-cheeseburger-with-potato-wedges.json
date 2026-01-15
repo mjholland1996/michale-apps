@@ -1,0 +1,146 @@
+{
+  "uid": "blt27c33316f083ac20",
+  "title": "American-Style Veggie Cheeseburger With Wedges",
+  "slug": "american-veggie-cheeseburger-with-potato-wedges",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 2178
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/3366_veggieAmerican-Style-Cheeseburger-With-Potato-Wedges0111-1702291212013-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Tomato ketchup (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Tomato ketchup (15ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (50ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Mustard ketchup (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mustard-ketchup-x200.jpg"
+    },
+    {
+      "name": "Cheddar cheese (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "Brioche style buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "Ultimate vegan burger patties (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
+    },
+    {
+      "name": "Crispy onions (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Yellow mustard seeds (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Yellow-mustard-seeds-2-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (15ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 7</p><p>Boil half a kettle</p><p>Cut your <strong>potatoes</strong> (skins on) into wedges, then add them to a large baking tray (or two!) with a drizzle of<strong> vegetable oil</strong> and a pinch of <strong>salt</strong> and give everything a good mix up</p><p>Put the tray[s] in the oven for 25-30 min or until the wedges are golden and starting to crisp – these are your <strong>potato wedges</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1631018935866-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>While the wedges are cooking, slice your <strong>cucumber</strong> in half lengthways, then slice the halves into wedges</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1631018951371-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Add the <strong>red wine vinegar</strong>, <strong>mustard seeds</strong>, 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>sugar</strong>, a splash of <strong>boiled water </strong>and a pinch of <strong>salt</strong> to a bowl and stir until dissolved</p><p>Add the<strong> cucumber wedges </strong>to the bowl and give everything a good mix up, then set aside – these are your <strong>quick-pickled cucumber wedges</strong></p><p>Tip: Give the cucumber the occasional shake while pickling!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1631018981270-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Line a separate baking tray with <strong>tin foil</strong></p><p>Add your <strong>meat-free patties</strong> to one side of the tray (or two!) and put the tray in the oven for 10-12 min or until cooked through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1631018988305-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Meanwhile, grate your <strong>cheddar cheese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1631018996167-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Combine your <strong>mayo</strong>, <strong>ketchup</strong> and <strong>mustard ketchup</strong> in a bowl – this is your <strong>special sauce</strong></p><p>Slice your <strong>brioche buns </strong>in half (if required!)</p><p>Drain the <strong>quick-pickled</strong> <strong>cucumber wedges </strong>and discard the liquid</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1631019016825-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the meat-free patties have cooked through, remove the tray[s] from the oven and add the<strong> brioche halves</strong> to the other side of the tray</p><p>Top the meat-free patties with the <strong>grated cheese </strong>and return the tray[s]<span class=\"text-danger\"> </span>to the oven for 3-4 min or until the brioche buns are warmed through and the cheese has melted – these are your<strong> cheesy veggie patties</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1631019022486-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>To assemble, spread the <strong>special sauce</strong> onto each <strong>warmed brioche base</strong>, then top with a<strong> cheesy veggie patty</strong>, a sprinkling of <strong>crispy onions</strong> and a <strong>warmed brioche lid</strong> – these are your <strong>American-style veggie cheeseburgers</strong></p><p>Serve the <strong>potato wedges </strong>and<strong> quick-pickled cucumber wedges</strong> to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 942,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Salt",
+    "Sugar",
+    "Vegetable oil",
+    "Water"
+  ]
+}

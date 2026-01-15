@@ -1,0 +1,171 @@
+{
+  "uid": "blt36c3b26c54950263",
+  "title": "Curried Jumbo Prawn Sandwich With Onion Bhaji & Chips",
+  "slug": "curried-prawn-sandwich-with-onion-bhaji-radish-salad",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1250
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/4377---Curried-Prawn-Sandwich-With-Onion-Bhaji--Radish-Salad16839-1653411216752-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Rice vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
+    },
+    {
+      "name": "Cumin seeds (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x200.jpg"
+    },
+    {
+      "name": "Jumbo king prawns (212g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
+    },
+    {
+      "name": "Ground turmeric (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "Cornflour (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
+    },
+    {
+      "name": "Curry powder (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Cornflour (1tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
+    },
+    {
+      "name": "Cumin seeds (2tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-cumin-seeds-x200.jpg"
+    },
+    {
+      "name": "Garam masala (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (50ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Jumbo king prawns (106g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
+    },
+    {
+      "name": "Ciabatta x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
+    },
+    {
+      "name": "Mango chutney (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
+    },
+    {
+      "name": "Rice vinegar (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Tomato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Cut your <strong>potatoes</strong> (skins on) into chips, then add to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong> and your <strong>cumin seeds</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for 20-25 min or until golden and crispy – these are your <strong>cumin spiced chips</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1654015812844-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Drain your <strong>jumbo prawns</strong>, then add them to a bowl with your <strong>curry powder</strong> and a drizzle of <strong>vegetable oil</strong> then give everything a good mix up</p><p>Transfer the <strong>coated jumbo prawns</strong> to a <strong>tin foil</strong>-lined tray (or two!) and put the tray[s] in the oven for 8-10 min or until the prawns are cooked through</p><p>Once cooked, set aside to cool</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1654015816221-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, cut your <strong>cucumber</strong> in half lengthways, then slice finely</p><p>Chop your <strong>tomato[es] </strong>roughly</p><p>Add the <strong>sliced cucumber</strong> and <strong>chopped tomato</strong> to a bowl with your <strong>rice vinegar</strong> and a drizzle of <strong>vegetable oil</strong> and mix well – this is your <strong>tomato & cucumber salad</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1654015818723-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once cooled, add the <strong>cooked prawns</strong> to a bowl with your <strong>mayo</strong> and <strong>mango chutney</strong> and mix well – this is your <strong>curried jumbo prawn mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1654015821852-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Peel and finely slice your <strong>brown onion[s]</strong> (as finely as you can!)</p><p>Add 30g <span class=\"text-purple\">[45g]</span> <span class=\"text-danger\">[60g]</span> <strong>flour</strong> to a bowl along with your <strong>cornflour</strong>, <strong>garam masala</strong>, <strong>ground turmeric</strong> and a pinch of <strong>salt</strong></p><p>Add 50ml <span class=\"text-purple\">[75ml]</span><strong> </strong><span class=\"text-danger\">[100ml]</span> <strong>cold water</strong> and mix thoroughly to a smooth, thick batter</p><p>Add the <strong>sliced onion</strong> to the bowl with the batter and mix until all of the onion is coated – this is your <strong>onion bhaji mixture</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1654015826281-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a very generous drizzle of <strong>vegetable oil</strong> (enough to fully coat the bottom of the pan) over a medium-high heat</p><p>Once hot, divide the <strong>onion bhaji mixture</strong> equally into 1 bhaji per person and add to the pan</p><p>Press down with the back of a spoon to flatten into a patty shape</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1654015829282-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Cook for 3-4 min on each side until crispy and golden – this is your <strong>onion bhaji</strong></p><p>Meanwhile, put your <strong>ciabatta[s]</strong> in the oven for 5 min or until it is hot and crusty, carefully slice in half before serving</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1654015832081-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Assemble your sandwich with a little<strong> tomato & cucumber salad </strong>on the <strong>ciabatta base</strong>, then top with the <strong>curried jumbo prawn mayo</strong> and an <strong>onion bhaji </strong>then place the <strong>ciabatta lid</strong> on top</p><p>Serve the <strong>remaining tomato & cucumber salad</strong> and <strong>cumin spiced chips </strong>to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 680,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Flour",
+    "Salt",
+    "Vegetable oil",
+    "Water"
+  ]
+}

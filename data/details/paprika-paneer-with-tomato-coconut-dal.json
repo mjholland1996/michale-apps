@@ -1,0 +1,145 @@
+{
+  "uid": "blt7e47034ad61504e6",
+  "title": "Paprika Paneer With Tomato & Coconut Dal",
+  "slug": "paprika-paneer-with-tomato-coconut-dal",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 3829
+  },
+  "prepTimes": {
+    "for2": 45,
+    "for4": 55
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2864---Paprika-Paneer-With-Tomato--Coconut-Dal0498-1592820563652-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "2 mini garlic & coriander naans",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
+    },
+    {
+      "name": "11g vegetable stock mix",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "200g paneer cheese",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
+    },
+    {
+      "name": "50g solid creamed coconut",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
+    },
+    {
+      "name": "2 tsp ground paprika",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "30ml cider vinegar",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    },
+    {
+      "name": "5g coriander",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "125g baby plum tomatoes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x200.jpg"
+    },
+    {
+      "name": "1 tbsp curry powder",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg"
+    },
+    {
+      "name": "1 tsp ground turmeric",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
+    },
+    {
+      "name": "1 tsp nigella seeds",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg"
+    },
+    {
+      "name": "2 garlic cloves",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "100g red lentils",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x200.jpg"
+    },
+    {
+      "name": "1 brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6</p><p>Tip: This is just to warm your naans (alternatively, just pop them in the toaster)</p><p>Boil a kettle</p><p>Peel and finely slice <strong>brown</strong> <strong>onion<span class=\"text-danger\">[s]</span></strong></p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1602579566579-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced onion</strong> with a pinch of <strong>salt</strong> and cook for 5-7 min or until starting to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1602579597047-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, chop the <strong>creamed coconut</strong> roughly (if required!)</p><p>Dissolve the<strong> vegetable stock mix</strong>,<strong> chopped creamed coconut </strong>and a large pinch of <strong>sugar</strong> in 750ml <span class=\"text-danger\">[1.3L]</span> <strong>boiled water </strong>– this is your <strong>coconut stock</strong></p><p>Once the onion has softened, add the <strong>ground turmeric</strong>, <strong>curry powder</strong> and <strong>chopped garlic</strong> and cook for 1-2 min further or until fragrant</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1602579608434-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once fragrant, rinse the <strong>red lentils</strong>, then add them to the pan with the <strong>coconut stock</strong></p><p>Reduce the heat to medium-low and cook for 25-30 min or until the lentils are almost cooked and the sauce has thickened</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1602579695205-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>While the lentils are cooking, chop the <strong>paneer</strong> into small bite-sized pieces</p><p>Add the <strong>chopped paneer</strong> to bowl, then coat with the <strong>ground</strong> <strong>paprika</strong>, <strong>nigella seeds</strong>, a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and give everything a good mix up</p><p>Chop the <strong>coriander</strong> finely, including the stalks</p><p>Chop the <strong>baby plum tomatoes</strong> in half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1602579701897-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add the<strong> halved tomatoes</strong> to the pan and cook for 5-7 min further or until the tomatoes have softened and the lentils are fully cooked</p><p>Stir most of the <strong>chopped coriander</strong> (save some for garnish!) through the lentils – this is your <strong>tomato & coconut dal</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1602579713266-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Heat a separate large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>coated</strong> <strong>paneer</strong> and cook for 4-5 min</p><p>Add the <strong>cider vinegar</strong> and cook for further 1-2 min or until the paneer is golden – this is your <strong>paprika paneer</strong></p><p>Meanwhile, add the <strong>mini garlic & coriander naans</strong> to a baking tray and put the tray in the oven for 3-4 min or until warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1602579720318-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>paprika paneer</strong> over the <strong>tomato & coconut dal </strong>with the <strong>warmed mini garlic & coriander naans</strong> to the side</p><p>Garnish with the <strong>remaining</strong> <strong>chopped</strong> <strong>coriander</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 783,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Salt",
+    "Sugar",
+    "Vegetable oil"
+  ]
+}

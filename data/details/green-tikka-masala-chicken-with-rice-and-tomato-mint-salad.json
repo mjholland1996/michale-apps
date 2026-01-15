@@ -1,0 +1,161 @@
+{
+  "uid": "bltb489308c65c9c800",
+  "title": "Green Tikka Masala Chicken Thigh With Rice And Tomato & Mint Salad",
+  "slug": "green-tikka-masala-chicken-with-rice-and-tomato-mint-salad",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1367
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 25
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/7273---Green-Tikka-Masala-Chicken-With-Rice-And-Tomato--Mint-Salad3356-1765548472384-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Diced chicken thigh (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "White long grain rice (65g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Garam masala (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Tomato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "White long grain rice (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Natural yoghurt (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg"
+    },
+    {
+      "name": "Mango chutney (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Spinach (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
+    },
+    {
+      "name": "Green chilli",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
+    },
+    {
+      "name": "Coriander & mint (10g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/coriander-and-mint-mix-x200.jpg"
+    },
+    {
+      "name": "Solid creamed coconut (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Before you start cooking, take your <strong>chicken</strong> out of the fridge, open the packet and let it air</p><p>Add your <strong>white long grain rice</strong> to a pot with a lid with 225ml <span class=\"text-purple\">[300ml] </span><span class=\"text-danger\">[450ml] </span><strong>cold water</strong> and bring to the boil over a high heat, once boiling, reduce the heat to very low and cook, covered, for 12-15 min or until all the water has absorbed and the rice is cooked</p><p>Once done, remove from the heat and set aside (lid on) to steam until serving</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1732545455756-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) over a high heat with a drizzle of <strong>olive oil</strong></p><p>Once hot, add your <strong>diced chicken</strong> and cook for 3-4 min or until starting to brown</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1732545458848-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the chicken is cooking, boil a kettle</p><p>Crush your <strong>garlic</strong> open by squashing it with the side of a knife and discard the skin</p><p>Slice <strong>half</strong> your <strong>green</strong> <strong>chilli[es]</strong> finely into rounds and set aside for a garnish</p><p>Strip your <strong>mint leaves</strong> from their stems</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1732545463624-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Wash your <strong>spinach</strong> then add to a colander and pour <strong>boiled water</strong> all over it so that it starts to wilt</p><p>Rinse the <strong>wilted spinach</strong> under <strong>cold running water</strong> until it's cool</p><p>Once cool, squeeze as much water out of the spinach as you can</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1732545466740-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Reboil half a kettle</p><p>Transfer the <strong>blanched spinach</strong> to a <strong>food processor</strong> with the <strong>peeled garlic</strong>, your <strong>coriander</strong>,<strong> half </strong>the <strong>mint leaves </strong>(you'll use the rest later!) and the <strong>remaining chilli </strong>(can't handle the heat? Go easy?)</p><p>Add your <strong>curry powder</strong>, <strong>garam masala </strong>and <strong>creamed coconut </strong>with a generous drizzle of<strong> olive oil </strong>and a generous pinch of <strong>salt </strong>and <strong>pepper</strong></p><p>Blitz until smooth – this is your <strong>green tikka paste</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1732545471085-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the chicken is starting to brown, reduce the heat to medium-high</p><p>Add the <strong>green tikka paste</strong> with your<strong> tomato paste </strong>and cook for 1-2 min or until fragrant</p><p>Once fragrant, add 150ml<span class=\"text-purple\"> [200ml]</span> <span class=\"text-danger\">[250ml]<strong> </strong></span><strong>boiled water </strong>with your <strong>chicken stock mix </strong>and cook for 6-8 min or until the sauce has thickened and the chicken is cooked through (no pink meat!) – this is your <strong>green tikka masala chicken</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1732545474372-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>While the sauce thickens, chop your <strong>tomato[es]</strong> finely</p><p>Combine the <strong>chopped tomato</strong> and a drizzle of <strong>olive oil</strong> in a bowl and season with <strong>salt</strong> and <strong>pepper</strong></p><p>Tear the <strong>remaining mint leaves</strong> into the bowl and give everything a good mix up – this is your <strong>tomato & mint salad</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1732545477104-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>green tikka masala chicken </strong>with the <strong>cooked rice </strong>and <strong>tomato & mint salad </strong>to the side</p><p>Drizzle over your <strong>natural yoghurt </strong>and<strong> mango chutney</strong></p><p>Garnish with the <strong>sliced green chilli </strong>(not a fan of spice? Just add a little!)</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 644,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Water",
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

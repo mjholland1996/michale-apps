@@ -1,0 +1,137 @@
+{
+  "uid": "blt22f1780e7b000b62",
+  "title": "Crispy Prawn Tacos With Coriander Mayo",
+  "slug": "crispy-prawn-tacos-with-coriander-mayo",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 2171
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/773---Crispy-Prawn-Tacos-With-Coriander-Mayo-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "1 little gem lettuce",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
+    },
+    {
+      "name": "1 tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "180g raw peeled king prawns",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/king-prawns-x200.jpg"
+    },
+    {
+      "name": "1 British free range egg",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
+    },
+    {
+      "name": "1/2 tsp spicy cayenne pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg"
+    },
+    {
+      "name": "1/2 tsp fiery chilli flakes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
+    },
+    {
+      "name": "60g panko breadrcrumbs",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Panko-breadcrumbs-2_edit-x200.jpg"
+    },
+    {
+      "name": "20g fresh coriander",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "6 white tortilla wraps",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/white-wraps-x200.jpg"
+    },
+    {
+      "name": "1 shallot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
+    },
+    {
+      "name": "2 mayonnaise sachets (52ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mayonnaise-sachet-2-x200.jpg"
+    },
+    {
+      "name": "1 lime ",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ 400°F/ Gas 6 </p>\n<p>Peel and finely dice the <strong>shallot</strong><span class=\"text-danger\"><strong>[s]</strong></span></p>\n<p>Dice the <strong>tomato</strong><span class=\"text-danger\"><strong>[es]</strong></span> finely</p>\n<p>Chop the <strong>coriander </strong>finely,<strong> </strong>including the stalks</p>\n<p>Shred the <strong>little gem lettuce</strong> </p>\n<p> </p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-1-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Combine the <strong>diced shallot</strong>,<strong> tomato</strong>, <strong>chilli flakes </strong>(can't handle the heat? Go easy!) and most of the <strong>chopped coriander</strong> in a large bowl and season generously with <strong>salt</strong> and <strong>pepper</strong></p>\n<p>Halve the <strong>lime<span class=\"text-danger\">[s]</span></strong>,<strong><span class=\"text-danger\"> </span></strong>squeeze in half the <strong>lime juice</strong> and give everything a good mix up – this is your <strong>tomato salsa</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-2-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Add the remaining <strong>chopped coriander</strong> to a <strong>pestle &amp; mortar</strong> (alternatively, use a food processor) with a drizzle of <strong>olive oil</strong></p>\n<p>Bash the coriander and oil together, then add 1 tbsp <span class=\"text-danger\">[2 tbsp]</span> <strong>lime juice</strong> and season with <strong>salt</strong> and <strong>pepper</strong> until it forms a smooth paste – this is your <strong>lime paste</strong></p>\n<p> </p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-3-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>In a separate bowl, mix the <strong>lime</strong> <strong>paste</strong> with the <strong>mayonnaise</strong></p>\n<p>Add a drizzle of <strong>olive oil</strong> to loosen the mix – this is your <strong>coriander</strong><strong> mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-4-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Crack the <strong>egg</strong><span class=\"text-danger\"><strong>[s]</strong></span> into a shallow bowl and beat with a fork</p>\n<p>Add 3 tbsp<span class=\"text-danger\"> [6 tbsp]</span> <strong>flour</strong> to a plate and season with <strong>salt</strong>, <strong>pepper</strong> and the <strong>cayenne pepper </strong>(can't handle the heat? Go easy!)</p>\n<p>Add the <strong>panko breadcrumbs</strong> to another plate</p>\n<p>Place the <strong>prawns</strong> in the <strong>flour </strong>(tap off any excess), add them to the <strong>egg</strong>, then coat in the <strong>breadcrumbs</strong>, pressing down firmly</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-5-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with 3 tbsp <span class=\"text-danger\">[6 tbsp]</span> <strong>vegetable oil</strong> over a medium heat</p>\n<p>Once hot, add the breaded <strong>prawns</strong> and cook for 1-2 min on each side until the outsides are golden – these are your <strong>crispy prawns</strong></p>\n<p>Tip: you may have to do this in batches</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-6-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Meanwhile, add the <strong>tortillas</strong> to a baking tray and place them in the oven for 2-3 min until warmed through</p>\n<p>Once done, remove from the oven and set aside </p>\n<p> </p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/773.-step-7-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Assemble the tacos like this: <strong>lettuce</strong>, <strong>crispy prawns</strong>, <strong>tomato salsa</strong> and <strong>coriander mayo</strong></p>\n<p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 703,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Flour",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Vegetable oil"
+  ]
+}

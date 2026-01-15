@@ -1,0 +1,136 @@
+{
+  "uid": "blta5bb56ee6945ba69",
+  "title": "Smoky Spanish-Style Chicken With Patatas Bravas ",
+  "slug": "smoky-spanish-chicken-patatas-bravas-aioli",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 68682
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/1107---Smoky-Spanish-Style-Chicken-With-Patatas-Bravas12487-1643735078912-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "50ml mayonnaise",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "1 garlic clove",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "1 red pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
+    },
+    {
+      "name": "1 red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "2 British chicken breast portions",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    },
+    {
+      "name": "16g tomato paste",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "2 tsp ground coriander",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-coriander-x200.jpg"
+    },
+    {
+      "name": "2 tsp smoked paprika",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "1/2 tsp dried chilli flakes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
+    },
+    {
+      "name": "1 yellow pepper",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x200.jpg"
+    },
+    {
+      "name": "1 tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "4 white potatoes",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Before you start cooking, take your<strong> chicken</strong> out of the fridge, open the packet and let it air, then preheat the oven to 220°C/ 200°C (fan)/ gas 6</p><p>Cut the<strong> potatoes</strong> (skins on) into bite-sized cubes, then add them to a baking tray with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Put the tray in the oven for 25-30 min or until the potatoes are golden and crispy – these are your <strong>crispy potatoes</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-1-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Deseed the <strong>peppers</strong> (scrape the seeds and pith out with a teaspoon) and cut them into thick strips</p><p>Peel and roughly slice the <strong>red onion<span class=\"text-danger\">[s]</span></strong></p><p>Add the <strong>pepper strips</strong> and<strong> sliced onion</strong> to a separate baking tray with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong></p><p>Put the tray in the oven for 20 min or until the veg is soft and tender</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-2-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the veg is in the oven, boil half a kettle</p><p>Dice the<strong> tomato<span class=\"text-danger\">[es]</span></strong></p><p>Peel and finely chop (or grate) the <strong>garlic</strong></p><p>Dissolve the <strong>tomato paste</strong> in 100ml <span class=\"text-danger\">[200ml]</span> <strong>boiled water</strong> and add the<strong> chilli flakes</strong> (can't handle the heat? Go easy!) – this is your<strong> spicy tomato stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-3-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>diced tomato</strong> with a pinch of<strong> salt</strong> and <strong>sugar</strong> and cook for 3-4 min or until the tomatoes have broken down</p><p>Add the <strong>spicy tomato stock</strong> to the pan and cook for 3-4 min further or until thickened – this is your <strong>bravas sauce</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-4-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>While the sauce thickens, cut the<strong> chicken breast portions</strong> in half lengthways</p><p>Combine the<strong> ground coriander</strong>, <strong>smoked paprika</strong>, 1 tsp <span class=\"text-danger\">[2 tsp]</span> <strong>sugar</strong> and a generous pinch of <strong>salt</strong> on a plate – this is your <strong>smoky</strong> <strong>spice mix</strong></p><p>Add the<strong> halved chicken breasts</strong> to the <strong>smoky spice mix </strong>and mix until they are fully coated – this is your <strong>coated chicken</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-5-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Heat a separate large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>coated</strong> <strong>chicken</strong> and cook for 4-5 min on each side or until the chicken is slightly blackened on the outside and cooked through (no pink meat!) – this is your <strong>smoky Spanish-style chicken</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-6-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Meanwhile, combine the <strong>mayo</strong>, <strong>chopped garlic</strong>,<strong> </strong>1 tsp <span class=\"text-danger\">[2 tsp]</span><strong> cold water </strong>and a pinch of <strong>salt</strong> in a small bowl – this is your <strong>aioli</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1107.-step-7-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>To serve, top the<strong> roasted veg</strong> with the <strong>smoky Spanish-style chicken </strong>with the <strong>crispy potatoes</strong> to the side</p><p>Spoon the <strong>bravas sauce</strong> over the crispy potatoes – this is your <strong>patatas bravas</strong></p><p>Drizzle the <strong>aioli </strong>all over the patatas bravas</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 552,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Pepper",
+    "Salt",
+    "Sugar",
+    "Vegetable oil"
+  ]
+}

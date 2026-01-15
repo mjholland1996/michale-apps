@@ -1,0 +1,167 @@
+{
+  "uid": "bltec53b0e81624d8af",
+  "title": "Beef Chilli Con Carne, Sweet Potato & Smashed Avocado",
+  "slug": "beef-chilli-con-carne-baked-sweet-potato-smashed-avocado",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1017
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/4351-2_Beef-Chilli-Con-Carne-Baked-Sweet-Potato--Smashed-Avocado_001_0-1676992772622-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Dried chilli flakes (1tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
+    },
+    {
+      "name": "Ground cumin (2tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (390g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (1tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Dried chilli flakes (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
+    },
+    {
+      "name": "Smashed avocado (100g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Smashed-avocado1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Ground cumin (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (2tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Black beans (185g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x200.jpg"
+    },
+    {
+      "name": "Beef mince (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "Beef mince (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Beef stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Lime",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
+    },
+    {
+      "name": "Sweet potato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Pierce your <strong>sweet potato[es] </strong>with a fork, then cook in the <strong>microwave</strong> for 5-7 min or until slightly softened</p><p>Transfer the <strong>softened</strong> <strong>sweet potato</strong> to a baking tray with a drizzle of <strong>vegetable oil</strong> and a generous pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Put the tray in the oven and cook for 12-15 min or until the skin is crispy</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-copy-4-1677771532824-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, peel and finely chop your <strong>red onion[s]</strong></p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Chop your <strong>coriander</strong> finely (including the stalks)</p><p>Boil half a kettle</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-4-1677771536812-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>chopped onion </strong>and cook for 3-4 min or until starting to soften</p><p>Once the onion is starting to soften, add your <strong>mince </strong>to the pan with the <strong>chopped garlic </strong>and cook for 4 min further, or until browned all over, breaking it up with a wooden spoon as you go</p><p>(Doubled your protein? Use to 2 pans!) </p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-4-1677771541359-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, drain and rinse your <strong>black beans</strong></p><p>Dissolve your<strong> beef stock mix</strong> in 200ml <span class=\"text-purple\">[250ml]</span> <span class=\"text-danger\">[300ml]</span> <strong>boiled water</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-4-1677771546595-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once the mince is browned, add your <strong>ground</strong> <strong>cumin</strong>, <strong>ground smoked paprika</strong>,<strong> chilli flakes</strong> (can't handle the heat? Go easy!) and a pinch of <strong>salt</strong> and cook for 1 min</p><p>Add the <strong>drained black beans</strong>, <strong>beef</strong> <strong>stock </strong>and your <strong>chopped tomatoes </strong>and cook over a medium heat for 15-20 min or until the sauce has thickened and the mince is cooked through (no pink meat!) – this is your <strong>chilli con carne</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-copy-4-1677771550532-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Mix the juice of <strong>half</strong> your <strong>lime[s] </strong>with your <strong>smashed avocado</strong></p><p>Cut the <strong>remaining</strong> <strong>lime</strong> into 1 wedge per person</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-4-1677771554482-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once done, remove the <strong>baked</strong> <strong>sweet potato </strong>from the oven and carefully slice in half lengthways</p><p>Add a drizzle of <strong>olive oil </strong>and a pinch of <strong>salt</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-4-1677771558051-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>chilli con carne</strong> over the <strong>halved</strong> <strong>baked sweet potato </strong>and dollop the <strong>smashed avocado</strong> on top</p><p>Garnish with the <strong>chopped coriander</strong>, a <strong>lime wedge</strong> and a grind of<strong> black pepper</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 639,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Pepper",
+    "Salt",
+    "Vegetable oil",
+    "Water",
+    "Olive oil"
+  ]
+}

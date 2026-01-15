@@ -1,0 +1,132 @@
+{
+  "uid": "blt096ac84e3aa80612",
+  "title": "Amalfi-Style Risotto With Jumbo King Prawns",
+  "slug": "amalfi-risotto-with-jumbo-prawns",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 8290
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2082.-Amalfi-style-Jumbo-Prawn--Lemon-Risotto-Cookbook-Page-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Jumbo king prawns (212g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Intense vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Jumbo king prawns (106g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
+    },
+    {
+      "name": "Arborio rice (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg"
+    },
+    {
+      "name": "Italian hard cheese (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Courgette",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg"
+    },
+    {
+      "name": "Rocket (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Boil a kettle</p><p>Peel and finely chop your <strong>brown onion[s]</strong></p><p>Top, tail and grate your <strong>courgette[s]</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-1-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil</strong> and a knob of <strong>butter </strong>over a medium heat</p><p>Tip: Cooking for 3 or more? Use 2 pans!</p><p>Once hot, add the <strong>chopped onion </strong>and <strong>grated courgette </strong>to the pan with a pinch of <strong>salt </strong>and cook for 6-7 min, stirring frequently, until softened</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-2-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Meanwhile, dissolve your <strong>vegetable stock mix </strong>in 750ml <span class=\"text-purple\">[975ml]</span> <span class=\"text-danger\">[1.4L]</span> <strong>boiled water</strong></p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Once the onion and courgette have softened, add the <strong>chopped garlic</strong> and cook for 2-3 min or until fragrant</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-3-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once fragrant, add your <strong>arborio rice</strong> and cook for 1 min to coat the grains in the oil</p><p>Tip: Add a drizzle more oil if your pan is looking a little dry</p><p>Add your <strong>vegetable stock</strong>, a ladle at a time, stirring continuously for 20-25 min or until all the stock is absorbed and the rice is almost cooked with a slight bite</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-4-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once the rice is almost cooked, increase the heat to high and drain your <strong>jumbo prawns</strong>,<strong> </strong>then stir them through the rice and cook for 6-7 min or until cooked through</p><p>Tip: Your prawns are cooked when they have turned opaque</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-5-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Zest your <strong>lemon[s]</strong> (try to grate lightly with a micro-plane or sharp box grater and avoid grating the white pith, as this is very bitter!), then cut the<strong> zested lemon[s] </strong>in half</p><p>Grate your <strong>Italian hard cheese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1725966195339-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the jumbo prawns are cooked, add a squeeze of<strong> lemon juice</strong>, most of the <strong>grated Italian hard cheese </strong>(save some for garnish!) and a knob of <strong>butter</strong> and stir to combine</p><p>Season generously with<strong> pepper </strong>and add the<strong> lemon zest </strong>– this is your <strong>Amalfi-style risotto with jumbo king prawns</strong></p><p>Wash your<strong> salad</strong>, pat them dry with kitchen paper, then dress them lightly in <strong>olive oil</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/2082.-step-7-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve your <strong>Amalfi-style risotto with jumbo king prawns</strong></p><p>Garnish with the<strong> remaining grated Italian hard cheese</strong> and the <strong>dressed salad</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 427,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Water"
+  ]
+}

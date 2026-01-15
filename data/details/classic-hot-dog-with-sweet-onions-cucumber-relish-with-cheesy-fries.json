@@ -1,0 +1,142 @@
+{
+  "uid": "bltea646d35b7a60577",
+  "title": "Classic Hot Dog With Sweet Onions And Cheesy Fries",
+  "slug": "classic-hot-dog-with-sweet-onions-cucumber-relish-with-cheesy-fries",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 10258
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/range-main-image/5135-Classic-Hot-Dog-with-Sweet-Onions-Loaded-Fries-01-1671451007105-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Tomato ketchup (15ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Spring onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
+    },
+    {
+      "name": "Tomato ketchup (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Mustard ketchup (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mustard-ketchup-x200.jpg"
+    },
+    {
+      "name": "Cheddar cheese (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "Brioche style hot dog buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hot-dog-buns-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Pork sausage (100g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
+    },
+    {
+      "name": "Pork sausage (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
+    },
+    {
+      "name": "Crispy onions (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Cider vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes</strong> (skins on) into fries</p><p>Add the <strong>fries</strong> to a <strong>non-stick baking paper</strong>-lined tray (or two!) with a drizzle of <strong>vegetable oil</strong>, a small pinch of <strong>salt</strong> and a good grind of <strong>black</strong> <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for an initial 20-25 min or until golden and crisp</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1672853356998-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add your <strong>cider vinegar </strong>to a plate with a small pinch of<strong> salt </strong>and <strong>sugar</strong> and a good grind of <strong>black pepper </strong>– this is your <strong>quick-pickling liquid</strong></p><p>Cut your <strong>cucumber</strong> into quarters lengthways</p><p>Add 1<span class=\"text-danger\"> </span><strong>cucumber quarter </strong>per person (you'll use the rest later!) to the <strong>quick-pickling liquid </strong>and set aside – these are your <strong>'gherkins'</strong></p><p>Tip: Turn the cucumber every now and then to make sure they pickle evenly!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1672853359695-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Peel and finely slice your <strong>brown onion[s]</strong></p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable oil </strong>over a medium-high heat</p><p>Once hot, add the <strong>sliced onion</strong> with a small pinch of<strong> salt</strong> and <strong>sugar </strong>and a splash of<strong> cold water</strong></p><p>Cook the onions for 6-7 min or until they have softened</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1672853363438-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, add your<strong> hot dog sausage[s]</strong> to a separate baking tray (use<strong> tin foil</strong> to avoid mess!) and put the tray in the oven for 25 min or until the sausage is cooked through (no pink meat!) – this is your <strong>classic</strong> <strong>hot dog</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1672853374749-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Dice the <strong>remaining cucumber</strong> finely</p><p>Trim, then slice your <strong>spring onion[s]</strong></p><p>Add the <strong>diced cucumber</strong> to a pot over a medium heat with a knob of <strong>butter</strong> and small pinch of <strong>salt </strong>and <strong>pepper</strong> and cook for 5-7 min or until softened</p><p>Once softened, pour the <strong>pickling liquid </strong>from the 'gherkins' into the pot, add the <strong>sliced spring onion </strong>and cook for a further 2-3 min or until all the liquid has been absorbed – this is your <strong>cucumber relish</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1672853378086-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the onions have softened, stir in 1/3 of your <strong>tomato ketchup </strong>(save the rest for later!) and cook for 1-2 min further or until sticky – these are your <strong>New York-style sweet onions</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1672853384286-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Grate your <strong>cheddar cheese</strong></p><p>Cut a slit into the top of your<strong> hot dog bun[s]</strong></p><p>Once the fries are done, remove the tray[s] from the oven and push them into 1 pile per person, then top each pile with the <strong>grated cheese</strong></p><p>Add the <strong>cut</strong> <strong>hot dog bun</strong> to the other side of the tray[s] and return the tray[s] to the oven for 2-3 min or until the cheese has melted and the hot dog bun[s] are warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1672853387821-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Fill the<strong> hot dog bun </strong>with a <strong>classic</strong> <strong>hot dog</strong>, then top with the <strong>New York-style sweet onions </strong>and<strong> cucumber relish</strong></p><p>Drizzle over your <strong>mustard ketchup </strong>and the <strong>remaining</strong> <strong>tomato ketchup</strong>, then top with your<strong> crispy onions</strong></p><p>Serve the<strong> cheesy fries </strong>and<strong> 'gherkins' </strong>to the side with any <strong>remaining mustard ketchup</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 832,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Sugar",
+    "Salt",
+    "Pepper",
+    "Vegetable oil",
+    "Butter"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "uid": "blt34c23ea7e93d1f25",
+  "title": "Herb-Crusted Salmon With Hasselback Potatoes ",
+  "slug": "herb-crusted-salmon-with-hasselback-potatoes",
+  "description": "",
+  "rating": {
+    "average": 4.5,
+    "count": 18006
+  },
+  "prepTimes": {
+    "for2": 40,
+    "for4": 50
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-2709-Herb-Crusted-Salmon-With-Hasselback-Potatoes2371-1759150702566-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Skin on salmon fillets (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg"
+    },
+    {
+      "name": "Panko breadcrumbs (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
+    },
+    {
+      "name": "Dijon mustard (18g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
+    },
+    {
+      "name": "Skin on salmon fillet x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x200.jpg"
+    },
+    {
+      "name": "Waxy potatoes (350g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Blanched peas (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
+    },
+    {
+      "name": "Soft cheese (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
+    },
+    {
+      "name": "Parsley (10g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Dijon mustard (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut narrow slices (about the width of a pound coin) into your<strong> waxy potatoes</strong>, making sure not to cut all the way down to the base – these are your<strong> hasselback potatoes</strong></p><p>Tip: Place chopsticks either side of the potatoes to stop you cutting all the way through!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-1609781368526-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add the<strong> hasselback potatoes </strong>to a<strong> tin foil</strong>-lined<strong> </strong>baking tray (or two) and drizzle each with<strong> olive oil</strong></p><p>Season with a pinch of <strong>salt </strong>and <strong>pepper </strong>and put the tray[s] in the oven for 35-40 min<strong> </strong>or until they're tender and starting to crisp</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-1609781418057-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the potatoes are cooking, chop your <strong>parsley </strong>finely, including the stalks</p><p>Zest your <strong>lemon[s] </strong>(try to grate lightly with a microplane or sharp box grater and avoid grating the white pith, as this is very bitter)</p><p>Roll the <strong>zested lemon[s]</strong> with your hand on a hard surface (to release more juice) and cut in half</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-1609781439693-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Mix your <strong>panko breadcrumbs</strong>, <strong>chopped parsley </strong>and <strong>lemon zest </strong>with 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>olive oil</strong> and a pinch of <strong>salt </strong>in a bowl – this is your <strong>herby</strong> <strong>breadcrumb mixture</strong></p><p>Boil a kettle</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-1609781483674-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add your<strong> salmon fillet[s]</strong>, skin side down,<strong> </strong>to a<strong> tin foil</strong>-lined baking tray with a drizzle of<strong> olive oil</strong></p><p>Spread your<strong> Dijon mustard</strong> evenly all over the salmon with the back of a spoon</p><p>Tip: Not a fan of mustard? Just spread a thin layer!</p><p>Top the <strong>mustard salmon</strong> with the <strong>herby breadcrumb mixture</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-1609781495243-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Put the tray in the oven for 14-15 min or until the salmon is cooked through and the crumb is crisp and golden – this is your <strong>herb-crusted salmon</strong></p><p>Tip: Your fish is cooked when it turns opaque and flakes easily</p><p>Meanwhile, add your <strong>blanched</strong> <strong>peas</strong> to a pot, cover them with <strong>boiled water </strong>and cook on a high heat for 1 min or until they're tender</p><p>Once cooked, drain and return the peas to the pot</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-1609781531760-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Crush the<strong> refreshed peas </strong>roughly<strong> </strong>with a potato<strong> </strong>masher</p><p>Stir your <strong>soft cheese</strong>, the juice of <strong>half</strong> the <strong>lemon[s] </strong>(not sure about citrus? Try using less!) and a pinch of<strong> salt </strong>through the <strong>crushed peas</strong></p><p>Give everything a good mix up, then warm through over a medium heat for 2 min – these are your <strong>creamy crushed peas</strong></p><p>Cut the <strong>remaining lemon</strong> into 1 wedge per person</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-1609781541148-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>herb-crusted salmon</strong> over the <strong>creamy crushed peas</strong> with the <strong>hasselback potatoes</strong> to the side</p><p>Garnish with a <strong>lemon wedge </strong>and season with a grind of <strong>black pepper</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 544,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Olive oil",
+    "Pepper",
+    "Salt"
+  ]
+}

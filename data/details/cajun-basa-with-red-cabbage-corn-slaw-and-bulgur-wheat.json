@@ -1,0 +1,159 @@
+{
+  "uid": "bltc8420ce68efb98e6",
+  "title": "Cajun-Style Basa With Corn Slaw And Bulgur Wheat",
+  "slug": "cajun-basa-with-red-cabbage-corn-slaw-and-bulgur-wheat",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1110
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 20
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-7227-2-Cajun-Basa-With-Red-Cabbage--Corn-Slaw-And-Bulgur-Wheat-2_0-1727176945454-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Spring onion x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (8ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Basa fillets (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Bulgur wheat (65g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
+    },
+    {
+      "name": "Sweetcorn (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Southern fried seasoning (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/southern-fried-seasoning-1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Pumpkin seeds (15g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Shredded red cabbage (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Cabbage-x200.jpg"
+    },
+    {
+      "name": "White wine vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    },
+    {
+      "name": "Bulgur wheat (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Boil a kettle</p><p>Add your <strong>bulgur wheat</strong> to a pot with plenty of <strong>boiled water</strong> and a pinch of <strong>salt</strong> (the same as you would for pasta)</p><p>Bring to the boil over a high heat and cook for 7-9 min or until tender with a slight bite</p><p>Once cooked, drain and return to the pot</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-3-1721994859650-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Trim, then slice your <strong>spring onion[s]</strong></p><p>Chop your <strong>coriander</strong> finely, including the stalks</p><p>Drain your <strong>sweetcorn</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1721994879578-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Add your <strong>shredded red cabbage</strong>, <strong>drained sweetcorn </strong>and <strong>chopped spring onion</strong> to a bowl with your <strong>mayo</strong> and <strong>white wine vinegar</strong></p><p>Season with a pinch of <strong>salt</strong>, <strong>pepper</strong> and <strong>sugar</strong> and give everything a good mix up – this is your <strong>red cabbage & corn slaw</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-3-1721994912763-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Reboil half a kettle</p><p>Add your <strong>southern fried seasoning </strong>(can't handle the heat? Go easy!) to a plate with 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp]</span> <strong>flour</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Press your <strong>fish fillet[s]</strong> into the southern fried seasoning mixture firmly until evenly coated all over</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-3-1721994929848-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>coated fish </strong>and cook for 3-4 min on each side or until golden, crispy and cooked through</p><p>(Doubled your protein? Use 2 pans!)</p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-3-1721994963182-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the fish is cooked, add a generous knob of <strong>butter</strong> to the pan with the <strong>chopped garlic </strong>and cook for 1-2 min or until fragrant</p><p>Once fragrant, add 50ml<span class=\"text-purple\"> [65ml]</span> <span class=\"text-danger\">[85ml]</span> <strong>boiled water</strong> to the pan with your <strong>soy sauce </strong>and give everything a good mix up until thickened – this is your <strong>cajun-style sauce</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-3-1721995001658-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Add the <strong>chopped coriander </strong>to the <strong>cooked bulgur wheat </strong>with a pinch of <strong>salt </strong>and <strong>pepper </strong>and mix it all together – this is your <strong>coriander bulgur</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-3-1721995020367-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>cooked fish </strong>with the <strong>coriander</strong> <strong>bulgur</strong> and <strong>red cabbage & corn slaw </strong>to the side</p><p>Pour the <strong>cajun-style sauce </strong>over the fish and garnish with your <strong>pumpkin seeds</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 599,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Water",
+    "Pepper",
+    "Salt",
+    "Butter",
+    "Flour",
+    "Sugar"
+  ]
+}

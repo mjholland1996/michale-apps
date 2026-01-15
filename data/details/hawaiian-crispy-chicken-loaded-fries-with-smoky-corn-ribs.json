@@ -1,0 +1,154 @@
+{
+  "uid": "blt1cc3da1ca1522641",
+  "title": "Hawaiian Crispy Chicken Loaded Fries With Smoky Corn Ribs",
+  "slug": "hawaiian-crispy-chicken-loaded-fries-with-smoky-corn-ribs",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 61
+  },
+  "prepTimes": {
+    "for2": 25,
+    "for4": 30
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-7977-2---Hawaiian-Crispy-Chicken-With-Pineapple-Habanero-Loaded-Fries-with-Corn-Ribs-1744370971653-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Diced chicken thigh (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg"
+    },
+    {
+      "name": "Pineapple & birds eye chilli sauce (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pineapple-Chilli-Sauce-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (50ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Smoked sea salt flakes (1g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Smoked-salt-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Cornflour (1tbsp) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
+    },
+    {
+      "name": "Carrot & cabbage slaw mix (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg"
+    },
+    {
+      "name": "Sweetcorn ribs (218g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-ribs-shadow-x200.jpg"
+    },
+    {
+      "name": "Ginger paste (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Spring onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Soy sauce (8ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "White wine vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes</strong> (skins on) into chips</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1744715617630-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add the <strong>chips</strong> to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Add your<strong> corn ribs </strong>to a separate baking tray with a small drizzle of <strong>olive oil</strong></p><p>Give everything a good mix up and put the trays in the oven for 20-25 min or until golden and crisp</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1744715622235-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Trim, then slice your<strong> spring onion[s]</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1744715628641-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add your <strong>cornflour</strong> to a large bowl with 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp]</span> <strong>flour </strong>and a generous pinch of<strong> pepper </strong>and give it a good mix up</p><p>Add your <strong>diced chicken thigh</strong> and toss until everything is well coated – this is your <strong>coated chicken</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1744715633737-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a very generous drizzle of <strong>vegetable oil</strong> over a high heat</p><p>Once hot, add the <strong>coated chicken</strong> and cook for 8-10 min on each side until golden and crispy and the chicken is cooked through (no pink meat!) – this is your <strong>crispy chicken</strong></p><p>Tip: Cooking for 4 or more? Use 2 pans!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1744715638975-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>While the chicken is cooking, combine your <strong>ginger paste</strong> and <strong>soy sauce</strong> in a large bowl with <strong>half</strong> your <strong>white wine vinegar </strong>(you'll need the rest later!) and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp]</span><strong> sugar </strong>– this is your<strong> Hawaiian dressing</strong></p><p>In a separate bowl, combine your <strong>carrot & cabbage slaw mix</strong> with <strong>half </strong>your <strong>mayo</strong> (save the rest for later!) and the <strong>remaining white wine vinegar</strong></p><p>Transfer <strong>half </strong>your<strong> Hawaiian dressing </strong>(you'll use the rest later!)<strong> </strong>to the slaw and give it a good mix up<strong> </strong>– this is your<strong> tangy slaw</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1744715644106-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once everything is ready, transfer your <strong>crispy chicken</strong> and a pinch of <strong>salt </strong>to the bowl with <strong>remaining Hawaiian dressing</strong></p><p>Toss to coat – this is your <strong>Hawaiian crispy chicken</strong></p><p>Add a small knob of <strong>butter</strong> to the <strong>roasted corn ribs</strong> and give it a good mix up – these are your <strong>buttered corn ribs</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1744715650160-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve your <strong>chips</strong> and load with the <strong>tangy slaw </strong>and<strong> Hawaiian crispy chicken</strong></p><p>Drizzle over your <strong>pineapple & birds eye chilli sauce </strong>(can't handle the heat? Go easy!)<strong> </strong>and the <strong>remaining mayo</strong></p><p>Top with the<strong> chopped spring onion</strong></p><p>Serve the <strong>buttered corn ribs</strong> to the side and sprinkle over your <strong>smoked salt </strong>– these are your<strong> smoky corn ribs</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 626,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Sugar",
+    "Pepper",
+    "Flour",
+    "Salt",
+    "Butter",
+    "Olive oil"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "uid": "blta2a3c8de264173e0",
+  "title": "Duck Breast, Braised Red Cabbage, Potato & Parsnip Gratin",
+  "slug": "duck-breast-braised-red-cabbage-potato-parsnip-gratin",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 790
+  },
+  "prepTimes": {
+    "for2": 75,
+    "for4": 80
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-1448-Duck-Breast-Braised-Red-Cabbage-Potato--Parsnip-Gratin2805-1-1758187216559-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Soy sauce (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Parsnip",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-Parsnips-x200.jpg"
+    },
+    {
+      "name": "Duck breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Duck-Breast-x200.jpg"
+    },
+    {
+      "name": "Soured cream (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-soured-cream-100g-x200.jpg"
+    },
+    {
+      "name": "Intense chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Five-spice mix (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-five-spice-mix-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (30ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "Grated Italian hard cheese (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
+    },
+    {
+      "name": "Onion marmalade (40g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Sultanas (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg"
+    },
+    {
+      "name": "Shredded red cabbage (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Cabbage-x200.jpg"
+    },
+    {
+      "name": "Red wine vinegar (15ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Onion marmalade (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Boil a kettle</p><p>Dissolve your <strong>chicken stock mix </strong>in 200ml <span class=\"text-purple\">[250ml]</span> <span class=\"text-danger\">[350ml] </span><strong>boiled water</strong></p><p>Heat a pot over a medium heat with a small knob of <strong>butter</strong>, once melted, add 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp]</span> <strong>flour</strong> and cook for 1-2 min or until a sandy paste forms – this is your <strong>roux</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-90-1760607238568-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Stir the <strong>chicken stock</strong> gradually into the <strong>roux</strong> and cook for 1-2 min</p><p>Add your <strong>soured cream </strong>and stir until combined, then season with a pinch of <strong>pepper</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2---2025-10-16T103148.485-1760607242421-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Peel and slice your <strong>potatoes</strong> as finely as you can</p><p>Peel your <strong>parsnip[s]</strong>, then continue to peel lengths until you end up with a pile of <strong>parsnip 'ribbons'</strong></p><p>Layer the <strong>sliced potatoes</strong> and <strong>parsnip ribbons</strong> in an <strong>oven-proof dish</strong> and top with the <strong>sauce</strong> and your <strong>grated Italian hard cheese</strong></p><p>Put the dish in the oven for 45 min or until the potatoes and parsnips are golden and cooked through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3---2025-10-16T103151.315-1760607247620-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Heat a pot (with a lid) with a knob of <strong>butter</strong> over a low heat</p><p>Once melted, add your <strong>shredded red cabbage</strong>,<strong> sultanas </strong>and <strong>red wine vinegar</strong></p><p>Season with a generous pinch of <strong>salt</strong> and 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span><span class=\"text-danger\"> [2 tbsp]</span> <strong>sugar</strong></p><p>Add 200ml <span class=\"text-purple\">[250ml]</span> <span class=\"text-danger\">[350ml] </span><strong>boiled<span class=\"text-danger\"> </span>water</strong> and cook, covered, for 40 min, stirring occasionally – this is your <strong>braised red cabbage</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4---2025-10-16T103153.436-1760607251394-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Season your <strong>duck breast[s]</strong> with a generous pinch of <strong>salt</strong></p><p>Add the <strong>seasoned duck</strong>, skin-side down, to a cold, dry pan over a low-medium heat (cooking for 3  or more? Use 2 pans!)</p><p>Cook skin-side down for 10-15 minutes, or until the skin is golden and crispy</p><p>Tip: by cooking this over a low-medium heat, you'll render all of the fat</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1448.-step-5.new-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the potato & parsnip gratin has been in for 50 min, transfer the <strong>duck</strong>, skin-side up, to a baking tray and sprinkle over your<strong> five-spice</strong></p><p>Put the tray in the oven for 10-12 minutes or until cooked through (no pink meat!)</p><p>Once cooked, set the duck aside to rest</p><p>Reboil half a kettle</p><p>Tip: Cooking for 3 or more? Use 2 trays!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1448.-step-6.new-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Pour the <strong>duck fat</strong> away (keep it in the fridge and use for roast potatoes!) and wipe the pan clean</p><p>Return the pan to a medium heat with a small knob of <strong>butter</strong> and 1 tsp <span class=\"text-purple\">[1 1/2 tsp]</span> <span class=\"text-danger\">[2 tsp]</span> <strong>flour</strong> and cook for 1 min or until a <strong>roux</strong> (sandy paste) has formed</p><p>Add 150ml <span class=\"text-purple\">[200ml]</span><span class=\"text-danger\"> [250ml]</span> <strong>boiled water</strong>, your <strong>onion marmalade </strong>and <strong>soy sauce </strong>and whisk until fully combined</p><p>Reduce the heat to low and cook for 10 minutes or until a thick sauce remains – this is your <strong>sweet onion jus</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/1448.-step-7.new-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Slice the <strong>rested duck</strong> finely, on the diagonal</p><p>Serve the <strong>sliced duck </strong>on top of the <strong>sweet onion jus</strong></p><p>Serve the <strong>braised red cabbage</strong> and the <strong>potato & parsnip gratin </strong>to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 727,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Flour",
+    "Pepper",
+    "Salt",
+    "Sugar",
+    "Water"
+  ]
+}

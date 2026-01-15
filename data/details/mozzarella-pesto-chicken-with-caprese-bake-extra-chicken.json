@@ -1,0 +1,120 @@
+{
+  "uid": "blt65f12d955b0eab64",
+  "title": "Mozzarella & Pesto Chicken With Caprese Bake & Extra Chicken",
+  "slug": "mozzarella-pesto-chicken-with-caprese-bake-extra-chicken",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 10
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2327_Cheesy-Chicken-and-Pesto-Caprese-Bake_002-1643710316854-1729508605194-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "British chicken breast portion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
+    },
+    {
+      "name": "Mozzarella (125g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
+    },
+    {
+      "name": "Cherry tomatoes (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "British chicken breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    },
+    {
+      "name": "Traditional Italian pesto (45g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x200.jpg"
+    },
+    {
+      "name": "Cherry tomatoes (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Balsamic vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Before you start cooking, take your<strong> chicken </strong>out of the fridge, open the packet and let it air</p><p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes </strong>(skins on) into bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1729063858698-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Cut your <strong>red onion[s]</strong> into wedges, leaving the skins on (this helps them cook quicker!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1729063862594-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Add the <strong>chopped potato</strong>,<strong> red onion wedges</strong> and <strong>cherry tomatoes </strong>to a baking tray (or two!)</p><p>Add your <strong>balsamic vinegar</strong>, a pinch of <strong>salt </strong>and 2 tbsp <span class=\"text-purple\">[3 tbsp]</span> <span class=\"text-danger\">[4 tbsp] </span><strong>olive oil</strong> and give everything a good mix up</p><p>Put the tray[s] in the oven for 25-30 min or until the vegetables are soft and the potatoes are crisp – this is your <strong>caprese bake</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1729063866350-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Drain your <strong>mozzarella</strong>, then pat and squeeze as much liquid out as you can with kitchen paper</p><p>Tear the <strong>drained mozzarella</strong> into rough, bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1729063870569-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add your<strong> chicken breast portions</strong> to a <strong>tin foil</strong>-lined baking tray</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1729063873792-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Top the chicken with your <strong>pesto</strong> and <strong>torn</strong> <strong>mozzarella</strong></p><p>Season with a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Put the tray in the oven for 18-20 min or until the cheese is golden and the chicken is cooked through (no pink meat!) – this is your <strong>cheesy</strong> <strong>mozzarella & pesto chicken</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1729063877367-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the vegetables are done, carefully cut off the root, then remove and discard the skins of your red onion</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1729063880884-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>cheesy</strong> <strong>mozzarella & pesto chicken</strong> with the <strong>caprese bake</strong> to the side</p><p>Pour over any <strong>remaining chicken juices</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 630,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

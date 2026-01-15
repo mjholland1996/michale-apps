@@ -1,0 +1,146 @@
+{
+  "uid": "blt965bd45ba51f1e6b",
+  "title": "The Ultimate Plant-Based Stack Burger",
+  "slug": "the-ultimate-vegan-stack-burger",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 12701
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 45
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2536_The-Ultimate-Vegan-Stack-Burger-3705-1607343141509-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Cheese flavour slices (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-Cheese-Slice-x200.jpg"
+    },
+    {
+      "name": "Tomato ketchup (30ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Tomato ketchup (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Vegan mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (2tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Brioche style buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
+    },
+    {
+      "name": "Ultimate vegan burger patties (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
+    },
+    {
+      "name": "Gem lettuce",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
+    },
+    {
+      "name": "Gem lettuces (2pcs) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
+    },
+    {
+      "name": "Balsamic vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut half of your<span class=\"text-danger\"> </span><strong>potatoes</strong> (skins on) into chips</p><p>Add the <strong>chips</strong> to one side of the baking tray with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong></p><p>Give everything a good mix up and put the tray in the oven for 30-35 min or until golden and crisp</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-1-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Peel and grate the <strong>remaining</strong> <strong>potato[es]</strong></p><p>Add the <strong>grated potato</strong> to the middle of a tea towel and bring the four corners together to form a ball</p><p>Twist the ball and squeeze out as much of the liquid as you can</p><p>Add the <strong>squeezed potato</strong> to a bowl with your <strong>ground smoked paprika</strong> and a pinch of <strong>salt</strong> and <strong>pepper </strong>and give everything a good mix up – this is your <strong>paprika potato mixture</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-2-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Peel and slice your <strong>red onion[s]</strong> into rounds (approx. 1cm thick)</p><p>Once the chips have had an initial 15 minutes, remove the tray from the oven and add the <strong>red onion rounds</strong> to the other side</p><p>Drizzle <strong>half</strong> of your <strong>balsamic vinegar </strong>(you'll use the rest later!) over the red onion rounds with a little <strong>olive oil</strong> and return to the oven until caramelised and crispy – these are your <strong>balsamic onions</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-3-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>paprika potato mixture</strong> with a pinch of <strong>salt</strong> and cook for 8-10 min or until crispy and golden – these are your<strong> speedy paprika röstis</strong></p><p>Tip: Don't worry how they look, you're just after the crunch!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-4-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Line a separate baking tray with <strong>baking paper</strong></p><p>Add your <strong>ultimate vegan burger patties</strong> to the lined tray and put the tray in the oven for 10-12 min or until cooked through</p><p>Combine your <strong>mayo </strong>and <strong>tomato ketchup</strong> in a bowl – this is your <strong>ketchup mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-5-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the patties have cooked through, remove the tray from the oven and top each patty with a <strong>cheese flavour slice</strong></p><p>Slice your <strong>brioche buns</strong> in half (if required!) and add them to the other side of the tray</p><p>Return the tray to the oven for 3-4 min or until the mature cheddar style slice has melted and the brioche is warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-6-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Wash your <strong>lettuce </strong>and pat it dry with kitchen paper</p><p>Remove the leaf[ves] from the <strong>lettuce </strong>for per person and set aside, then tear the <strong>remaining lettuce</strong> into rough, bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/RC2536Step-7-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>To assemble your burger, spread each <strong>warmed</strong> <strong>brioche base </strong>with <strong>ketchup mayo</strong></p><p>Layer up the <strong>ultimate vegan burger patties</strong>, <strong>reserved lettuce leaves</strong>,<strong> </strong>a couple of the <strong>balsamic onions </strong>and the<strong> speedy paprika röstis </strong>and top with a <strong>warmed brioche lid</strong></p><p>Serve the <strong>chips</strong> and <strong>torn lettuce leaves </strong>to the side with the<strong> remaining balsamic vinegar </strong>and a drizzle of <strong>olive oil</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 731,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Vegetable oil"
+  ]
+}

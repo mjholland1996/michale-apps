@@ -1,0 +1,141 @@
+{
+  "uid": "blt37f5c47b47ac2227",
+  "title": "Chilli Cheese Naan Toastie With Curried Mayo",
+  "slug": "chilli-cheese-naan-toastie-with-curried-mayo",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1958
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-7792-2---Cheesey-Indian-Spiced-Naan-Toastie-With-Curried-Mayo-1744369031988-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Mayonnaise (50ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Cheddar cheese (40g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "Waxy potatoes (350g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
+    },
+    {
+      "name": "Baby leaf salad (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
+    },
+    {
+      "name": "Shallot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
+    },
+    {
+      "name": "Plain naan (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Spinach (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
+    },
+    {
+      "name": "Green chilli",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
+    },
+    {
+      "name": "Green tomato chutney (20g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x200.jpg"
+    },
+    {
+      "name": "White wine vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 200°C/ 180°C (fan)/ gas 6, then boil a kettle</p><p>Chop your <strong>waxy potatoes</strong> in half, lengthways</p><p>Add the <strong>chopped potatoes</strong> to a <strong>baking paper</strong>-lined baking tray (or two!) with a drizzle of <strong>vegetable oil</strong>, <strong>half</strong> your <strong>curry powder </strong>and a pinch of <strong>salt</strong> and <strong>pepper</strong> and give everything a good mix up</p><p>Put the tray[s] in the oven for 25-30 min or until golden – these are your <strong>curried potatoes</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1744798042995-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Peel and finely chop your <strong>shallot[s]</strong></p><p>Cut your <strong>green chilli[es]</strong> in half lengthways, deseed (scrape the seeds out with a teaspoon) and chop finely</p><p>Chop your <strong>coriander</strong> finely, including the stalks</p><p>Grate your <strong>cheddar cheese </strong>finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1744798047960-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Wash your <strong>spinach</strong> then add to a colander and pour <strong>boiled water</strong> all over it so that it starts to wilt</p><p>Rinse the<strong> wilted spinach</strong> under <strong>cold running water </strong>until it's cool</p><p>Once cool, squeeze as much water out of the spinach as you can and chop roughly</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1744798053209-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add the <strong>grated cheese</strong> to a bowl with the <strong>wilted spinach</strong>, <strong>chopped shallot</strong>, <strong>chopped chilli </strong>and <strong>chopped coriander</strong></p><p>Add a dollop of your <strong>mayo </strong>(you'll use the rest later!) and mix it all together – this is your <strong>chilli cheese filling</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1744798058981-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Top your <strong>naan[s] </strong>with the <strong>chilli cheese mix</strong> and spread evenly – this is your <strong>chilli cheese naan[s]</strong></p><p>Add the <strong>chilli cheese naan[s]</strong> to a baking tray (or two!) and put the tray[s] in the oven for 8-10 min or until the cheese has melted and started to brown</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1744798065951-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Meanwhile, combine the <strong>remaining</strong> <strong>mayo </strong>and <strong>remaining curry powder</strong> in a bowl with <strong>half </strong>your <strong>white wine vinegar</strong> – this is your <strong>curried mayo</strong></p><p>Wash your<strong> salad</strong>, then pat dry with kitchen paper</p><p>Add your<strong> salad</strong> to a bowl with the <strong>remaining</strong> <strong>white wine vinegar</strong> and a drizzle of <strong>olive oil</strong> and toss – this is your <strong>dressed salad</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1744798071796-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once cooked, dollop your <strong>green tomato chutney </strong>over the <strong>chilli cheese naan[s] </strong>and fold in half – this is your <strong>chilli cheese naan toastie</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1744798083507-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Slice your <strong>chilli cheese naan toastie </strong>in half and serve with the <strong>curried potatoes</strong>, <strong>dressed salad</strong> and <strong>curried mayo </strong>to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 677,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Salt",
+    "Pepper",
+    "Olive oil"
+  ]
+}

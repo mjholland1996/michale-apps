@@ -1,0 +1,144 @@
+{
+  "uid": "blte36a2c4eb32e0121",
+  "title": "Hearty Beef & Carrot Hotpot With Dessert",
+  "slug": "hearty-beef-carrot-hotpot-with-dessert",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 89
+  },
+  "prepTimes": {
+    "for2": 45,
+    "for4": 50
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/6320_Hearty-Beef--Carrot-Hotpot_001_0-1744365626974-1744817333627-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Pots & Co - salted caramel (45g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-Salted-Caramel2-x200.jpg"
+    },
+    {
+      "name": "Intense beef stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Beef stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Dried bay leaf x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Bay-leaf-x200.jpg"
+    },
+    {
+      "name": "Beef mince (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Beef mince (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Carrot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
+    },
+    {
+      "name": "Marmite (8g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7 and boil a kettle</p><p>Slice your <strong>potatoes</strong> (skins on) into thin discs</p><p>Add the <strong>potato</strong> <strong>discs</strong> to a large baking tray (or two!) with a drizzle of <strong>olive</strong> <strong>oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for 15-20 min or until beginning to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-83-1744034090564-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Whilst the potatoes are cooking, peel and finely chop your <strong>brown onion[s]</strong></p><p>Top, tail, peel and dice your <strong>carrot[s]</strong></p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-77-1744034094733-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable</strong> <strong>oil</strong> over a high heat</p><p>Once hot, add your <strong>mince</strong> with a generous pinch of <strong>salt</strong> and cook for 3-4 min or until beginning to brown, breaking it up with a wooden spoon as you go</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-84-1744034098938-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, dissolve your<strong> beef stock mix</strong>, <strong>tomato</strong> <strong>paste</strong> and <strong>Marmite</strong> in 300ml <span class=\"text-purple\">[390ml]</span> <span class=\"text-danger\">[550ml]</span> <strong>boiled</strong> <strong>water</strong> – this is your <strong>Marmite stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-79-1744034103717-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once the mince is beginning to brown, add the <strong>chopped onion </strong>and <strong>diced carrot </strong>to the pan<strong> </strong>with a generous grind of <strong>black pepper</strong></p><p>Cook for a further 3-4 min or until beginning to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-77-1744034108409-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once softened, add the <strong>chopped garlic </strong>with 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>flour </strong>and cook for 1 min or until fragrant</p><p>Once fragrant, add the <strong>Marmite stock </strong>and your <strong>bay leaf[ves] </strong>with a pinch of <strong>salt </strong>and <strong>sugar</strong></p><p>Bring to the boil over a high heat, then reduce the heat to medium-high and cook for 4-5 min or until thickened and the mince is cooked through (no pink meat!) – this is your <strong>mince & carrot</strong> <strong>hotpot mix</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-75-1744034111432-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once thickened, transfer the <strong>mince & carrot</strong> <strong>hotpot mix </strong>to an <strong>oven-proof dish</strong></p><p>Top with the <strong>softened</strong> <strong>potato</strong> <strong>slices</strong> and put the dish in the oven for 15-20 min or until the potatoes are golden and the hotpot is bubbling – this is your <strong>hearty mince & carrot hotpot</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-80-1744034114668-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>hearty mince & carrot hotpot</strong>,<strong> </strong>discarding the <strong>bay leaf[ves]</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 706,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Flour",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Sugar",
+    "Vegetable oil",
+    "Water"
+  ]
+}

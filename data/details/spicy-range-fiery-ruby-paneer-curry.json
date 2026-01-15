@@ -1,0 +1,156 @@
+{
+  "uid": "blt7c8d7e84656d31fc",
+  "title": "Fiery Ruby Paneer Curry",
+  "slug": "spicy-range-fiery-ruby-paneer-curry",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 2339
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 25
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/7205---Spicy-Range-Fiery-Ruby-Paneer-Curry0777-1720514477556-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Red chilli",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg"
+    },
+    {
+      "name": "Cornish clotted cream (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (390g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Cayenne pepper (0.5tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (1tsp) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "White long grain rice (65g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Garam masala (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg"
+    },
+    {
+      "name": "Intense vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Ground smoked paprika (2tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "White long grain rice (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
+    },
+    {
+      "name": "Paneer (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Spinach (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Add your <strong>white long grain rice</strong> to a pot with a lid with 225ml <span class=\"text-purple\">[300ml] </span><span class=\"text-danger\">[450ml] </span><strong>cold water</strong> and bring to the boil over a high heat</p><p>Once boiling, reduce the heat to very low and cook, covered, for 12-15 min or until all the water has absorbed and the rice is cooked</p><p>Once done, remove from the heat and set aside (lid on) to steam until serving</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-copy-3-1716392929161-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Meanwhile, boil half a kettle</p><p>Chop your <strong>paneer</strong> into bite-sized pieces</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>vegetable oil </strong>over a medium heat</p><p>Once hot, add the <strong>chopped paneer</strong> and cook for 3-5 min or until golden, turning occasionally for even colouring</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-copy-3-1716392934856-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the paneer is cooking, peel and finely chop (or grate) your <strong>garlic</strong></p><p>Dissolve your <strong>vegetable stock mix</strong> in 150ml <span class=\"text-purple\">[200ml] </span><span class=\"text-danger\">[250ml] </span><strong>boiled water </strong>– this is your <strong>stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-copy-4-1716392947504-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once the paneer is golden, reduce the heat to medium-low and add a drizzle of <strong>vegetable oil </strong>with the<strong> chopped garlic </strong>and your<strong> cayenne pepper </strong>(can't handle the heat? Go easy!)</p><p>Add your <strong>ground</strong> <strong>smoked paprika</strong>,<strong> garam masala</strong> and <strong>curry powder </strong>and cook for 1 min or until very fragrant</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-copy-3-1716392960341-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add the <strong>stock </strong>and your<strong> chopped tomatoes</strong> to the pan with a pinch of <strong>salt</strong> and <strong>pepper</strong> and give everything a good mix up</p><p>Increase the heat to medium-high and cook for 6-8 min or until the sauce has thickened</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-copy-3-1716392969601-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Cut your <strong>red chilli[es]</strong> in half lengthways, deseed (scrape the seeds out with a teaspoon) and slice lengthways finely – this is your <strong>julienne chilli</strong></p><p>Wash your <strong>spinach</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-copy-3-1716392983136-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the sauce has thickened, add the <strong>spinach</strong> and most<strong> </strong>of<strong> </strong>your <strong>clotted cream </strong>(save a generous drizzle for a garnish!)</p><p>Give everything a good mix up and cook for a final 1 min or until the spinach is wilted – this is your <strong>ruby paneer curry</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-copy-3-1716392993545-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>ruby paneer curry</strong>,<strong> </strong>drizzle over the<strong> remaining clotted cream </strong>and top with the <strong>julienne chilli </strong>(not a fan of spice? Just add a little!)</p><p>Serve the <strong>cooked rice </strong>to the side</p><p>Tip: For fancy presentation, press the rice into a small bowl and turn out</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 663,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Water",
+    "Pepper",
+    "Salt"
+  ]
+}

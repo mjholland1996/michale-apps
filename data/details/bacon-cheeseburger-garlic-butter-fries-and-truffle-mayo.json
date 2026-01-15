@@ -1,0 +1,172 @@
+{
+  "uid": "bltbf74229b9deb1395",
+  "title": "Bacon Cheeseburger, Garlic Butter Fries And Truffle Mayo",
+  "slug": "bacon-cheeseburger-garlic-butter-fries-and-truffle-mayo",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1945
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-2749-2-Bacon-Cheeseburger-Garlic-Butter-Fries-And-Truffle-Mayo-1_0-1707304394978-1724074199589-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Mayonnaise (50ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Mayonnaise (25ml) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
+    },
+    {
+      "name": "Smoked streaky bacon (90g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
+    },
+    {
+      "name": "Panko breadcrumbs (30g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Brioche style buns (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Beef mince (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Smoked streaky bacon (45g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
+    },
+    {
+      "name": "Truffle flavoured extra virgin olive oil (8ml) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x200.jpg"
+    },
+    {
+      "name": "Beef mince (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Italian hard cheese (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg"
+    },
+    {
+      "name": "Onion marmalade (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
+    },
+    {
+      "name": "Rocket (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
+    },
+    {
+      "name": "Balsamic vinegar (15ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
+    },
+    {
+      "name": "White potato x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Panko breadcrumbs (60g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
+    },
+    {
+      "name": "Onion marmalade (20g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your <strong>potatoes</strong> (skins on) into fries</p><p>Add the <strong>fries</strong> to a baking tray (or two!) with a drizzle of <strong>vegetable oil</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for an initial 20-25 min or until golden and crisp</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-copy-1723811527792-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>While the fries are cooking, add your<strong> mince</strong> to a bowl with your<strong> panko breadcrumbs</strong> and a pinch of <strong>pepper</strong></p><p>Give everything a good mix up until fully combined (clean hands is the best way!) then shape into 1 patty per person – this is your <strong>burger patty[ies]</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1723811547375-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Add the<strong> burger patty[ies]</strong> to an oiled baking tray (or two!) with your<strong> smoked streaky bacon</strong></p><p>Put the tray[s] in the oven for 15-20 min or until the patty[ies] is cooked through (no pink meat!) and the bacon is crispy</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-copy-1723811587607-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, peel and finely chop (or grate) your <strong>garlic</strong></p><p>Chop your <strong>parsley</strong> roughly, including the stalks</p><p>Chop a large knob of <strong>butter </strong>into small cubes</p><p>Peel your<strong> Italian hard cheese</strong> with a peeler until you end up with a pile of cheese shavings</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-copy-1723811686761-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once the fries are golden, remove them from the oven and push to one side of the tray[s], then top the fries with the <strong>chopped</strong> <strong>butter</strong>,<strong> garlic </strong>and <strong>parsley </strong>and gently toss everything together – these are your <strong>garlic butter fries</strong></p><p>Slice your <strong>brioche bun[s]</strong> in half (if required!) and add them to the tray[s]</p><p>Return the tray[s] to the oven for 2-3 min or until the butter has melted and the brioche is warmed through</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-copy-1723811697305-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the patty[ies] is cooked through, remove the tray[s] from the oven and top each patty with the <strong>Italian hard cheese shavings</strong></p><p>Return to the oven for 2-3 min until the cheese has melted – this is your <strong>cheesy patty[ies]</strong></p><p>Tip: If your bacon is already crispy at this point, add it to a plate and set aside</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-copy-1723811900893-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Roughly chop your <strong>tomato[es]</strong></p><p>Wash your <strong>salad</strong>, then pat it dry with kitchen paper</p><p>Reserve a handful of <strong>salad</strong> for your burger, then toss the <strong>remaining salad</strong> and the <strong>chopped tomato </strong>with a drizzle of <strong>olive oil</strong> and your <strong>balsamic vinegar </strong>– this is your <strong>dressed salad</strong></p><p>Add your <strong>truffle oil</strong> to a small bowl along with your <strong>mayo</strong> and a generous grind of <strong>black pepper </strong>and mix it all together – this is your <strong>truffle mayo</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-copy-1723811786695-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Spread each <strong>warmed</strong> <strong>brioche base</strong> with a dollop of <strong>onion marmalade</strong></p><p>Add a <strong>cheesy patty</strong> followed by the <strong>crispy bacon</strong>, a spoonful of<strong> truffle mayo</strong>, the <strong>reserved</strong> <strong>salad </strong>and top with a <strong>warmed brioche lid</strong></p><p>Serve the <strong>dressed salad </strong>and <strong>garlic butter fries</strong> to the side with any <strong>remaining</strong> <strong>truffle</strong> <strong>mayo</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 1129,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Olive oil",
+    "Pepper",
+    "Salt",
+    "Vegetable oil"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "uid": "blt4c23aa8c7d1abfc1",
+  "title": "21-Day Aged Sirloin Steak With Truffled Mushroom Sauce & Fries",
+  "slug": "valentines-21-day-aged-sirloin-truffled-mushroom-sauce-fries",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 533
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-2513-21-Day-Aged-Sirloin-Truffled-Mushroom-Sauce--Fries4321-1762512227517-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Cornish clotted cream (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
+    },
+    {
+      "name": "Tenderstem broccoli (80g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg"
+    },
+    {
+      "name": "Sirloin steak (400g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-200g-sirloin-steak-x200.jpg"
+    },
+    {
+      "name": "Sirloin steak (200g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/135-sirloin-steaks-x200.jpg"
+    },
+    {
+      "name": "Truffle flavoured extra virgin olive oil (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x200.jpg"
+    },
+    {
+      "name": "Gravy base (14g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/gravy-paste-x200.jpg"
+    },
+    {
+      "name": "Tenderstem broccoli (160g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg"
+    },
+    {
+      "name": "Chestnut mushrooms (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7 and boil a full kettle</p><p>Add a very generous drizzle of <strong>vegetable oil</strong> to a baking tray (or two!) and put the tray[s] in the oven for 5-6 min or until the oil is very hot</p><p>Meanwhile, chop your <strong>potatoes</strong> (skins on) into fries, then pat the <strong>fries</strong> dry with<strong> kitchen paper</strong></p><p>Tip: This helps the fries get extra crispy!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1580132326710-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Chop your <strong>chestnut mushrooms</strong> roughly</p><p>Dissolve your <strong>gravy base </strong>in 125ml <span class=\"text-purple\">[200ml] </span><span class=\"text-danger\">[250ml]</span> <strong>boiled water </strong>– this is your <strong>gravy stock</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1580132330502-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Once the oil is very hot, remove the tray[s] from the oven and carefully add the <strong>fries</strong> to the hot oil</p><p>Season with a generous pinch of <strong>salt</strong> and <strong>pepper</strong> and give everything a gentle mix up until the fries are coated in the oil</p><p>Return the tray[s] to the oven for 20-25 min or until the fries are golden and crispy</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1580132334174-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Pat your<strong> sirloin steak[s]</strong> dry with <strong>kitchen paper</strong>, drizzle them with <strong>vegetable oil</strong> and season with a pinch of <strong>salt</strong> on both sides</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1580132337933-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) over a high heat</p><p>Once very hot, add the <strong>sirloin steak[s]</strong> to the pan</p><p>For rare, cook for 2-3 min max on each side; for medium-rare, cook for 3-4 min on each side; for medium, cook for 4-5 min on each side</p><p>Once the steak is cooked, transfer to a plate to rest (save the pan!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1580132341626-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>While the steak is cooking, add your <strong>Tenderstem broccoli</strong> to a pot with plenty of <strong>boiled water</strong> and bring to the boil over a high heat</p><p>Once boiling, cook for 3-4 min or until tender with a slight bite, then drain</p><p>Return the reserved pan to a medium-high heat with a drizzle of <strong>vegetable oil</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1580132345811-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once hot, add the <strong>chopped mushrooms </strong>and cook for 3-4 min or until golden</p><p>Once golden, add the <strong>gravy stock </strong>and <strong>clotted cream</strong> and cook for 1-2 min further or until thickened slightly</p><p>Once thickened, add your <strong>truffle oil</strong> and give everything a good mix up – this is your <strong>truffled mushroom sauce</strong></p><p>Slice the rested steak finely on a clean board</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1580132349230-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>sirloin steak</strong> with the <strong>fries</strong> and <strong>Tenderstem broccoli</strong> to the side</p><p>Pour the <strong>truffled mushroom sauce</strong> over the steak</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 770,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Salt",
+    "Pepper",
+    "Vegetable oil",
+    "Water"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "uid": "blta0fe118a9c7347ea",
+  "title": "Puttanesca-Style Mozzarella Tortelloni With Dessert",
+  "slug": "puttanesca-style-sauce-with-mozzarella-tortelloni-with-dessert",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 15
+  },
+  "prepTimes": {
+    "for2": 10,
+    "for4": 10
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/4894---Tomato-And-Olive-Puttanesca-Sauce-With-Tomato--Mozzarella-Tortelloni0112-1665419485565-1739544765015-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": " Pots & Co - chocolate ganache (45g) x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-70-chocolate2-x200.jpg"
+    },
+    {
+      "name": "Capers (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (390g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Black olives (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x3",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Tomato & mozzarella tortelloni (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p><strong>Before you begin...</strong></p><p>Get all your ingredients and equipment ready</p><p>Skim through these steps, then wash your fruit and veg</p><p>Note: Equipment and pan sizes vary. Make sure you cook food thoroughly (even if it takes you a little longer than 10 min)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Admin10mm-Step-1-1739548304624-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p><strong>Now, let's get started!</strong></p><p>Boil a kettle</p><p>Peel and slice (don't chop!) your <strong>garlic</strong></p><p>Chop your <strong>black olives</strong> in half</p><p>Chop your <strong>parsley</strong> finely, including the stalks</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1739548308843-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a generous drizzle of <strong>olive oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced garlic</strong> and cook for 1-2 min or until fragrant</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1739548318974-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, add your <strong>tomato & mozzarella tortelloni </strong>to a pot of <strong>boiled water</strong> and bring to a boil over a high heat</p><p>Cook the <strong>tortelloni</strong> for 3-4 min or until cooked with a slight bite</p><p>Once done, drain the<strong> tortelloni</strong>, reserving a cup of the<strong> starchy pasta water</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1739548323273-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Once fragrant, add your <strong>capers</strong> and <strong>halved olives</strong> to the pan and cook for a further 1-2 min</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1739548327216-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add your <strong>chopped tomatoes</strong> and season with a pinch of <strong>salt</strong> and <strong>sugar </strong>and a generous grind of<strong> black pepper</strong></p><p>Cook for 2-3 min further or until the sauce starts to thicken</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1739548331630-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Once the sauce has thickened, add the <strong>drained tortelloni </strong>to the pan with <strong>half </strong>the <strong>chopped parsley </strong>(save the rest for garnish!) and give everything a gentle mix up until the pasta is coated in the sauce – this is your <strong>puttanesca-style sauce with tomato & mozzarella tortelloni</strong></p><p>Tip: Add a splash of starchy pasta water if your sauce is looking a little thick</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1739548335989-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the<strong> puttanesca-style sauce with tomato & mozzarella tortelloni </strong>topped with the <strong>remaining chopped parsley</strong> and a generous grind of <strong>black pepper</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 579,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Sugar",
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

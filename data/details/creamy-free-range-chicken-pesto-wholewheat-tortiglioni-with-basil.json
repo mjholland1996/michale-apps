@@ -1,0 +1,130 @@
+{
+  "uid": "blt0b58d07dd821b997",
+  "title": "Creamy Free Range Chicken & Pesto Wholewheat Tortiglioni With Basil",
+  "slug": "creamy-free-range-chicken-pesto-wholewheat-tortiglioni-with-basil",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 49
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 25
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/2944---Creamy-Chicken--Pesto-Wholewheat-Penne-With-Basil0478-1592820872568-1709023084213-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "British free range chicken breast portions (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
+    },
+    {
+      "name": "Red onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
+    },
+    {
+      "name": "Cheddar cheese (40g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
+    },
+    {
+      "name": "Wholewheat tortiglioni (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/wholewheat-tortiglioni-pasta-x200.jpg"
+    },
+    {
+      "name": "Wholewheat tortiglioni (75g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/wholewheat-tortiglioni-pasta-x200.jpg"
+    },
+    {
+      "name": "Traditional Italian pesto (45g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/45g-classic-basil-nut-pesto-x200.jpg"
+    },
+    {
+      "name": "Basil (10g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Chicken stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Basil (5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
+    },
+    {
+      "name": "Soft cheese (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
+    },
+    {
+      "name": "Spinach (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Before you start cooking, take your <strong>chicken </strong>out of the fridge, open the packet and let it air, then boil a kettle</p><p>Add your <strong>wholewheat tortiglioni </strong>to a pot of <strong>boiled water </strong>with a pinch of <strong>salt</strong>, bring to the boil over a high heat and cook for 10-12 min or until cooked with a slight bite</p><p>Once done, drain and reserve about 200ml <span class=\"text-purple\">[300ml]</span> <span class=\"text-danger\">[400ml]</span> <strong>starchy cooking water</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1599746843993-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>While the pasta is cooking, peel and finely slice your<strong> red onion[s]</strong></p><p>Cut your<strong> free range chicken breast portion[s]</strong> into bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-copy-1647884824531-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of<strong> vegetable oil</strong> over a medium heat</p><p>Once hot, add the <strong>sliced red onion</strong> with a pinch of <strong>salt</strong> and cook for 2-3 min or until starting to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1599746859158-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once starting to soften, increase the heat to high, add the <strong>chopped</strong> <strong>chicken</strong> and cook for 10-12 min or until golden and cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1599746869558-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Chop most of your <strong>basil</strong>, including the stalks (save some whole leaves for garnish!)</p><p>Grate your <strong>cheddar cheese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1599746877147-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once done, add the <strong>drained wholewheat tortiglioni</strong> to the pan with the chicken and onion</p><p>Add your<strong> chicken stock mix </strong>with the<strong> chopped basil</strong>,<strong> soft cheese</strong>, <strong>pesto</strong>, <strong>half</strong> the <strong>grated cheese</strong> (save the rest for garnish!) and 100ml <span class=\"text-purple\">[150ml]</span> <span class=\"text-danger\">[200ml] </span><strong>reserved starchy cooking water</strong></p><p>Give everything a good mix up and cook for 1-2 min or until the sauce is creamy and starting to thicken</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1599746884181-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Wash your<strong> spinach</strong>, then pat dry with kitchen paper</p><p>Add the <strong>spinach</strong> and stir through until wilted – this is your <strong>creamy free range chicken & pesto wholewheat tortiglioni</strong></p><p>Tip: If the sauce is looking a little dry add a splash more starchy cooking water</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1599746893803-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>creamy free range</strong> <strong>chicken & pesto wholewheat tortiglioni</strong></p><p>Garnish with the <strong>remaining grated cheese</strong> and<strong> reserved basil leaves</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 677,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Salt",
+    "Water"
+  ]
+}

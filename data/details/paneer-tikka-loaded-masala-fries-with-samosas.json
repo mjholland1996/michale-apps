@@ -1,0 +1,152 @@
+{
+  "uid": "blt3570431199058328",
+  "title": "Paneer Tikka Loaded Masala Fries With Samosas",
+  "slug": "paneer-tikka-loaded-masala-fries-with-samosas",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 99
+  },
+  "prepTimes": {
+    "for2": 30,
+    "for4": 35
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/R-7968-2---Paneer-Tikka-Loaded-Masala-Fries-With-Samosas-1744370867237-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "4 vegetable samosas (140g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-samosas-x200.jpg"
+    },
+    {
+      "name": "Garam masala (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg"
+    },
+    {
+      "name": "Curry powder (0.5tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Natural yoghurt (80g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg"
+    },
+    {
+      "name": "Paneer (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
+    },
+    {
+      "name": "Mango chutney (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
+    },
+    {
+      "name": "Ginger & garlic paste (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Cucumber (0.5pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
+    },
+    {
+      "name": "Coriander (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
+    },
+    {
+      "name": "Green tomato chutney (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x200.jpg"
+    },
+    {
+      "name": "White potato x4",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Tamarind paste (15g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tamarind-paste-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Preheat the oven to 220°C/ 200°C (fan)/ gas 7</p><p>Cut your<strong> potatoes </strong>(skins on) into fries</p><p>Add the <strong>fries </strong>to a <strong>baking paper</strong>-lined baking tray (or two!) with a drizzle of <strong>vegetable oil</strong>, your <strong>garam masala</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong></p><p>Give everything a good mix up and put the tray[s] in the oven for 20-25 min or until golden and crisp – these are your <strong>masala fries</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-55-1741866933643-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Add 1 tbsp per person of your <strong>natural yoghurt</strong> (you'll use the rest later!) to a large bowl with your <strong>curry powder</strong>, <strong>ginger & garlic paste</strong> and a generous pinch of <strong>pepper</strong></p><p>Give everything a good mix up – this is your <strong>tikka-style marinade</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-49-1741866937843-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Chop your <strong>paneer </strong>into bite-sized cubes</p><p>Add the <strong>chopped paneer </strong>to the tikka-style marinade, give everything a good mix up and set aside for later – this is your <strong>marinated paneer</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-56-1741866941175-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Dice your <strong>cucumber</strong> very finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-53-1741866946978-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Dice your <strong>tomato[es]</strong> finely</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-51-1741866952172-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add your <strong>samosas</strong> to a baking tray and put in the oven for 10-12 min or until golden and crispy</p><p>Add your <strong>tomato paste</strong> to a small bowl with your <strong>tamarind paste</strong>, 1/2 tsp <span class=\"text-purple\">[3/4 tsp]</span><span class=\"text-danger\"> [1 tsp]<strong> </strong></span><strong>sugar</strong> and 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>cold water</strong></p><p>Give everything a good mix up and pop in the<strong> microwave</strong> for 20 secs or until warmed through and slightly thickened – this is your <strong>tamarind ketchup</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-49-1741866957536-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick), over a medium heat with a very generous drizzle of <strong>vegetable oil</strong></p><p>Once hot, add the<strong> marinated paneer </strong>and cook for 8-9 min until lightly charred, turning occasionally for even colouring – this is your<strong> paneer tikka</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-54-1741866971956-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>paneer tikka</strong> over the <strong>masala fries</strong> topped with the <strong>diced tomato </strong>and<strong> cucumber</strong></p><p>Drizzle with the <strong>remaining natural yoghurt</strong>, your <strong>mango chutney</strong> and the <strong>tamarind ketchup</strong></p><p>Tear your <strong>coriander leaves</strong> all over</p><p>Serve the <strong>samosas</strong> to the side with your <strong>green tomato chutney</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 688,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Vegetable oil",
+    "Water",
+    "Sugar",
+    "Pepper",
+    "Salt"
+  ]
+}

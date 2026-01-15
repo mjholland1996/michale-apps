@@ -1,0 +1,161 @@
+{
+  "uid": "bltaa2bc1702388230d",
+  "title": "Simply Perfect Lean Beef Spag Bol With Fresh Tagliatelle",
+  "slug": "simply-perfect-lean-beef-spag-bol-with-fresh-tagliatelle",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 166
+  },
+  "prepTimes": {
+    "for2": 25,
+    "for4": 30
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/6439---Simply-Perfect-Beef-Spag-Bol-With-Fresh-Tagliatelle2317-1692088136578-1738255945136-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Soy sauce (8ml)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (390g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Finely chopped tomatoes (200g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (32g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Dried oregano (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
+    },
+    {
+      "name": "Fresh tagliatelle (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fresh-Tagliatelle-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Intense beef stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-mix-x200.jpg"
+    },
+    {
+      "name": "Beef stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Dried basil (1tsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Italian hard cheese (20g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Tomato paste (16g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
+    },
+    {
+      "name": "Carrot",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Boil a kettle</p><p>Peel and finely chop your<strong> brown onion[s]</strong></p><p>Top, tail, peel and finely chop your <strong>carrot[s]</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-1-1738239252672-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a medium-high heat</p><p>Once hot, add the <strong>chopped onion</strong> and<strong> carrot</strong> with a pinch of <strong>salt</strong> and cook for 3-4 min or until beginning to soften</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-2-1738239254560-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-3-1738239258082-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Once the onion and carrot are beginning to soften, add your <strong>mince</strong> to the pan and increase the heat to high</p><p>Cook for 3-4 min further or until browned all over, breaking it up with a wooden spoon as you go</p><p>(Doubled your protein? Use 2 pans!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-4-1738239261490-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Meanwhile, dissolve your<strong> beef stock mix </strong>and <strong>soy sauce</strong> in 100ml <span class=\"text-purple\">[150ml] </span><span class=\"text-danger\">[200ml] </span><strong>boiled water </strong>– this is your<strong> stock</strong></p><p>Add the <strong>chopped garlic</strong>, <strong>tomato paste</strong>,<strong> stock</strong>, <strong>chopped tomatoes</strong>, <strong>dried basil </strong>and<strong> dried oregano </strong>to the pan</p><p>Season with a grind of <strong>black pepper</strong>, bring to the boil over a high heat and cook for 5 min further or until thickened and the mince is cooked through (no pink meat!) – this is your <strong>bolognese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-5-1738239264269-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Meanwhile, add your <strong>fresh tagliatelle</strong> to a pot of <strong>boiled water </strong>with a large pinch of <strong>salt</strong> and bring to the boil over a high heat</p><p>Cook the tagliatelle for 3-4 min or until cooked with a slight bite</p><p>Once done, drain the tagliatelle</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-6-1738239267201-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Chop your<strong> parsley</strong> finely, including the stalks</p><p>Grate your <strong>Italian hard cheese</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/Step-7-1738239269834-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>bolognese</strong> over the<strong> fresh tagliatelle</strong></p><p>Top with the <strong>grated Italian hard cheese</strong> and <strong>chopped parsley </strong>and enjoy!</p><p><strong><span class=\"text-danger\">Loved this recipe? Keep an eye out for it on the Everyday Favourites section of our menu.</span></strong></p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 629,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Water",
+    "Pepper",
+    "Salt",
+    "Olive oil"
+  ]
+}

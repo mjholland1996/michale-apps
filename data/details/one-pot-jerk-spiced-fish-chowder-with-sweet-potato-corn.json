@@ -1,0 +1,144 @@
+{
+  "uid": "blt1f38536b518c6647",
+  "title": "One Pot Jerk-Spiced Basa Chowder With Sweet Potato & Corn",
+  "slug": "one-pot-jerk-spiced-fish-chowder-with-sweet-potato-corn",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 1420
+  },
+  "prepTimes": {
+    "for2": 35,
+    "for4": 40
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/7036---One-Pot-Jerk-Spiced-Fish-Chowder-With-Sweet-Potato--Corn0176-1706028042616-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Basa fillets (2pcs)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg"
+    },
+    {
+      "name": "Sweetcorn (150g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x200.jpg"
+    },
+    {
+      "name": "Intense vegetable stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Ciabatta x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
+    },
+    {
+      "name": "Garlic clove x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Brown onion",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
+    },
+    {
+      "name": "Basa fillet x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-x200.jpg"
+    },
+    {
+      "name": "Jerk paste (24g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x200.jpg"
+    },
+    {
+      "name": "Vegetable stock mix (5.5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
+    },
+    {
+      "name": "Soft cheese (50g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
+    },
+    {
+      "name": "Green chilli",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
+    },
+    {
+      "name": "White potato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
+    },
+    {
+      "name": "Sweet potato",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Peel and finely dice your <strong>brown onion[s]</strong></p><p>Heat a large, wide-based pot with a drizzle of <strong>vegetable oil </strong>over a medium heat</p><p>Once hot, add the <strong>diced onion </strong>and cook for 4-5 min or until softened</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1708071857410-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Boil a kettle</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p><p>Peel your <strong>potato[es] </strong>and<strong> sweet potato[es] </strong>and chop into bite-sized pieces</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1708071861143-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>Once the onion is softened, add a knob of <strong>butter</strong> with the <strong>chopped garlic </strong>and cook for 1-2 min or until the butter is melted</p><p>Once melted, add 1 tbsp <span class=\"text-purple\">[1 1/2 tbsp]</span> <span class=\"text-danger\">[2 tbsp]</span> <strong>flour </strong>and cook for 1 min</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1708071864435-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Add 100ml <span class=\"text-purple\">[150ml]</span> <span class=\"text-danger\">[200ml]</span> <strong>milk</strong> with 450ml <span class=\"text-purple\">[675ml]</span> <span class=\"text-danger\">[900ml]</span> <strong>boiled water </strong>and your<strong> vegetable stock mix</strong></p><p>Add the <strong>chopped potato & sweet</strong> <strong>potato</strong> with a generous pinch of <strong>salt </strong>and <strong>pepper</strong>, then bring to boil over a high heat</p><p>Once boiling, reduce the heat to medium and cook for 15-18 min or until the potatoes are tender</p><p>Tip: Stir occasionally to stop it sticking!</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1708071867667-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Slice your <strong>green chilli[es]</strong> finely</p><p>Drain your <strong>sweetcorn</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1708071871783-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Once the potatoes are tender, add the <strong>drained sweetcorn</strong>,<strong> soft cheese </strong>and<strong> half </strong>your<strong> jerk paste </strong>(you'll use the rest later!)</p><p>Add your <strong>fish fillet[s]</strong> and bring to the boil over a high heat, then reduce the heat to medium and cook for 5 min or until the fish is cooked through – this is your <strong>chowder</strong></p><p>Once cooked,<strong> </strong>break up the<strong> fish </strong>with a spoon into bite-sized pieces</p><p>Tip: Your fish is cooked once it turns opaque and flakes easily</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1708071875569-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Slice your <strong>ciabatta[s] </strong>in half and place in the <strong>toaster</strong> for 1-2 min or until toasted</p><p>Combine the <strong>remaining jerk paste</strong> with a knob of <strong>butter</strong> and a pinch of <strong>salt</strong> and <strong>pepper</strong> in a heat-proof bowl and cook in the <strong>microwave </strong>for 30 secs or until the butter has melted – this is your <strong>jerk-spiced butter</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1708071878787-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve the <strong>chowder </strong>and drizzle over the<strong> jerk-spiced butter </strong>and<strong> </strong>the <strong>sliced green chilli </strong>(can't handle the heat? Go easy!) – this is your <strong>one pot jerk-spiced fish chowder</strong></p><p>Serve the<strong> toasted ciabatta </strong>to the side</p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 568,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Butter",
+    "Flour",
+    "Milk",
+    "Pepper",
+    "Salt",
+    "Vegetable oil",
+    "Water"
+  ]
+}

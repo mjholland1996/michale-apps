@@ -1,0 +1,134 @@
+{
+  "uid": "blt2936fda0498cbb61",
+  "title": "Warm Lemony Lean Beef Tabbouleh",
+  "slug": "warm-lemony-lean-beef-tabbouleh",
+  "description": "",
+  "rating": {
+    "average": 5,
+    "count": 317
+  },
+  "prepTimes": {
+    "for2": 20,
+    "for4": 30
+  },
+  "images": {
+    "main": "https://production-media.gousto.co.uk/cms/mood-image/512_Warm-Lemony-Beef-Tabbouleh_001_0-1674040314826-1747312498918-x700.jpg"
+  },
+  "cuisine": "",
+  "dietType": "",
+  "ingredients": [
+    {
+      "name": "Bulgur wheat (65g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (125g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Ras el hanout (1tbsp)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x200.jpg"
+    },
+    {
+      "name": "Beef stock mix (5.5g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
+    },
+    {
+      "name": "Garlic clove",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
+    },
+    {
+      "name": "Tomato x2",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
+    },
+    {
+      "name": "Parsley (5g) x0",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
+    },
+    {
+      "name": "Lean beef mince (<5% fat) (250g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
+    },
+    {
+      "name": "Parsley (10g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
+    },
+    {
+      "name": "Bulgur wheat (130g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
+    },
+    {
+      "name": "Honey (25g)",
+      "quantity": "",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "text": "<p>Boil a kettle</p><p>Heat a large, wide-based pan (preferably non-stick) with a drizzle of <strong>olive oil</strong> over a high heat</p><p>Once hot, add your<strong> mince</strong> and cook for 3 min or until it's starting to brown, breaking it up with a wooden spoon as you go</p><p>Peel and finely chop (or grate) your <strong>garlic</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-1-1747230532043-x200.jpg"
+    },
+    {
+      "step": 2,
+      "text": "<p>Discard any excess oil from the pan, then stir in the <strong>chopped garlic</strong>, <strong>ras el hanout</strong> and<strong> beef</strong> <strong>stock mix</strong></p><p>Reduce the heat to medium-low and cook for 9-10 min or until the mince is cooked through (no pink meat!)</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-2-1747230544503-x200.jpg"
+    },
+    {
+      "step": 3,
+      "text": "<p>While the mince is cooking, add your <strong>bulgur wheat</strong> to a pot with plenty of <strong>boiled water</strong> and a pinch of <strong>salt </strong>(the same as you would for pasta)</p><p>Bring to the boil over a high heat and cook for 7-9 min or until tender with a slight bite</p><p>Once cooked, drain and return to the pot</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-3-1747230552511-x200.jpg"
+    },
+    {
+      "step": 4,
+      "text": "<p>Meanwhile, dice your <strong>tomato[es] </strong>finely</p><p>Chop your <strong>parsley</strong> finely, including the stalks</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-4-1747230560007-x200.jpg"
+    },
+    {
+      "step": 5,
+      "text": "<p>Add your <strong>honey</strong> to the beef and continue to cook for 1 min further before removing the pan from the heat to cool slightly – this is your <strong>honey mince</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-5-1747230569540-x200.jpg"
+    },
+    {
+      "step": 6,
+      "text": "<p>Add the <strong>drained</strong> <strong>bulgur wheat</strong> to a mixing bowl with the<strong> diced tomato</strong>, the juice of <strong>half</strong> your <strong>lemon[s] </strong>and a drizzle of <strong>olive oil</strong></p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-6-1747230581200-x200.jpg"
+    },
+    {
+      "step": 7,
+      "text": "<p>Add the <strong>honey mince</strong> and most of the<strong> chopped parsley</strong> (save some for garnish!)<strong> </strong>and give everything a good mix up</p><p>Taste for seasoning, adding more <strong>salt</strong> and <strong>pepper</strong> if needed – this is your <strong>warm</strong> <strong>lemony lean beef tabbouleh</strong></p><p>Cut the <strong>remaining lemon</strong> into 1 wedge per person</p>",
+      "imageUrl": "https://production-media.gousto.co.uk/cms/recipe-step-image/step-7-1747230587882-x200.jpg"
+    },
+    {
+      "step": 8,
+      "text": "<p>Serve your <strong>warm lemony lean beef tabbouleh</strong> and garnish with the <strong>remaining chopped parsley</strong> and a <strong>lemon wedge</strong></p><p>Enjoy!</p>"
+    }
+  ],
+  "nutrition": {
+    "perServing": {
+      "calories": 476,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  "basics": [
+    "Salt",
+    "Olive oil"
+  ]
+}
