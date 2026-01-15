@@ -18,85 +18,191 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (1tsp) x0",
-      "quantity": "",
+      "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Lean pork mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "White basmati rice (65g) x0",
-      "quantity": "",
+      "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+      "name": "white basmati rice",
+      "label": "White basmati rice (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Lean pork mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Fresh root ginger (15g)",
-      "quantity": "",
+      "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "label": "Fresh root ginger (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "Fresh lemongrass stalk",
-      "quantity": "",
+      "id": "2476df32-b40f-4b37-8362-18bf91f454dd",
+      "name": "fresh lemongrass stalk",
+      "label": "Fresh lemongrass stalk",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-fresh-lemongrass-x200.jpg"
     },
     {
-      "name": "White basmati rice (130g)",
-      "quantity": "",
+      "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+      "name": "white basmati rice",
+      "label": "White basmati rice (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Hoisin sauce (40g)",
-      "quantity": "",
+      "id": "74311c86-2d88-4c4b-9e0a-fd504da96054",
+      "name": "hoisin sauce",
+      "label": "Hoisin sauce (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-sauce-x200.jpg"
     },
     {
-      "name": "Coriander (5g)",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "Coriander (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Aubergine x2",
-      "quantity": "",
+      "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "label": "Aubergine x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg"
     },
     {
-      "name": "Hoisin sauce (20g) x0",
-      "quantity": "",
+      "id": "83d66e6b-f373-4cc1-99fc-2551ac75749f",
+      "name": "hoisin sauce",
+      "label": "Hoisin sauce (20g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/hoisin-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "2476df32-b40f-4b37-8362-18bf91f454dd",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "83d66e6b-f373-4cc1-99fc-2551ac75749f",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "2476df32-b40f-4b37-8362-18bf91f454dd",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "74311c86-2d88-4c4b-9e0a-fd504da96054",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "2476df32-b40f-4b37-8362-18bf91f454dd",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "74311c86-2d88-4c4b-9e0a-fd504da96054",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "2476df32-b40f-4b37-8362-18bf91f454dd",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "74311c86-2d88-4c4b-9e0a-fd504da96054",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "2476df32-b40f-4b37-8362-18bf91f454dd",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "74311c86-2d88-4c4b-9e0a-fd504da96054",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -14,6 +14,18 @@ export interface RecipeSummary {
   hasDetails?: boolean;
 }
 
+export interface Ingredient {
+  id: string;
+  name: string;
+  label: string;
+  imageUrl?: string;
+}
+
+export interface PortionSize {
+  portions: number;
+  ingredientIds: string[];
+}
+
 export interface RecipeDetail {
   uid: string;
   title: string;
@@ -33,11 +45,9 @@ export interface RecipeDetail {
   };
   cuisine: string;
   dietType?: string;
-  ingredients: Array<{
-    name: string;
-    quantity: string;
-    imageUrl?: string;
-  }>;
+  ingredients: Ingredient[];
+  portionSizes: PortionSize[];
+  availableServings: number[];
   instructions: Array<{
     step: number;
     text: string;

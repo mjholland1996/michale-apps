@@ -18,55 +18,143 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Diced pollock (100g) x0",
-      "quantity": "",
+      "id": "16bc73b1-ac3b-49fb-b15c-22cf6a7c50bd",
+      "name": "diced pollock",
+      "label": "Diced pollock (100g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Diced-Pollock-x200.jpg"
     },
     {
-      "name": "Diced pollock (200g)",
-      "quantity": "",
+      "id": "2e201371-0ef3-4f08-8e17-2c28b22d1b4c",
+      "name": "diced pollock",
+      "label": "Diced pollock (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Diced-Pollock-x200.jpg"
     },
     {
-      "name": "Leek",
-      "quantity": "",
+      "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "label": "Leek",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Shallot",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "Shallot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Soft cheese (50g)",
-      "quantity": "",
+      "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "label": "Soft cheese (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
     },
     {
-      "name": "Chives (5g)",
-      "quantity": "",
+      "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "label": "Chives (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "16bc73b1-ac3b-49fb-b15c-22cf6a7c50bd",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "2e201371-0ef3-4f08-8e17-2c28b22d1b4c",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "2e201371-0ef3-4f08-8e17-2c28b22d1b4c",
+        "16bc73b1-ac3b-49fb-b15c-22cf6a7c50bd",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "2e201371-0ef3-4f08-8e17-2c28b22d1b4c",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "2e201371-0ef3-4f08-8e17-2c28b22d1b4c",
+        "16bc73b1-ac3b-49fb-b15c-22cf6a7c50bd",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

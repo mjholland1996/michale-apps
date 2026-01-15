@@ -18,55 +18,101 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "11g beef stock mix",
-      "quantity": "",
+      "id": "8e096433-e7cf-4a14-95f0-c81730b98f56",
+      "name": "beef stock mix",
+      "label": "11g beef stock mix",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "16g tomato paste",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "16g tomato paste",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "160g Tenderstem broccoli",
-      "quantity": "",
+      "id": "e25cae09-5a50-43e2-9b35-6553bc027b23",
+      "name": "Tenderstem broccoli",
+      "label": "160g Tenderstem broccoli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg"
     },
     {
-      "name": "40g cheddar cheese",
-      "quantity": "",
+      "id": "350cad26-4f24-4eff-bfe8-2ca6451e9631",
+      "name": "cheddar cheese",
+      "label": "40g cheddar cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "4 white potatoes",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "4 white potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "1 carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "1 carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "250g British beef mince",
-      "quantity": "",
+      "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+      "name": "beef mince",
+      "label": "250g British beef mince",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "8g Marmite ",
-      "quantity": "",
+      "id": "23935a7d-bed7-4bb2-863d-9e826b549e47",
+      "name": "Marmite",
+      "label": "8g Marmite ",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x200.jpg"
     },
     {
-      "name": "2 garlic cloves",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "2 garlic cloves",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "1 red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "1 red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "350cad26-4f24-4eff-bfe8-2ca6451e9631",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "8e096433-e7cf-4a14-95f0-c81730b98f56"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "350cad26-4f24-4eff-bfe8-2ca6451e9631",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "8e096433-e7cf-4a14-95f0-c81730b98f56"
+      ]
+    }
+  ],
+  "availableServings": [
+    2,
+    4
   ],
   "instructions": [
     {

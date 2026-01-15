@@ -18,66 +18,80 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "50ml mayonnaise",
-      "quantity": "",
+      "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "label": "50ml mayonnaise",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "1 garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "1 garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "1 red pepper",
-      "quantity": "",
+      "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "label": "1 red pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
     },
     {
-      "name": "1 red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "1 red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "2 British chicken breast portions",
-      "quantity": "",
+      "id": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+      "name": "chicken breast portions",
+      "label": "2 British chicken breast portions",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "16g tomato paste",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "16g tomato paste",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "2 tsp ground coriander",
-      "quantity": "",
+      "id": "2d0ddf13-1355-4c52-8836-47e95d1afd03",
+      "name": "ground coriander",
+      "label": "2 tsp ground coriander",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-coriander-x200.jpg"
     },
     {
-      "name": "2 tsp smoked paprika",
-      "quantity": "",
+      "id": "6c1fa007-a531-42bd-a635-77ee9ea6ca7e",
+      "name": "smoked paprika",
+      "label": "2 tsp smoked paprika",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "1/2 tsp dried chilli flakes",
-      "quantity": "",
+      "id": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "label": "1/2 tsp dried chilli flakes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "1 yellow pepper",
-      "quantity": "",
+      "id": "4d56f6a8-e1a5-4cf1-b273-088b02206556",
+      "name": "yellow pepper",
+      "label": "1 yellow pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/yellow-pepper-1-x200.jpg"
     },
     {
-      "name": "1 tomato",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "1 tomato",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "4 white potatoes",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "4 white potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

@@ -18,85 +18,196 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Ground turmeric (1tsp)",
-      "quantity": "",
+      "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Slow cooked duck leg x0",
-      "quantity": "",
+      "id": "160142db-dd35-4056-8f17-13c23edfa2ee",
+      "name": "slow cooked duck leg",
+      "label": "Slow cooked duck leg x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-cooked-British-duck-leg-x200.jpg"
     },
     {
-      "name": "Ground turmeric (0.5tsp) x0",
-      "quantity": "",
+      "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (0.5tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Cornflour (1tbsp)",
-      "quantity": "",
+      "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "label": "Cornflour (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Sambal oelek (20g)",
-      "quantity": "",
+      "id": "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+      "name": "sambal oelek",
+      "label": "Sambal oelek (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Sambal-Paste-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Slow cooked duck legs (2pcs)",
-      "quantity": "",
+      "id": "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+      "name": "slow cooked duck legs",
+      "label": "Slow cooked duck legs (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Confit-Duck-Legs-x200.jpg"
     },
     {
-      "name": "Carrot, mooli & pink cabbage slaw mix (160g)",
-      "quantity": "",
+      "id": "076a3314-6216-4cc6-bd92-188d2c9404e8",
+      "name": "mooli slaw mix",
+      "label": "Carrot, mooli & pink cabbage slaw mix (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mooli-Slaw-x200.jpg"
     },
     {
-      "name": "White basmati rice (65g) x0",
-      "quantity": "",
+      "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+      "name": "white basmati rice",
+      "label": "White basmati rice (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "White basmati rice (130g)",
-      "quantity": "",
+      "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+      "name": "white basmati rice",
+      "label": "White basmati rice (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Red chilli relish (25g)",
-      "quantity": "",
+      "id": "58516075-8bdb-4567-9f1f-8135695ef8b4",
+      "name": "red chilli relish",
+      "label": "Red chilli relish (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-jam-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "Lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "076a3314-6216-4cc6-bd92-188d2c9404e8",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "abb2d5af-131e-4e82-9546-705ab185cc37",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "076a3314-6216-4cc6-bd92-188d2c9404e8",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "076a3314-6216-4cc6-bd92-188d2c9404e8",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "076a3314-6216-4cc6-bd92-188d2c9404e8",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "076a3314-6216-4cc6-bd92-188d2c9404e8",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "8544cfa6-69b5-4789-a3a3-125f7c3459f5",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

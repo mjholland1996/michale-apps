@@ -18,95 +18,217 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Tomato ketchup (30ml)",
-      "quantity": "",
+      "id": "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Tomato ketchup (15ml) x0",
-      "quantity": "",
+      "id": "43938034-cb9a-45cb-ad78-44234261fb46",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml)",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml) x0",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Smoked streaky bacon (90g)",
-      "quantity": "",
+      "id": "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+      "name": "smoked streaky bacon",
+      "label": "Smoked streaky bacon (90g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (30g)",
-      "quantity": "",
+      "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Mustard ketchup (20g)",
-      "quantity": "",
+      "id": "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+      "name": "mustard ketchup",
+      "label": "Mustard ketchup (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mustard-ketchup-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Brioche style buns (2pcs)",
-      "quantity": "",
+      "id": "3843fd0b-c75c-457f-99fb-378721464a4d",
+      "name": "brioche style buns",
+      "label": "Brioche style buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "Smoked streaky bacon (45g) x0",
-      "quantity": "",
+      "id": "1d5d40b7-a408-47b1-b755-1a758a49417f",
+      "name": "smoked streaky bacon",
+      "label": "Smoked streaky bacon (45g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "3453b382-e269-40c1-941a-42a13727987c",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Henderson's Relish (15ml)",
-      "quantity": "",
+      "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "label": "Henderson's Relish (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
     },
     {
-      "name": "Rosemary (5g)",
-      "quantity": "",
+      "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+      "name": "rosemary",
+      "label": "Rosemary (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Gem lettuces (2pcs) x0",
-      "quantity": "",
+      "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+      "name": "gem lettuces",
+      "label": "Gem lettuces (2pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (60g) x0",
-      "quantity": "",
+      "id": "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (60g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "1d5d40b7-a408-47b1-b755-1a758a49417f",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "1d5d40b7-a408-47b1-b755-1a758a49417f",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "260e9953-719b-430a-b7ef-f2c6e0aa56a5",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "1d5d40b7-a408-47b1-b755-1a758a49417f",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

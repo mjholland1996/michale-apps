@@ -18,50 +18,138 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Portobello mushroom tortelloni (250g)",
-      "quantity": "",
+      "id": "b9133451-2401-47ce-8fed-30c9e2c89d22",
+      "name": "portobello mushroom tortelloni",
+      "label": "Portobello mushroom tortelloni (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Tortelloni-copy-2-x200.jpg"
     },
     {
-      "name": "Fennel seeds (1tsp)",
-      "quantity": "",
+      "id": "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+      "name": "fennel seeds",
+      "label": "Fennel seeds (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-fennel-seeds-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Gu Tiramisu 2x80g (2pcs)",
-      "quantity": "",
+      "id": "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+      "name": "Gu Tiramisu 2x80g",
+      "label": "Gu Tiramisu 2x80g (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Gu-Tirimasu-x200.jpg"
     },
     {
-      "name": "Sausage meat (150g)",
-      "quantity": "",
+      "id": "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+      "name": "sausage meat",
+      "label": "Sausage meat (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x200.jpg"
     },
     {
-      "name": "Grated Italian hard cheese (30g)",
-      "quantity": "",
+      "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "label": "Grated Italian hard cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Soft cheese (50g)",
-      "quantity": "",
+      "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "label": "Soft cheese (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Leek",
-      "quantity": "",
+      "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "label": "Leek",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "b9133451-2401-47ce-8fed-30c9e2c89d22",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "b9133451-2401-47ce-8fed-30c9e2c89d22",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "b9133451-2401-47ce-8fed-30c9e2c89d22",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "b9133451-2401-47ce-8fed-30c9e2c89d22",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "5a2b0038-8ca2-46fe-b43e-f6004f4e0ed7",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "1a127de8-5cb9-4663-b6df-459c43a62e8e",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "b9133451-2401-47ce-8fed-30c9e2c89d22",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

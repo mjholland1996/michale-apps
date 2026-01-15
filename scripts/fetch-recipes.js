@@ -121,6 +121,25 @@ function fetchRecipeDetail(slug) {
       ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
       ?.image;
 
+    // Process portion sizes - maps serving count to ingredient IDs
+    const portionSizes = (entry.portion_sizes ?? [])
+      .filter(ps => ps.is_offered)
+      .map(ps => ({
+        portions: ps.portions,
+        ingredientIds: (ps.ingredients_skus ?? []).map(sku => sku.id),
+      }));
+
+    // Get available serving sizes (typically 2-5)
+    const availableServings = portionSizes.map(ps => ps.portions).sort((a, b) => a - b);
+
+    // Store all ingredients with their IDs for portion-based filtering
+    const ingredients = (entry.ingredients ?? []).map(ing => ({
+      id: ing.gousto_uuid ?? ing.uid ?? '',
+      name: ing.name ?? '',
+      label: ing.label ?? ing.title ?? '',
+      imageUrl: ing.media?.images?.[0]?.image,
+    }));
+
     return {
       uid: entry.uid,
       title: entry.title,
@@ -140,13 +159,9 @@ function fetchRecipeDetail(slug) {
       },
       cuisine: entry.recipe_cuisine ?? '',
       dietType: entry.recipe_diet_type ?? '',
-      ingredients: (entry.ingredients ?? []).map(ing => ({
-        name: ing.label ?? ing.title ?? '',
-        quantity: ing.quantity
-          ? `${ing.quantity.amount ?? ''} ${ing.quantity.unit ?? ''}`.trim()
-          : '',
-        imageUrl: ing.media?.images?.[0]?.image,
-      })),
+      ingredients,
+      portionSizes,
+      availableServings,
       instructions: (entry.cooking_instructions ?? [])
         .sort((a, b) => a.order - b.order)
         .map((inst, index) => ({

@@ -18,70 +18,176 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Tomato ketchup (15ml) x0",
-      "quantity": "",
+      "id": "43938034-cb9a-45cb-ad78-44234261fb46",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Spring onion",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Tomato ketchup (30ml)",
-      "quantity": "",
+      "id": "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Mustard ketchup (20g)",
-      "quantity": "",
+      "id": "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+      "name": "mustard ketchup",
+      "label": "Mustard ketchup (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mustard-ketchup-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Brioche style hot dog buns (2pcs)",
-      "quantity": "",
+      "id": "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+      "name": "brioche style hot dog buns",
+      "label": "Brioche style hot dog buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hot-dog-buns-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Pork sausage (100g) x0",
-      "quantity": "",
+      "id": "6cabe146-b769-42a7-8058-c385530be526",
+      "name": "pork sausage",
+      "label": "Pork sausage (100g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
     },
     {
-      "name": "Pork sausage (200g)",
-      "quantity": "",
+      "id": "2f1704d2-d8ce-4db3-be2f-c0ed814d7d62",
+      "name": "pork sausage",
+      "label": "Pork sausage (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Jolly-dog-pork-sausage-x200.jpg"
     },
     {
-      "name": "Crispy onions (15g)",
-      "quantity": "",
+      "id": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+      "name": "crispy onions",
+      "label": "Crispy onions (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Cider vinegar (15ml)",
-      "quantity": "",
+      "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+      "name": "cider vinegar",
+      "label": "Cider vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b2311aae-125d-4995-b0fb-ce577dd2f983",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "6cabe146-b769-42a7-8058-c385530be526",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b2311aae-125d-4995-b0fb-ce577dd2f983",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "2f1704d2-d8ce-4db3-be2f-c0ed814d7d62",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b2311aae-125d-4995-b0fb-ce577dd2f983",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "6cabe146-b769-42a7-8058-c385530be526",
+        "2f1704d2-d8ce-4db3-be2f-c0ed814d7d62",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b2311aae-125d-4995-b0fb-ce577dd2f983",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "2f1704d2-d8ce-4db3-be2f-c0ed814d7d62",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "33dd5938-19ea-40d1-baa1-967e7fbe3c37",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b2311aae-125d-4995-b0fb-ce577dd2f983",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "6cabe146-b769-42a7-8058-c385530be526",
+        "2f1704d2-d8ce-4db3-be2f-c0ed814d7d62",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

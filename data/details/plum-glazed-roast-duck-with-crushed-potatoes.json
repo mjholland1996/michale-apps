@@ -5,7 +5,7 @@
   "description": "",
   "rating": {
     "average": 5,
-    "count": 3018
+    "count": 3019
   },
   "prepTimes": {
     "for2": 40,
@@ -18,55 +18,140 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Cornflour (1tbsp)",
-      "quantity": "",
+      "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "label": "Cornflour (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Cornflour (1tsp) x0",
-      "quantity": "",
+      "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+      "name": "cornflour",
+      "label": "Cornflour (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Chantenay carrots (160g)",
-      "quantity": "",
+      "id": "7d18b8b2-e035-48fd-9da8-368c333f351e",
+      "name": "chantenay carrots",
+      "label": "Chantenay carrots (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-chantenay-carrots-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Slow cooked duck leg x0",
-      "quantity": "",
+      "id": "160142db-dd35-4056-8f17-13c23edfa2ee",
+      "name": "slow cooked duck leg",
+      "label": "Slow cooked duck leg x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-cooked-British-duck-leg-x200.jpg"
     },
     {
-      "name": "Slow cooked duck legs (2pcs)",
-      "quantity": "",
+      "id": "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+      "name": "slow cooked duck legs",
+      "label": "Slow cooked duck legs (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Confit-Duck-Legs-x200.jpg"
     },
     {
-      "name": "Blanched peas (160g)",
-      "quantity": "",
+      "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "label": "Blanched peas (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Spiced plum chutney (20g)",
-      "quantity": "",
+      "id": "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+      "name": "spiced plum chutney",
+      "label": "Spiced plum chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/spiced-plum-chutney-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "e99d52ee-e340-48fd-b354-3b7ca89ade7e",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

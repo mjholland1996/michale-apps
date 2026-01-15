@@ -18,76 +18,92 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "30ml Chinese rice wine",
-      "quantity": "",
+      "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+      "name": "Chinese rice wine",
+      "label": "30ml Chinese rice wine",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "10g coriander & mint mix",
-      "quantity": "",
+      "id": "40769a3c-952b-492d-85af-b568ada4dd95",
+      "name": "coriander & mint",
+      "label": "10g coriander & mint mix",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/coriander-and-mint-mix-x200.jpg"
     },
     {
-      "name": "15g fresh root ginger",
-      "quantity": "",
+      "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "label": "15g fresh root ginger",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "248g jumbo king prawns",
-      "quantity": "",
+      "id": "195ab8b6-b5cb-4dd7-9f45-28b163f512de",
+      "name": "jumbo king prawns",
+      "label": "248g jumbo king prawns",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/raw-peeled-king-prawns-x200.jpg"
     },
     {
-      "name": "30g panko breadcrumbs",
-      "quantity": "",
+      "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "label": "30g panko breadcrumbs",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "2g shichimi togarashi",
-      "quantity": "",
+      "id": "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+      "name": "shichimi togarashi",
+      "label": "2g shichimi togarashi",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Shichimi-Togarashi-sachet-2g-x200.jpg"
     },
     {
-      "name": "3 white potatoes",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "3 white potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "50ml mayonnaise",
-      "quantity": "",
+      "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "label": "50ml mayonnaise",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "1 carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "1 carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "2 butter brioche buns",
-      "quantity": "",
+      "id": "0b699f81-d4bc-40a4-88d4-beef250cb63a",
+      "name": "butter brioche buns",
+      "label": "2 butter brioche buns",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "125g seasonal radishes",
-      "quantity": "",
+      "id": "29efe189-b584-424e-9f22-732933024097",
+      "name": "radishes",
+      "label": "125g seasonal radishes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/125g-radishes-copy-x200.jpg"
     },
     {
-      "name": "30ml rice vinegar",
-      "quantity": "",
+      "id": "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+      "name": "rice vinegar",
+      "label": "30ml rice vinegar",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "1 red chilli",
-      "quantity": "",
+      "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "label": "1 red chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg"
     },
     {
-      "name": "1 British free-range egg",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "1 British free-range egg",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

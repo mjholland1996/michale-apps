@@ -18,100 +18,229 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Soy sauce (8ml)",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Parsnip",
-      "quantity": "",
+      "id": "a88cc6da-250c-4442-a388-e2b7d1868822",
+      "name": "parsnip",
+      "label": "Parsnip",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-Parsnips-x200.jpg"
     },
     {
-      "name": "Ground turmeric (0.5tsp) x0",
-      "quantity": "",
+      "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (0.5tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Ground turmeric (1tsp)",
-      "quantity": "",
+      "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Intense beef stock mix (5.5g)",
-      "quantity": "",
+      "id": "ec455cb7-01fc-4470-9db4-e94afca273e4",
+      "name": "intense beef stock mix",
+      "label": "Intense beef stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-mix-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp) x0",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Puff pastry (160g)",
-      "quantity": "",
+      "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+      "name": "puff pastry",
+      "label": "Puff pastry (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg"
     },
     {
-      "name": "Curry powder (2tbsp) x0",
-      "quantity": "",
+      "id": "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+      "name": "curry powder",
+      "label": "Curry powder (2tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Curry powder (1tbsp)",
-      "quantity": "",
+      "id": "72ff27f8-415a-40af-b537-92f32743fdfb",
+      "name": "curry powder",
+      "label": "Curry powder (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Beef stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "label": "Beef stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Beef mince (125g) x0",
-      "quantity": "",
+      "id": "918d5383-38a6-45c2-8c96-8f91a945e964",
+      "name": "beef mince",
+      "label": "Beef mince (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Beef mince (250g)",
-      "quantity": "",
+      "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+      "name": "beef mince",
+      "label": "Beef mince (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Mango chutney (20g)",
-      "quantity": "",
+      "id": "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+      "name": "mango chutney",
+      "label": "Mango chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
     },
     {
-      "name": "Black mustard seeds (1tsp)",
-      "quantity": "",
+      "id": "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+      "name": "black mustard seeds",
+      "label": "Black mustard seeds (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Black-Mustard-Seeds-x200.jpg"
     },
     {
-      "name": "Coriander (5g)",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "Coriander (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "White potato x2",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "918d5383-38a6-45c2-8c96-8f91a945e964",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "abb2d5af-131e-4e82-9546-705ab185cc37",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "918d5383-38a6-45c2-8c96-8f91a945e964",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "918d5383-38a6-45c2-8c96-8f91a945e964",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "1b0d51bd-900f-48b6-a7e1-a69a70a5c67e",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

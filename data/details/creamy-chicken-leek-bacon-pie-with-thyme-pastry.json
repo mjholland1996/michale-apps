@@ -18,85 +18,201 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Chicken breast portion x0",
-      "quantity": "",
+      "id": "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+      "name": "chicken breast portion",
+      "label": "Chicken breast portion x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
     },
     {
-      "name": "Bacon lardons (50g) x0",
-      "quantity": "",
+      "id": "efbc4ea1-06f0-48cd-b4b4-5cdb92e0f296",
+      "name": "bacon lardons",
+      "label": "Bacon lardons (50g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-British-bacon-lardons-x200.jpg"
     },
     {
-      "name": "Bacon lardons (100g)",
-      "quantity": "",
+      "id": "ecbe9ede-af06-4753-b232-a5273ace435e",
+      "name": "bacon lardons",
+      "label": "Bacon lardons (100g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-British-bacon-lardons-x200.jpg"
     },
     {
-      "name": "Garlic clove x3",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Puff pastry (160g)",
-      "quantity": "",
+      "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+      "name": "puff pastry",
+      "label": "Puff pastry (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+      "name": "chicken breast portions",
+      "label": "Chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Soft cheese (50g)",
-      "quantity": "",
+      "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "label": "Soft cheese (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Chinese rice wine (15ml)",
-      "quantity": "",
+      "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "label": "Chinese rice wine (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "Fine green beans (160g)",
-      "quantity": "",
+      "id": "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+      "name": "fine green beans",
+      "label": "Fine green beans (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "Chinese rice wine (30ml) x0",
-      "quantity": "",
+      "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+      "name": "Chinese rice wine",
+      "label": "Chinese rice wine (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "Wholegrain mustard (21g)",
-      "quantity": "",
+      "id": "4cad21de-c673-4385-82b7-78aaca9c8367",
+      "name": "wholegrain mustard",
+      "label": "Wholegrain mustard (21g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-tbsp-wholegrain-mustard-x200.jpg"
     },
     {
-      "name": "Leek",
-      "quantity": "",
+      "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "label": "Leek",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg"
     },
     {
-      "name": "Fine green beans (80g) x0",
-      "quantity": "",
+      "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "label": "Fine green beans (80g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "Dill (5g)",
-      "quantity": "",
+      "id": "39feab41-f280-4381-b1da-2e182aec599f",
+      "name": "dill",
+      "label": "Dill (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-dill-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "efbc4ea1-06f0-48cd-b4b4-5cdb92e0f296",
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "39feab41-f280-4381-b1da-2e182aec599f",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "4cad21de-c673-4385-82b7-78aaca9c8367"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "ecbe9ede-af06-4753-b232-a5273ace435e",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "39feab41-f280-4381-b1da-2e182aec599f",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "4cad21de-c673-4385-82b7-78aaca9c8367"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "ecbe9ede-af06-4753-b232-a5273ace435e",
+        "efbc4ea1-06f0-48cd-b4b4-5cdb92e0f296",
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "39feab41-f280-4381-b1da-2e182aec599f",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "4cad21de-c673-4385-82b7-78aaca9c8367"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+        "ecbe9ede-af06-4753-b232-a5273ace435e",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "39feab41-f280-4381-b1da-2e182aec599f",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "4cad21de-c673-4385-82b7-78aaca9c8367"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+        "ecbe9ede-af06-4753-b232-a5273ace435e",
+        "efbc4ea1-06f0-48cd-b4b4-5cdb92e0f296",
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "39feab41-f280-4381-b1da-2e182aec599f",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "4cad21de-c673-4385-82b7-78aaca9c8367"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

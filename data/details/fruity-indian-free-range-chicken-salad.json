@@ -18,85 +18,204 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Curry powder (1tbsp)",
-      "quantity": "",
+      "id": "8705c659-4836-449a-8cea-3138af6047b6",
+      "name": "curry powder",
+      "label": "Curry powder (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp) x0",
-      "quantity": "",
+      "id": "425972b7-82d8-447d-94d0-b5690e6c65cc",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg"
     },
     {
-      "name": "Ground turmeric (1tsp)",
-      "quantity": "",
+      "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Nigella seeds (1tsp)",
-      "quantity": "",
+      "id": "07ba6283-9b57-44e5-81e0-b30d982088d4",
+      "name": "nigella seeds",
+      "label": "Nigella seeds (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg"
     },
     {
-      "name": "Sultanas (30g)",
-      "quantity": "",
+      "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "label": "Sultanas (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg"
     },
     {
-      "name": "Ground turmeric (0.5tsp) x0",
-      "quantity": "",
+      "id": "abb2d5af-131e-4e82-9546-705ab185cc37",
+      "name": "ground turmeric",
+      "label": "Ground turmeric (0.5tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "Mini garlic & coriander naans (2pcs)",
-      "quantity": "",
+      "id": "bac68053-5d66-42d7-8860-506df48b41ca",
+      "name": "mini garlic & coriander naans",
+      "label": "Mini garlic & coriander naans (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Red pepper",
-      "quantity": "",
+      "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "label": "Red pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
     },
     {
-      "name": "White basmati rice (100g)",
-      "quantity": "",
+      "id": "17539a8a-b808-4c93-b53d-a21d91136575",
+      "name": "white basmati rice",
+      "label": "White basmati rice (100g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "White basmati rice (50g) x0",
-      "quantity": "",
+      "id": "10c033ea-4d86-4744-8d88-d51dea5d2e21",
+      "name": "white basmati rice",
+      "label": "White basmati rice (50g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Mango chutney (20g)",
-      "quantity": "",
+      "id": "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+      "name": "mango chutney",
+      "label": "Mango chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
     },
     {
-      "name": "Mayonnaise (30ml)",
-      "quantity": "",
+      "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "Lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     },
     {
-      "name": "British free range chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+      "name": "free range chicken breast portions",
+      "label": "British free range chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "425972b7-82d8-447d-94d0-b5690e6c65cc",
+        "abb2d5af-131e-4e82-9546-705ab185cc37",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "10c033ea-4d86-4744-8d88-d51dea5d2e21"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "8705c659-4836-449a-8cea-3138af6047b6",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "17539a8a-b808-4c93-b53d-a21d91136575"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "425972b7-82d8-447d-94d0-b5690e6c65cc",
+        "8705c659-4836-449a-8cea-3138af6047b6",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "17539a8a-b808-4c93-b53d-a21d91136575",
+        "10c033ea-4d86-4744-8d88-d51dea5d2e21"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "8705c659-4836-449a-8cea-3138af6047b6",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "17539a8a-b808-4c93-b53d-a21d91136575"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "425972b7-82d8-447d-94d0-b5690e6c65cc",
+        "8705c659-4836-449a-8cea-3138af6047b6",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "17539a8a-b808-4c93-b53d-a21d91136575",
+        "10c033ea-4d86-4744-8d88-d51dea5d2e21"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

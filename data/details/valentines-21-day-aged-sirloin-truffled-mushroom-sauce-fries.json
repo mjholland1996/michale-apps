@@ -18,50 +18,132 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Cornish clotted cream (40g)",
-      "quantity": "",
+      "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "label": "Cornish clotted cream (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
     },
     {
-      "name": "Tenderstem broccoli (80g) x0",
-      "quantity": "",
+      "id": "f99089af-84d8-4c24-b144-079ed2f2726b",
+      "name": "Tenderstem broccoli",
+      "label": "Tenderstem broccoli (80g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg"
     },
     {
-      "name": "Sirloin steak (400g)",
-      "quantity": "",
+      "id": "fbc937b7-2ea7-453d-a046-7f8523decc14",
+      "name": "sirloin steak",
+      "label": "Sirloin steak (400g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-200g-sirloin-steak-x200.jpg"
     },
     {
-      "name": "Sirloin steak (200g) x0",
-      "quantity": "",
+      "id": "8192d130-6a31-4835-8991-2e842bfe327a",
+      "name": "sirloin steak",
+      "label": "Sirloin steak (200g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/135-sirloin-steaks-x200.jpg"
     },
     {
-      "name": "Truffle flavoured extra virgin olive oil (8ml)",
-      "quantity": "",
+      "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+      "name": "truffle flavoured extra virgin olive oil",
+      "label": "Truffle flavoured extra virgin olive oil (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x200.jpg"
     },
     {
-      "name": "Gravy base (14g)",
-      "quantity": "",
+      "id": "15f1965f-b9a5-4221-a016-31728c24e736",
+      "name": "gravy base",
+      "label": "Gravy base (14g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/gravy-paste-x200.jpg"
     },
     {
-      "name": "Tenderstem broccoli (160g)",
-      "quantity": "",
+      "id": "e25cae09-5a50-43e2-9b35-6553bc027b23",
+      "name": "Tenderstem broccoli",
+      "label": "Tenderstem broccoli (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-tenderstem-broccoli-x200.jpg"
     },
     {
-      "name": "Chestnut mushrooms (80g)",
-      "quantity": "",
+      "id": "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+      "name": "chestnut mushrooms",
+      "label": "Chestnut mushrooms (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-chestnut-mushrooms-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "f99089af-84d8-4c24-b144-079ed2f2726b",
+        "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "f99089af-84d8-4c24-b144-079ed2f2726b",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "f99089af-84d8-4c24-b144-079ed2f2726b",
+        "e25cae09-5a50-43e2-9b35-6553bc027b23",
+        "b03e9a68-9ad1-4cc3-bde3-5823be6468c2",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

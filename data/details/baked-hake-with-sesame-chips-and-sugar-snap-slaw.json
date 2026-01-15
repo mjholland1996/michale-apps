@@ -18,80 +18,197 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Spring onion",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Cod fillets (2pcs)",
-      "quantity": "",
+      "id": "36ee321e-acbe-4fd6-919a-a01ba1670905",
+      "name": "cod fillets",
+      "label": "Cod fillets (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x200.jpg"
     },
     {
-      "name": "Red chilli",
-      "quantity": "",
+      "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "label": "Red chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg"
     },
     {
-      "name": "Cod fillet x0",
-      "quantity": "",
+      "id": "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+      "name": "cod fillet",
+      "label": "Cod fillet x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/110g-cod-fillet-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (20g)",
-      "quantity": "",
+      "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Toasted sesame seeds (5g)",
-      "quantity": "",
+      "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+      "name": "toasted sesame seeds",
+      "label": "Toasted sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x200.jpg"
     },
     {
-      "name": "Parsley (5g)",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "White miso paste (17g)",
-      "quantity": "",
+      "id": "77066e71-83ba-4375-b8c3-8576da80b529",
+      "name": "white miso paste",
+      "label": "White miso paste (17g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/white-miso-paste-x200.jpg"
     },
     {
-      "name": "Carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "Lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Apple",
-      "quantity": "",
+      "id": "624ca93c-914e-4290-b00a-bd936adfebca",
+      "name": "apple",
+      "label": "Apple",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x200.jpg"
     },
     {
-      "name": "Sweet pea pods (80g)",
-      "quantity": "",
+      "id": "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+      "name": "sweet pea pods",
+      "label": "Sweet pea pods (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-sugar-snap-peas-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "77066e71-83ba-4375-b8c3-8576da80b529",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "77066e71-83ba-4375-b8c3-8576da80b529",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "77066e71-83ba-4375-b8c3-8576da80b529",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "77066e71-83ba-4375-b8c3-8576da80b529",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "0e2ffb8a-1ec8-4845-b75b-92e6710ff3fd",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "77066e71-83ba-4375-b8c3-8576da80b529",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

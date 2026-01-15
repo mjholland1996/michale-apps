@@ -18,70 +18,168 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Free range chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+      "name": "free range chicken breast portions",
+      "label": "Free range chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (125g)",
-      "quantity": "",
+      "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Chives (5g)",
-      "quantity": "",
+      "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "label": "Chives (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg"
     },
     {
-      "name": "Linguine (100g) x0",
-      "quantity": "",
+      "id": "2a364fbe-38e6-44bf-b6d2-c9ab779759c7",
+      "name": "linguine",
+      "label": "Linguine (100g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Chinese rice wine (15ml)",
-      "quantity": "",
+      "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "label": "Chinese rice wine (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (250g) x0",
-      "quantity": "",
+      "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (250g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "Linguine (190g)",
-      "quantity": "",
+      "id": "5e4d2fda-8e04-497b-b428-61c8075d7016",
+      "name": "linguine",
+      "label": "Linguine (190g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2a364fbe-38e6-44bf-b6d2-c9ab779759c7",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "5e4d2fda-8e04-497b-b428-61c8075d7016",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "5e4d2fda-8e04-497b-b428-61c8075d7016",
+        "2a364fbe-38e6-44bf-b6d2-c9ab779759c7",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "5e4d2fda-8e04-497b-b428-61c8075d7016",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "5e4d2fda-8e04-497b-b428-61c8075d7016",
+        "2a364fbe-38e6-44bf-b6d2-c9ab779759c7",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,51 +18,62 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "2 British pork loin steaks",
-      "quantity": "",
+      "id": "17efa7a1-3994-45d2-9baf-3515ef275359",
+      "name": "pork loin steaks",
+      "label": "2 British pork loin steaks",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-loin-steaks-1-x200.jpg"
     },
     {
-      "name": "1 pot of double cream (227ml)",
-      "quantity": "",
+      "id": "e03acca2-0e90-4ea0-8345-e79de07379f8",
+      "name": "double cream",
+      "label": "1 pot of double cream (227ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/double-cream-x200.jpg"
     },
     {
-      "name": "200g linguine",
-      "quantity": "",
+      "id": "923c2f49-2564-4a68-9814-d172e41a6d1b",
+      "name": "linguine",
+      "label": "200g linguine",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/190g-linguine-x200.jpg"
     },
     {
-      "name": "1/2 beef stock cube ",
-      "quantity": "",
+      "id": "6e2bf024-2e0a-4e87-bc15-785e4314b903",
+      "name": "beef stock cube",
+      "label": "1/2 beef stock cube ",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Beef-stock-cube-x200.jpg"
     },
     {
-      "name": "10g fresh parsley",
-      "quantity": "",
+      "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "label": "10g fresh parsley",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "1 garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "1 garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "150g chestnut mushrooms",
-      "quantity": "",
+      "id": "ddc4023e-ec42-4054-95d0-ef94c99bfe8e",
+      "name": "160g chestnut mushrooms",
+      "label": "150g chestnut mushrooms",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chestnut-mushrooms-x200.jpg"
     },
     {
-      "name": "30g rennet-free parmesan",
-      "quantity": "",
+      "id": "bc02d245-d50f-4780-a241-46afbfe06e1f",
+      "name": "Rennet-free parmesan cheese",
+      "label": "30g rennet-free parmesan",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rennet-free-parmesan-x200.jpg"
     },
     {
-      "name": "1 onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "1 onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

@@ -18,80 +18,184 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "671ddc57-c639-4db7-ab54-7fdc7fa2ec93",
+      "name": "chicken breast portions",
+      "label": "Chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Chicken breast portion x0",
-      "quantity": "",
+      "id": "f274998b-4e68-45a7-a637-b353b961427a",
+      "name": "chicken breast portion",
+      "label": "Chicken breast portion x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (1tsp)",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml)",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (2tsp) x0",
-      "quantity": "",
+      "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (2tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml) x0",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Ciabatta x2",
-      "quantity": "",
+      "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+      "name": "ciabatta",
+      "label": "Ciabatta x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
     },
     {
-      "name": "Garlic clove x3",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Parsley (5g) x0",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Grated Italian hard cheese (30g)",
-      "quantity": "",
+      "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "label": "Grated Italian hard cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Parsley (10g)",
-      "quantity": "",
+      "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "label": "Parsley (10g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Gem lettuces (2pcs) x0",
-      "quantity": "",
+      "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+      "name": "gem lettuces",
+      "label": "Gem lettuces (2pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "f274998b-4e68-45a7-a637-b353b961427a",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "671ddc57-c639-4db7-ab54-7fdc7fa2ec93",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "f274998b-4e68-45a7-a637-b353b961427a",
+        "671ddc57-c639-4db7-ab54-7fdc7fa2ec93",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "671ddc57-c639-4db7-ab54-7fdc7fa2ec93",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "f274998b-4e68-45a7-a637-b353b961427a",
+        "671ddc57-c639-4db7-ab54-7fdc7fa2ec93",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

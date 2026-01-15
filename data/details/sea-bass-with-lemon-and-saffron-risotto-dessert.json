@@ -18,70 +18,176 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": " Pots & Co - chocolate ganache (45g) x2",
-      "quantity": "",
+      "id": "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+      "name": " Pots & Co - chocolate ganache",
+      "label": " Pots & Co - chocolate ganache (45g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-70-chocolate2-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Sea bass fillets (2pcs)",
-      "quantity": "",
+      "id": "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+      "name": "sea bass fillets",
+      "label": "Sea bass fillets (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sea-bass-2-x200.jpg"
     },
     {
-      "name": "Sea bass fillet x0",
-      "quantity": "",
+      "id": "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+      "name": "sea bass fillet",
+      "label": "Sea bass fillet x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sea-bass-fillet-1-pcs-x200.jpg"
     },
     {
-      "name": "Lemon",
-      "quantity": "",
+      "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "label": "Lemon",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
     },
     {
-      "name": "Arborio rice (160g)",
-      "quantity": "",
+      "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+      "name": "arborio rice",
+      "label": "Arborio rice (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Saffron (1pkt)",
-      "quantity": "",
+      "id": "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+      "name": "saffron",
+      "label": "Saffron (1pkt)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pinch-of-saffron-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "6f786d72-21cc-4eff-8e35-b3a648bf9005",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,75 +18,182 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Sriracha hot chilli sauce (8ml)",
-      "quantity": "",
+      "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+      "name": "sriracha hot chilli sauce",
+      "label": "Sriracha hot chilli sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
     },
     {
-      "name": "Carrot & cabbage slaw mix (160g)",
-      "quantity": "",
+      "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+      "name": "carrot & cabbage slaw mix",
+      "label": "Carrot & cabbage slaw mix (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg"
     },
     {
-      "name": "Chipotle paste (20g) x0",
-      "quantity": "",
+      "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+      "name": "chipotle paste",
+      "label": "Chipotle paste (20g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (25ml)",
-      "quantity": "",
+      "id": "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "524ef883-ad25-46dd-9fd2-2d680cacc646",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Ultimate vegan burger patties (2pcs)",
-      "quantity": "",
+      "id": "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+      "name": "ultimate vegan burger patties",
+      "label": "Ultimate vegan burger patties (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
     },
     {
-      "name": "Chipotle paste (40g)",
-      "quantity": "",
+      "id": "6181d96e-d862-479f-9f24-626b4c531cc5",
+      "name": "chipotle paste",
+      "label": "Chipotle paste (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
     },
     {
-      "name": "Plain tortillas (6pcs)",
-      "quantity": "",
+      "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+      "name": "plain tortillas",
+      "label": "Plain tortillas (6pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Coriander (5g)",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "Coriander (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "Green chilli",
-      "quantity": "",
+      "id": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+      "name": "green chilli",
+      "label": "Green chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
     },
     {
-      "name": "Lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "Lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "6181d96e-d862-479f-9f24-626b4c531cc5",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "6181d96e-d862-479f-9f24-626b4c531cc5",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "6181d96e-d862-479f-9f24-626b4c531cc5",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "6181d96e-d862-479f-9f24-626b4c531cc5",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

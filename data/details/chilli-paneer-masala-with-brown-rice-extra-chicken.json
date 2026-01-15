@@ -18,65 +18,164 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Curry powder (0.5tbsp) x0",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Paneer (200g)",
-      "quantity": "",
+      "id": "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+      "name": "paneer",
+      "label": "Paneer (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
     },
     {
-      "name": "Curry powder (1tbsp)",
-      "quantity": "",
+      "id": "72ff27f8-415a-40af-b537-92f32743fdfb",
+      "name": "curry powder",
+      "label": "Curry powder (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Cayenne pepper (0.5tsp)",
-      "quantity": "",
+      "id": "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+      "name": "cayenne pepper",
+      "label": "Cayenne pepper (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/12-tsp-cayenne-pepper-x200.jpg"
     },
     {
-      "name": "British chicken breast portion",
-      "quantity": "",
+      "id": "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+      "name": "chicken breast portion",
+      "label": "British chicken breast portion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
     },
     {
-      "name": "Natural yoghurt (80g)",
-      "quantity": "",
+      "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "label": "Natural yoghurt (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg"
     },
     {
-      "name": "Mini garlic & coriander naans (2pcs)",
-      "quantity": "",
+      "id": "bac68053-5d66-42d7-8860-506df48b41ca",
+      "name": "mini garlic & coriander naans",
+      "label": "Mini garlic & coriander naans (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
     },
     {
-      "name": "Cooked brown long grain rice (280g)",
-      "quantity": "",
+      "id": "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+      "name": "cooked brown long grain rice",
+      "label": "Cooked brown long grain rice (280g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Tomato x2",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+        "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+        "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+        "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+        "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "cb4be6c9-5ba9-4341-a1d9-e2ca87e78775",
+        "1ce7caa3-bc52-4aad-b8cb-9c2930ad371e",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

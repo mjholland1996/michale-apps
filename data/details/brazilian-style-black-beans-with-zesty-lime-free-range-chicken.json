@@ -18,85 +18,204 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "British free range chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+      "name": "free range chicken breast portions",
+      "label": "British free range chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Ground cumin (1tsp)",
-      "quantity": "",
+      "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+      "name": "ground cumin",
+      "label": "Ground cumin (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg"
     },
     {
-      "name": "Mango chutney (20g)",
-      "quantity": "",
+      "id": "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+      "name": "mango chutney",
+      "label": "Mango chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
     },
     {
-      "name": "Black beans (390g)",
-      "quantity": "",
+      "id": "cf0df93e-2f50-4f36-9c1a-1101c84ea9e1",
+      "name": "black beans",
+      "label": "Black beans (390g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (2tsp)",
-      "quantity": "",
+      "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (2tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (1tsp) x0",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Black beans (185g) x0",
-      "quantity": "",
+      "id": "ef3818a0-a021-4ae0-acff-b2ed91392a30",
+      "name": "black beans",
+      "label": "Black beans (185g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-black-beans-400g-x200.jpg"
     },
     {
-      "name": "Spring onion",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Brown long grain rice (65g) x0",
-      "quantity": "",
+      "id": "a82cde06-2866-4881-8a56-f9b1c5383901",
+      "name": "brown long grain rice",
+      "label": "Brown long grain rice (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
     },
     {
-      "name": "Brown long grain rice (130g)",
-      "quantity": "",
+      "id": "39e0c941-6dad-405a-9987-2b662c32bcd8",
+      "name": "brown long grain rice",
+      "label": "Brown long grain rice (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
     },
     {
-      "name": "Chipotle paste (20g)",
-      "quantity": "",
+      "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+      "name": "chipotle paste",
+      "label": "Chipotle paste (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Red chilli",
-      "quantity": "",
+      "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "label": "Red chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg"
     },
     {
-      "name": "Lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "Lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "ef3818a0-a021-4ae0-acff-b2ed91392a30",
+        "a82cde06-2866-4881-8a56-f9b1c5383901",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "cf0df93e-2f50-4f36-9c1a-1101c84ea9e1",
+        "39e0c941-6dad-405a-9987-2b662c32bcd8",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "cf0df93e-2f50-4f36-9c1a-1101c84ea9e1",
+        "ef3818a0-a021-4ae0-acff-b2ed91392a30",
+        "39e0c941-6dad-405a-9987-2b662c32bcd8",
+        "a82cde06-2866-4881-8a56-f9b1c5383901",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "cf0df93e-2f50-4f36-9c1a-1101c84ea9e1",
+        "39e0c941-6dad-405a-9987-2b662c32bcd8",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "cf0df93e-2f50-4f36-9c1a-1101c84ea9e1",
+        "ef3818a0-a021-4ae0-acff-b2ed91392a30",
+        "39e0c941-6dad-405a-9987-2b662c32bcd8",
+        "a82cde06-2866-4881-8a56-f9b1c5383901",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

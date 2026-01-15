@@ -18,80 +18,190 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Cornflour (1tsp)",
-      "quantity": "",
+      "id": "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+      "name": "cornflour",
+      "label": "Cornflour (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Dried thyme (0.5tsp)",
-      "quantity": "",
+      "id": "faaba086-0ac5-437b-82b0-982322df861b",
+      "name": "dried thyme",
+      "label": "Dried thyme (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-thyme-2-x200.jpg"
     },
     {
-      "name": "Chantenay carrots (160g)",
-      "quantity": "",
+      "id": "7d18b8b2-e035-48fd-9da8-368c333f351e",
+      "name": "chantenay carrots",
+      "label": "Chantenay carrots (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-chantenay-carrots-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Slow cooked duck leg x0",
-      "quantity": "",
+      "id": "160142db-dd35-4056-8f17-13c23edfa2ee",
+      "name": "slow cooked duck leg",
+      "label": "Slow cooked duck leg x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-cooked-British-duck-leg-x200.jpg"
     },
     {
-      "name": "Slow cooked duck legs (2pcs)",
-      "quantity": "",
+      "id": "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+      "name": "slow cooked duck legs",
+      "label": "Slow cooked duck legs (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Confit-Duck-Legs-x200.jpg"
     },
     {
-      "name": "Parsley (5g)",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Shallot",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "Shallot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Orange",
-      "quantity": "",
+      "id": "9745436e-547d-4510-9abf-192ad1d1a5f0",
+      "name": "orange",
+      "label": "Orange",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/orange-x200.jpg"
     },
     {
-      "name": "Honey (25g)",
-      "quantity": "",
+      "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "label": "Honey (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "9745436e-547d-4510-9abf-192ad1d1a5f0",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "9745436e-547d-4510-9abf-192ad1d1a5f0",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "9745436e-547d-4510-9abf-192ad1d1a5f0",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "9745436e-547d-4510-9abf-192ad1d1a5f0",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "7d18b8b2-e035-48fd-9da8-368c333f351e",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "c0fa06ef-52b1-4097-8bac-ec543c38468c",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "9745436e-547d-4510-9abf-192ad1d1a5f0",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

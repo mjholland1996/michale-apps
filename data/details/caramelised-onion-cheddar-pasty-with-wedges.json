@@ -18,56 +18,68 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "150g puff pastry",
-      "quantity": "",
+      "id": "83b711fb-68c8-4e3b-bc4a-02f8ed21c8a6",
+      "name": "vegan puff pastry",
+      "label": "150g puff pastry",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/VPastry-x200.jpg"
     },
     {
-      "name": "50g baby leaf salad",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "50g baby leaf salad",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "5g parsley",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "5g parsley",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "2 pots of mustard ketchup (40g)",
-      "quantity": "",
+      "id": "6a52c23b-dba4-4be3-a7b6-28170d8db4eb",
+      "name": "mustard ketchup",
+      "label": "2 pots of mustard ketchup (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mustard-ketchup-pot-20g-x200.jpg"
     },
     {
-      "name": "1 pot of soft cheese (50g)",
-      "quantity": "",
+      "id": "ce4e14ae-e7fc-4452-86a3-fe439fe26df4",
+      "name": "soft cheese",
+      "label": "1 pot of soft cheese (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/soft-cheese-1-x200.jpg"
     },
     {
-      "name": "80g cheddar cheese",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "80g cheddar cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "1 cider vinegar sachet (15ml)",
-      "quantity": "",
+      "id": "b2311aae-125d-4995-b0fb-ce577dd2f983",
+      "name": "cider vinegar",
+      "label": "1 cider vinegar sachet (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "125g cherry tomatoes",
-      "quantity": "",
+      "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "label": "125g cherry tomatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "1 brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "1 brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "3 white potatoes",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "3 white potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

@@ -18,65 +18,160 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Bulgur wheat (65g) x0",
-      "quantity": "",
+      "id": "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+      "name": "bulgur wheat",
+      "label": "Bulgur wheat (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Ras el hanout (1tbsp)",
-      "quantity": "",
+      "id": "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+      "name": "ras el hanout",
+      "label": "Ras el hanout (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ras-el-hanout-x200.jpg"
     },
     {
-      "name": "Beef stock mix (5.5g)",
-      "quantity": "",
+      "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "label": "Beef stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Tomato x2",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Parsley (5g) x0",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Lemon",
-      "quantity": "",
+      "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "label": "Lemon",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "3453b382-e269-40c1-941a-42a13727987c",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Parsley (10g)",
-      "quantity": "",
+      "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "label": "Parsley (10g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Bulgur wheat (130g)",
-      "quantity": "",
+      "id": "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+      "name": "bulgur wheat",
+      "label": "Bulgur wheat (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
     },
     {
-      "name": "Honey (25g)",
-      "quantity": "",
+      "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "label": "Honey (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+        "5c14a222-aa12-4d98-a108-106ca1693363"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+        "5c14a222-aa12-4d98-a108-106ca1693363"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+        "5c14a222-aa12-4d98-a108-106ca1693363"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+        "5c14a222-aa12-4d98-a108-106ca1693363"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "2ad9f7c1-18f7-4974-b647-95059a432969",
+        "631dc7d6-b411-48bf-b6a8-eafc30e89fb0",
+        "5c14a222-aa12-4d98-a108-106ca1693363"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,60 +18,154 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Jumbo king prawns (212g)",
-      "quantity": "",
+      "id": "511c8269-6cd0-43bc-9d91-f868b96d7738",
+      "name": "jumbo king prawns",
+      "label": "Jumbo king prawns (212g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
     },
     {
-      "name": "Garlic clove x3",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Jumbo king prawns (106g) x0",
-      "quantity": "",
+      "id": "a86595ba-cf01-426c-87af-1eb3feb81719",
+      "name": "jumbo king prawns",
+      "label": "Jumbo king prawns (106g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/248g-jumbo-king-prawns-x200.jpg"
     },
     {
-      "name": "Lemon",
-      "quantity": "",
+      "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "label": "Lemon",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
     },
     {
-      "name": "Arborio rice (160g)",
-      "quantity": "",
+      "id": "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+      "name": "arborio rice",
+      "label": "Arborio rice (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-arborio-rice-x200.jpg"
     },
     {
-      "name": "Italian hard cheese (20g)",
-      "quantity": "",
+      "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+      "name": "Italian hard cheese",
+      "label": "Italian hard cheese (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Courgette",
-      "quantity": "",
+      "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "label": "Courgette",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg"
     },
     {
-      "name": "Rocket (20g)",
-      "quantity": "",
+      "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "label": "Rocket (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "a86595ba-cf01-426c-87af-1eb3feb81719",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "511c8269-6cd0-43bc-9d91-f868b96d7738",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "511c8269-6cd0-43bc-9d91-f868b96d7738",
+        "a86595ba-cf01-426c-87af-1eb3feb81719",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "511c8269-6cd0-43bc-9d91-f868b96d7738",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a749d8cc-add6-4cb1-99df-6ca05a9436fa",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "511c8269-6cd0-43bc-9d91-f868b96d7738",
+        "a86595ba-cf01-426c-87af-1eb3feb81719",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

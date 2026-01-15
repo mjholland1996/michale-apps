@@ -18,100 +18,227 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Lean pork mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "Lean pork mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Spring onion",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml)",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (20ml) x0",
-      "quantity": "",
+      "id": "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (20ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (1tsp) x0",
-      "quantity": "",
+      "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "White basmati rice (65g) x0",
-      "quantity": "",
+      "id": "1b567531-3d45-4705-97a5-e2056fa33b9f",
+      "name": "white basmati rice",
+      "label": "White basmati rice (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Fresh root ginger (15g)",
-      "quantity": "",
+      "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "label": "Fresh root ginger (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "Pak choi (200g)",
-      "quantity": "",
+      "id": "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+      "name": "pak choi",
+      "label": "Pak choi (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/200g-Pak-choi-copy-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (10ml)",
-      "quantity": "",
+      "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (10ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "White basmati rice (130g)",
-      "quantity": "",
+      "id": "c5e03db6-ecd9-49da-afc3-957be2cad1fd",
+      "name": "white basmati rice",
+      "label": "White basmati rice (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Ketjap manis (20g)",
-      "quantity": "",
+      "id": "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+      "name": "ketjap manis",
+      "label": "Ketjap manis (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ketjap-manis-x200.jpg"
     },
     {
-      "name": "Free range egg x2",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "Free range egg x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Rice vinegar (30ml)",
-      "quantity": "",
+      "id": "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Rice vinegar (15ml) x0",
-      "quantity": "",
+      "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Black sesame seeds (5g)",
-      "quantity": "",
+      "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "label": "Black sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "ee62cb04-0a94-47ac-8ff8-b785bda9411a",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "b9ef6a50-3faf-42e7-83cf-b491c0b2622b",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "1b567531-3d45-4705-97a5-e2056fa33b9f",
+        "c5e03db6-ecd9-49da-afc3-957be2cad1fd"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

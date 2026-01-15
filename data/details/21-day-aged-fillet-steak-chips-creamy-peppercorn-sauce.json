@@ -18,65 +18,160 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Soy sauce (8ml)",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Sirloin steak (400g)",
-      "quantity": "",
+      "id": "fbc937b7-2ea7-453d-a046-7f8523decc14",
+      "name": "sirloin steak",
+      "label": "Sirloin steak (400g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-x-200g-sirloin-steak-x200.jpg"
     },
     {
-      "name": "Crème fraîche (80g)",
-      "quantity": "",
+      "id": "d343996b-36eb-4918-9340-ca527fb4296c",
+      "name": "crème fraîche",
+      "label": "Crème fraîche (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-pot-of-creme-fraiche-200g-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Chinese rice wine (30ml) x0",
-      "quantity": "",
+      "id": "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+      "name": "Chinese rice wine",
+      "label": "Chinese rice wine (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "Sirloin steak (200g) x0",
-      "quantity": "",
+      "id": "8192d130-6a31-4835-8991-2e842bfe327a",
+      "name": "sirloin steak",
+      "label": "Sirloin steak (200g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/135-sirloin-steaks-x200.jpg"
     },
     {
-      "name": "Shallot",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "Shallot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     },
     {
-      "name": "Chinese rice wine (15ml)",
-      "quantity": "",
+      "id": "3484b3bc-d97e-4b98-b132-7ead51932d79",
+      "name": "Chinese rice wine",
+      "label": "Chinese rice wine (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chinese-rice-wine-x200.jpg"
     },
     {
-      "name": "Fine green beans (80g) x0",
-      "quantity": "",
+      "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "label": "Fine green beans (80g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "Fine green beans (160g)",
-      "quantity": "",
+      "id": "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+      "name": "fine green beans",
+      "label": "Fine green beans (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Cracked black pepper (2.5g)",
-      "quantity": "",
+      "id": "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+      "name": "cracked black pepper",
+      "label": "Cracked black pepper (2.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-cracked-black-pepper-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+        "d343996b-36eb-4918-9340-ca527fb4296c",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+        "d343996b-36eb-4918-9340-ca527fb4296c",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3484b3bc-d97e-4b98-b132-7ead51932d79",
+        "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+        "d343996b-36eb-4918-9340-ca527fb4296c",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+        "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+        "d343996b-36eb-4918-9340-ca527fb4296c",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "f2217fd7-f969-4d05-82fd-136b9eb966e3",
+        "716cbc79-cd4d-4df1-b549-e04c70f8b031",
+        "d343996b-36eb-4918-9340-ca527fb4296c",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "ab46b9da-8d7b-4c4b-a8d4-cd09ff944f06",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "fbc937b7-2ea7-453d-a046-7f8523decc14",
+        "8192d130-6a31-4835-8991-2e842bfe327a",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

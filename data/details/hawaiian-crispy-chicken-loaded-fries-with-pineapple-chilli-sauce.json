@@ -18,70 +18,171 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Spring onion x2",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Carrot & cabbage slaw mix (160g)",
-      "quantity": "",
+      "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+      "name": "carrot & cabbage slaw mix",
+      "label": "Carrot & cabbage slaw mix (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg"
     },
     {
-      "name": "Diced chicken thigh (250g)",
-      "quantity": "",
+      "id": "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+      "name": "diced chicken thigh",
+      "label": "Diced chicken thigh (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg"
     },
     {
-      "name": "Pineapple & birds eye chilli sauce (30g)",
-      "quantity": "",
+      "id": "890bedc1-24d9-478e-abf0-039819ad69c0",
+      "name": "pineapple & birds eye chilli sauce",
+      "label": "Pineapple & birds eye chilli sauce (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pineapple-Chilli-Sauce-x200.jpg"
     },
     {
-      "name": "Cornflour (1tbsp) x2",
-      "quantity": "",
+      "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "label": "Cornflour (1tbsp) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml)",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml) x0",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Ginger paste (15g)",
-      "quantity": "",
+      "id": "88966efb-30c6-425b-9a90-0e6087c8b326",
+      "name": "ginger paste",
+      "label": "Ginger paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+        "88966efb-30c6-425b-9a90-0e6087c8b326",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+        "88966efb-30c6-425b-9a90-0e6087c8b326",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+        "88966efb-30c6-425b-9a90-0e6087c8b326",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+        "88966efb-30c6-425b-9a90-0e6087c8b326",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "8a036593-6a6b-4f8f-82dd-82280ff1029e",
+        "88966efb-30c6-425b-9a90-0e6087c8b326",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

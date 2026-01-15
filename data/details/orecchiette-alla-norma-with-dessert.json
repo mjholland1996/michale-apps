@@ -18,75 +18,182 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Capers (20g)",
-      "quantity": "",
+      "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+      "name": "capers",
+      "label": "Capers (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g)",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (1tsp) x0",
-      "quantity": "",
+      "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Gu coffee & hazelnut (2x65g) (2pcs)",
-      "quantity": "",
+      "id": "a5ce336e-f876-4964-a762-6f103fabd7e5",
+      "name": "Gu coffee & hazelnut (2x65g)",
+      "label": "Gu coffee & hazelnut (2x65g) (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Gu-Coffee-and-Hazlenut-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Fresh orecchiette (250g)",
-      "quantity": "",
+      "id": "945d560c-a624-4812-9294-c6fb40d142e3",
+      "name": "fresh orecchiette",
+      "label": "Fresh orecchiette (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fresh-orecchiette-x200.jpg"
     },
     {
-      "name": "Balsamic sun-dried tomato paste (30g)",
-      "quantity": "",
+      "id": "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+      "name": "balsamic sun-dried tomato paste",
+      "label": "Balsamic sun-dried tomato paste (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sun-dried-tomato-nut-pesto-x200.jpg"
     },
     {
-      "name": "Roasted garlic paste (15g)",
-      "quantity": "",
+      "id": "485c12c9-8de2-436e-b1de-9d336ccbf713",
+      "name": "roasted garlic paste",
+      "label": "Roasted garlic paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-roasted-garlic-paste-sachet-15g-x200.jpg"
     },
     {
-      "name": "Basil (5g)",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "Basil (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g) x0",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Rocket (20g)",
-      "quantity": "",
+      "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "label": "Rocket (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
     },
     {
-      "name": "Aubergine",
-      "quantity": "",
+      "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "label": "Aubergine",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "a5ce336e-f876-4964-a762-6f103fabd7e5",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "945d560c-a624-4812-9294-c6fb40d142e3",
+        "485c12c9-8de2-436e-b1de-9d336ccbf713",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "a5ce336e-f876-4964-a762-6f103fabd7e5",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "945d560c-a624-4812-9294-c6fb40d142e3",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "485c12c9-8de2-436e-b1de-9d336ccbf713",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "a5ce336e-f876-4964-a762-6f103fabd7e5",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "945d560c-a624-4812-9294-c6fb40d142e3",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "485c12c9-8de2-436e-b1de-9d336ccbf713",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "a5ce336e-f876-4964-a762-6f103fabd7e5",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "945d560c-a624-4812-9294-c6fb40d142e3",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "485c12c9-8de2-436e-b1de-9d336ccbf713",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "a5ce336e-f876-4964-a762-6f103fabd7e5",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "c6e9cd4a-b156-4852-9b2e-fcfceea5eaee",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "945d560c-a624-4812-9294-c6fb40d142e3",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "485c12c9-8de2-436e-b1de-9d336ccbf713",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,70 +18,154 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "British chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+      "name": "chicken breast portions",
+      "label": "British chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "British chicken breast portion",
-      "quantity": "",
+      "id": "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+      "name": "chicken breast portion",
+      "label": "British chicken breast portion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chicken-breast-portion-x200.jpg"
     },
     {
-      "name": "British free range egg",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "British free range egg",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (125g) x0",
-      "quantity": "",
+      "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "Dijon mustard (5.5g)",
-      "quantity": "",
+      "id": "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+      "name": "Dijon mustard",
+      "label": "Dijon mustard (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (30g)",
-      "quantity": "",
+      "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Basil (5g)",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "Basil (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Gem lettuces (2pcs) x0",
-      "quantity": "",
+      "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+      "name": "gem lettuces",
+      "label": "Gem lettuces (2pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (250g)",
-      "quantity": "",
+      "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "0a81a733-2a2f-4ab8-8697-8a3a502c65db",
+        "1eef05cd-1b5c-45ca-8a9c-f3bb72d70947",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4
   ],
   "instructions": [
     {

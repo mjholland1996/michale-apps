@@ -18,70 +18,178 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp)",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g) x2",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Shallot",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "Shallot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     },
     {
-      "name": "Plain naan (2pcs)",
-      "quantity": "",
+      "id": "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+      "name": "plain naan",
+      "label": "Plain naan (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/naan-2-x200.jpg"
     },
     {
-      "name": "Coriander (5g)",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "Coriander (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "Green chilli",
-      "quantity": "",
+      "id": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+      "name": "green chilli",
+      "label": "Green chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
     },
     {
-      "name": "Green tomato chutney (20g) x2",
-      "quantity": "",
+      "id": "26a55263-c20c-459b-952b-7c8f07be5037",
+      "name": "green tomato chutney",
+      "label": "Green tomato chutney (20g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "39a4b972-e3f4-4ef9-978e-da600ee3cc12",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

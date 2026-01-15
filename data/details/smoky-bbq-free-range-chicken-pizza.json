@@ -18,45 +18,127 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Free range chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+      "name": "free range chicken breast portions",
+      "label": "Free range chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x2",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Green pepper",
-      "quantity": "",
+      "id": "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+      "name": "green pepper",
+      "label": "Green pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (1tsp)",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Flame-baked pizza bases (2pcs)",
-      "quantity": "",
+      "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+      "name": "flame-baked pizza bases",
+      "label": "Flame-baked pizza bases (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x200.jpg"
     },
     {
-      "name": "Chipotle paste (20g)",
-      "quantity": "",
+      "id": "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+      "name": "chipotle paste",
+      "label": "Chipotle paste (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-chipotle-paste-sachet-20g-x200.jpg"
     },
     {
-      "name": "Mozzarella (125g)",
-      "quantity": "",
+      "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "label": "Mozzarella (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "4795ad08-e3d0-4275-b2df-8b27c88772cf",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

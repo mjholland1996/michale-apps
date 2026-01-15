@@ -18,85 +18,206 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "White basmati rice (130g)",
-      "quantity": "",
+      "id": "5f77383b-0530-4885-991e-ef41d67bc870",
+      "name": "white basmati rice",
+      "label": "White basmati rice (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "White basmati rice (65g) x0",
-      "quantity": "",
+      "id": "ff803e84-0a7f-4519-ada0-9f78dd6e5ce0",
+      "name": "white basmati rice",
+      "label": "White basmati rice (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-basmati-rice-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml)",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Cornish clotted cream (40g)",
-      "quantity": "",
+      "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "label": "Cornish clotted cream (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (20g)",
-      "quantity": "",
+      "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Capers (20g)",
-      "quantity": "",
+      "id": "2d57a305-e832-4831-bc1e-4b0840373bdd",
+      "name": "capers",
+      "label": "Capers (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Dijon mustard (18g)",
-      "quantity": "",
+      "id": "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+      "name": "Dijon mustard",
+      "label": "Dijon mustard (18g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Parsley (5g)",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Lemon",
-      "quantity": "",
+      "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "label": "Lemon",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "3453b382-e269-40c1-941a-42a13727987c",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Spring greens (150g)",
-      "quantity": "",
+      "id": "af9d40c0-8242-41ee-8fb0-121ce473be36",
+      "name": "spring greens",
+      "label": "Spring greens (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/150g-spring-greens-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "af9d40c0-8242-41ee-8fb0-121ce473be36",
+        "ff803e84-0a7f-4519-ada0-9f78dd6e5ce0"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "af9d40c0-8242-41ee-8fb0-121ce473be36",
+        "5f77383b-0530-4885-991e-ef41d67bc870"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "af9d40c0-8242-41ee-8fb0-121ce473be36",
+        "5f77383b-0530-4885-991e-ef41d67bc870",
+        "ff803e84-0a7f-4519-ada0-9f78dd6e5ce0"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "af9d40c0-8242-41ee-8fb0-121ce473be36",
+        "5f77383b-0530-4885-991e-ef41d67bc870"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2d57a305-e832-4831-bc1e-4b0840373bdd",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "af9d40c0-8242-41ee-8fb0-121ce473be36",
+        "5f77383b-0530-4885-991e-ef41d67bc870",
+        "ff803e84-0a7f-4519-ada0-9f78dd6e5ce0"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

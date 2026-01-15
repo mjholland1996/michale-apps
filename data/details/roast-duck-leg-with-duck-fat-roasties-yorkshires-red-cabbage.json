@@ -18,70 +18,176 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Slow cooked duck leg x0",
-      "quantity": "",
+      "id": "160142db-dd35-4056-8f17-13c23edfa2ee",
+      "name": "slow cooked duck leg",
+      "label": "Slow cooked duck leg x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-cooked-British-duck-leg-x200.jpg"
     },
     {
-      "name": "Dried thyme (0.5tsp)",
-      "quantity": "",
+      "id": "faaba086-0ac5-437b-82b0-982322df861b",
+      "name": "dried thyme",
+      "label": "Dried thyme (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-thyme-2-x200.jpg"
     },
     {
-      "name": "Red wine paste (10g)",
-      "quantity": "",
+      "id": "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+      "name": "red wine paste",
+      "label": "Red wine paste (10g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Red-wine-stock-x200.jpg"
     },
     {
-      "name": "Slow cooked duck legs (2pcs)",
-      "quantity": "",
+      "id": "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+      "name": "slow cooked duck legs",
+      "label": "Slow cooked duck legs (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Confit-Duck-Legs-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (15ml) x0",
-      "quantity": "",
+      "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "Beef stock mix (5.5g)",
-      "quantity": "",
+      "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "label": "Beef stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Free range egg",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "Free range egg",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Sultanas (30g)",
-      "quantity": "",
+      "id": "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+      "name": "sultanas",
+      "label": "Sultanas (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sultanas-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Fine green beans (80g)",
-      "quantity": "",
+      "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "label": "Fine green beans (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "Shredded red cabbage (150g)",
-      "quantity": "",
+      "id": "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+      "name": "shredded red cabbage",
+      "label": "Shredded red cabbage (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Cabbage-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (30ml)",
-      "quantity": "",
+      "id": "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "e71a0fb5-d23d-430a-a43b-0b699f965bd0",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "160142db-dd35-4056-8f17-13c23edfa2ee",
+        "8d9e0aba-c416-41d6-8fd3-4b4cb21158e0",
+        "274dea3a-0316-4b3f-ac8a-7fbf2d03ad9d",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

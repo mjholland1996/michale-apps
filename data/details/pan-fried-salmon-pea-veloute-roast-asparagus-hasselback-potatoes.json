@@ -18,51 +18,62 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "2 x 110g salmon fillets (skinless)",
-      "quantity": "",
+      "id": "52603fa7-6ac1-4598-8895-8fdd59ad71a0",
+      "name": "salmon skinless fillets",
+      "label": "2 x 110g salmon fillets (skinless)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg"
     },
     {
-      "name": "1 bag of flaked almonds",
-      "quantity": "",
+      "id": "d8804139-1bf9-4d73-a4e2-7524669a198c",
+      "name": "flaked almonds",
+      "label": "1 bag of flaked almonds",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/flaked-almonds-1-x200.jpg"
     },
     {
-      "name": "120g asparagus spears",
-      "quantity": "",
+      "id": "05dd714a-c4b0-4ad9-9786-a4e0f74e27fc",
+      "name": "asparagus spears",
+      "label": "120g asparagus spears",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x200.jpg"
     },
     {
-      "name": "400g waxy potatoes",
-      "quantity": "",
+      "id": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+      "name": "waxy potatoes",
+      "label": "400g waxy potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "1/2 vegetable stock cube",
-      "quantity": "",
+      "id": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "label": "1/2 vegetable stock cube",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg"
     },
     {
-      "name": "80g garden peas",
-      "quantity": "",
+      "id": "75e40e52-9af8-476a-bc56-193963f02c79",
+      "name": "garden peas",
+      "label": "80g garden peas",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garden-peas-2-x200.jpg"
     },
     {
-      "name": "40g Cornish clotted cream",
-      "quantity": "",
+      "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "label": "40g Cornish clotted cream",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
     },
     {
-      "name": "50g pea shoots",
-      "quantity": "",
+      "id": "bbc517b3-c0eb-4694-8c61-0366f8662b3f",
+      "name": "pea shoots",
+      "label": "50g pea shoots",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/50g-pea-shoots-x200.jpg"
     },
     {
-      "name": "2 shallots",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "2 shallots",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

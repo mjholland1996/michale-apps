@@ -18,56 +18,68 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "35g grated Italian hard cheese",
-      "quantity": "",
+      "id": "8e1376e4-7802-466b-9801-58d3d6de22ce",
+      "name": "grated italian hard cheese",
+      "label": "35g grated Italian hard cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "5g chives",
-      "quantity": "",
+      "id": "be9c9106-c5ee-4e5e-b3df-37115df94a56",
+      "name": "chives",
+      "label": "5g chives",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-chives-copy-x200.jpg"
     },
     {
-      "name": "2 British duck breasts",
-      "quantity": "",
+      "id": "83b81749-a8bc-46bd-9382-359a27893bb7",
+      "name": "duck breast",
+      "label": "2 British duck breasts",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-British-duck-breasts-x200.jpg"
     },
     {
-      "name": "1/2 Knorr chicken stock cube",
-      "quantity": "",
+      "id": "9375f43b-9967-49f2-875a-f905f2b4c701",
+      "name": "chicken stock cube",
+      "label": "1/2 Knorr chicken stock cube",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x200.jpg"
     },
     {
-      "name": "25g honey",
-      "quantity": "",
+      "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "label": "25g honey",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     },
     {
-      "name": "120g Tenderstem broccoli",
-      "quantity": "",
+      "id": "35878b6a-8ae2-4a71-a886-670fcb5677d4",
+      "name": "Tenderstem broccoli",
+      "label": "120g Tenderstem broccoli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tenderstem-broccoli-2-x200.jpg"
     },
     {
-      "name": "400g sweet potatoes",
-      "quantity": "",
+      "id": "7c6aebc6-d963-471b-b67f-11fe4b626716",
+      "name": "sweet potato",
+      "label": "400g sweet potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg"
     },
     {
-      "name": "40g Cornish clotted cream",
-      "quantity": "",
+      "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "label": "40g Cornish clotted cream",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
     },
     {
-      "name": "1 bag of pistachio nuts",
-      "quantity": "",
+      "id": "7a061001-2fb3-4e81-9ca7-65f51c5a4369",
+      "name": "pistachios",
+      "label": "1 bag of pistachio nuts",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pistachio-nuts-1-x200.jpg"
     },
     {
-      "name": "1 tbsp pomegranate molasses ",
-      "quantity": "",
+      "id": "abbafe84-e55a-4ed4-804a-4e254d0ff1a2",
+      "name": "pomegranate molasses",
+      "label": "1 tbsp pomegranate molasses ",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pomegranate-molasses-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

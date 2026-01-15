@@ -18,61 +18,74 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "2 British duck legs",
-      "quantity": "",
+      "id": "d1adc78c-14f7-414f-bf36-040d4961dc5b",
+      "name": "duck legs",
+      "label": "2 British duck legs",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-British-duck-legs-x200.jpg"
     },
     {
-      "name": "1 garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "1 garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "1 Knorr chicken stock cube",
-      "quantity": "",
+      "id": "9375f43b-9967-49f2-875a-f905f2b4c701",
+      "name": "chicken stock cube",
+      "label": "1 Knorr chicken stock cube",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Chicken-stock-cube.new-x200.jpg"
     },
     {
-      "name": "150g baby leaf red chard",
-      "quantity": "",
+      "id": "bec80ca1-3dcb-4265-a834-7b5ebaa98ec3",
+      "name": "baby red chard",
+      "label": "150g baby leaf red chard",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/150g-baby-red-chard-x200.jpg"
     },
     {
-      "name": "1 pot of crème fraîche (200g)",
-      "quantity": "",
+      "id": "324e5379-c9cc-434d-b30d-3e7f2724bbae",
+      "name": "creme fraiche",
+      "label": "1 pot of crème fraîche (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/creme-fraiche-x200.jpg"
     },
     {
-      "name": "80g mature cheddar",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "80g mature cheddar",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "5.5g Dijon mustard",
-      "quantity": "",
+      "id": "5b1d8875-b9bd-4cf5-a0c1-42652c41dcb4",
+      "name": "Dijon mustard pot",
+      "label": "5.5g Dijon mustard",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "1 cauliflower",
-      "quantity": "",
+      "id": "92c4a6e3-0189-40b9-8df6-76f9b98734c7",
+      "name": "cauliflower",
+      "label": "1 cauliflower",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-cauliflower-x200.jpg"
     },
     {
-      "name": "300g potatoes",
-      "quantity": "",
+      "id": "208b5e77-7e95-4ef6-8621-727f29f6b513",
+      "name": "potatoes",
+      "label": "300g potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "25g redcurrant jelly",
-      "quantity": "",
+      "id": "b1065347-a957-4dfc-bb86-fefb84b07bb9",
+      "name": "redcurrant jelly",
+      "label": "25g redcurrant jelly",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/I-06-SML-TRK-08-x200.jpg"
     },
     {
-      "name": "8ml truffle flavoured extra virgin olive oil",
-      "quantity": "",
+      "id": "2bc52963-20d0-455c-9de6-90f6f9b84a70",
+      "name": "truffle flavoured extra virgin olive oil",
+      "label": "8ml truffle flavoured extra virgin olive oil",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/truffle-oil-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

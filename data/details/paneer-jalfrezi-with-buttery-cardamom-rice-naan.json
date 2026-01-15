@@ -18,71 +18,86 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "130g basmati rice",
-      "quantity": "",
+      "id": "137393c6-063a-442f-8a21-6babd5fef326",
+      "name": "basmati rice",
+      "label": "130g basmati rice",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basmati-rice-x200.jpg"
     },
     {
-      "name": "2 plain naans",
-      "quantity": "",
+      "id": "94f5d024-8e71-498b-98f8-73cb3837218f",
+      "name": "plain naan",
+      "label": "2 plain naans",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-plain-naans-x200.jpg"
     },
     {
-      "name": "2 garlic cloves",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "2 garlic cloves",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "15g fresh root ginger",
-      "quantity": "",
+      "id": "90ea17bd-204c-4ded-9dac-12df03f265d6",
+      "name": "ginger",
+      "label": "15g fresh root ginger",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "200g paneer cheese",
-      "quantity": "",
+      "id": "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+      "name": "paneer",
+      "label": "200g paneer cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
     },
     {
-      "name": "1 tomato paste sachet (32g)",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "1 tomato paste sachet (32g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "1 tbsp curry powder",
-      "quantity": "",
+      "id": "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+      "name": "curry powder",
+      "label": "1 tbsp curry powder",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg"
     },
     {
-      "name": "1/2 tsp dried chilli flakes",
-      "quantity": "",
+      "id": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "label": "1/2 tsp dried chilli flakes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "6 cardamom pods",
-      "quantity": "",
+      "id": "7ef1d749-e8ca-43f9-85bc-45296edcc089",
+      "name": "cardamom pod",
+      "label": "6 cardamom pods",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cardamom-pods-x200.jpg"
     },
     {
-      "name": "1 Knorr vegetable stock cube",
-      "quantity": "",
+      "id": "bf27431e-20b0-4068-9873-46db06be35ab",
+      "name": "vegetable stock cube",
+      "label": "1 Knorr vegetable stock cube",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Vegetable-stock-cube-x200.jpg"
     },
     {
-      "name": "2 tomatoes",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "2 tomatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "1 green pepper",
-      "quantity": "",
+      "id": "7900a9b4-1033-4594-9a9f-ba1dbdbdf52d",
+      "name": "green pepper",
+      "label": "1 green pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-pepper-1-x200.jpg"
     },
     {
-      "name": "1 brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "1 brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

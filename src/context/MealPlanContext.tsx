@@ -6,14 +6,19 @@ import { RecipeSummary } from '@/types/recipe';
 const MAX_SELECTIONS = 5;
 const STORAGE_KEY = 'gousto-meal-plan';
 
+const DEFAULT_SERVING_SIZE = 2;
+
 interface MealPlanState {
   selectedRecipes: RecipeSummary[];
   confirmedRecipes: RecipeSummary[];
+  servingSize: number;
 }
 
 interface MealPlanContextType {
   selectedRecipes: RecipeSummary[];
   confirmedRecipes: RecipeSummary[];
+  servingSize: number;
+  setServingSize: (size: number) => void;
   isSelected: (slug: string) => boolean;
   toggleRecipe: (recipe: RecipeSummary) => void;
   canSelectMore: boolean;
@@ -28,6 +33,7 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<MealPlanState>({
     selectedRecipes: [],
     confirmedRecipes: [],
+    servingSize: DEFAULT_SERVING_SIZE,
   });
   const [isHydrated, setIsHydrated] = useState(false);
 
@@ -97,6 +103,13 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     }));
   };
 
+  const setServingSize = (size: number) => {
+    setState(prev => ({
+      ...prev,
+      servingSize: size,
+    }));
+  };
+
   const canSelectMore = state.selectedRecipes.length < MAX_SELECTIONS;
 
   // Don't render until hydrated to avoid hydration mismatch
@@ -109,6 +122,8 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
       value={{
         selectedRecipes: state.selectedRecipes,
         confirmedRecipes: state.confirmedRecipes,
+        servingSize: state.servingSize,
+        setServingSize,
         isSelected,
         toggleRecipe,
         canSelectMore,

@@ -18,60 +18,157 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Heritage tomatoes (160g)",
-      "quantity": "",
+      "id": "7268171b-0c06-43fc-9f06-98766d3470a2",
+      "name": "heritage tomatoes",
+      "label": "Heritage tomatoes (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Heritage-Tomatoe-x200.jpg"
     },
     {
-      "name": "Black olives (40g)",
-      "quantity": "",
+      "id": "f67d256a-866c-4110-b863-e47f32ea89f7",
+      "name": "black olives",
+      "label": "Black olives (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pitted-black-olives-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "Sea bass fillet x0",
-      "quantity": "",
+      "id": "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+      "name": "sea bass fillet",
+      "label": "Sea bass fillet x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sea-bass-fillet-1-pcs-x200.jpg"
     },
     {
-      "name": "Sea bass fillets (2pcs)",
-      "quantity": "",
+      "id": "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+      "name": "sea bass fillets",
+      "label": "Sea bass fillets (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sea-bass-2-x200.jpg"
     },
     {
-      "name": "Feta (30g)",
-      "quantity": "",
+      "id": "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+      "name": "feta",
+      "label": "Feta (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-greek-feta-cheese-x200.jpg"
     },
     {
-      "name": "Dried oregano (1tsp)",
-      "quantity": "",
+      "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "label": "Dried oregano (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Lemon",
-      "quantity": "",
+      "id": "f1332ef7-7474-4870-9221-18f33aa57c7d",
+      "name": "lemon",
+      "label": "Lemon",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lemon-admin-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "f67d256a-866c-4110-b863-e47f32ea89f7",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7268171b-0c06-43fc-9f06-98766d3470a2",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "f67d256a-866c-4110-b863-e47f32ea89f7",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7268171b-0c06-43fc-9f06-98766d3470a2",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "f67d256a-866c-4110-b863-e47f32ea89f7",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7268171b-0c06-43fc-9f06-98766d3470a2",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "f67d256a-866c-4110-b863-e47f32ea89f7",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7268171b-0c06-43fc-9f06-98766d3470a2",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "f67d256a-866c-4110-b863-e47f32ea89f7",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "9b191c6b-e6ec-41bb-9195-40b2cd147d3b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "7268171b-0c06-43fc-9f06-98766d3470a2",
+        "f1332ef7-7474-4870-9221-18f33aa57c7d",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "4dbc1454-24ec-496d-8b91-e1155ab320e5",
+        "62c690bf-b5f9-4702-bc13-683c3ffbc7c9",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,55 +18,141 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": " Pots & Co - chocolate ganache (45g) x2",
-      "quantity": "",
+      "id": "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+      "name": " Pots & Co - chocolate ganache",
+      "label": " Pots & Co - chocolate ganache (45g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-70-chocolate2-x200.jpg"
     },
     {
-      "name": "Beef stock mix (5.5g)",
-      "quantity": "",
+      "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "label": "Beef stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Proper Porker sausages (3pcs) x0",
-      "quantity": "",
+      "id": "4bd33c6b-fc35-472f-8697-7d28d20daf7c",
+      "name": "Proper Porker sausages",
+      "label": "Proper Porker sausages (3pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/3-cumberland-sausages-x200.jpg"
     },
     {
-      "name": "Proper Porker sausages (6pcs)",
-      "quantity": "",
+      "id": "f18955d1-b8d3-431d-a915-92cab5ef1a9f",
+      "name": "Proper Porker sausages",
+      "label": "Proper Porker sausages (6pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/6-cumberlandsausages-2-x200.jpg"
     },
     {
-      "name": "Onion marmalade (40g) x0",
-      "quantity": "",
+      "id": "9366f231-1a90-466f-b292-1a237e15ddaf",
+      "name": "onion marmalade",
+      "label": "Onion marmalade (40g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
     },
     {
-      "name": "Fine green beans (80g)",
-      "quantity": "",
+      "id": "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+      "name": "fine green beans",
+      "label": "Fine green beans (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-trimmed-fine-green-beans-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Onion marmalade (20g)",
-      "quantity": "",
+      "id": "0bf6cb32-c4d0-4201-8304-8133bfe8164a",
+      "name": "onion marmalade",
+      "label": "Onion marmalade (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Onion-marmalade-_2_-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "4bd33c6b-fc35-472f-8697-7d28d20daf7c",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "0bf6cb32-c4d0-4201-8304-8133bfe8164a",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "f18955d1-b8d3-431d-a915-92cab5ef1a9f",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "0bf6cb32-c4d0-4201-8304-8133bfe8164a",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "f18955d1-b8d3-431d-a915-92cab5ef1a9f",
+        "4bd33c6b-fc35-472f-8697-7d28d20daf7c",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "0bf6cb32-c4d0-4201-8304-8133bfe8164a",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "f18955d1-b8d3-431d-a915-92cab5ef1a9f",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "9366f231-1a90-466f-b292-1a237e15ddaf",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "f18955d1-b8d3-431d-a915-92cab5ef1a9f",
+        "4bd33c6b-fc35-472f-8697-7d28d20daf7c",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "846b56c4-4dad-4edb-a09d-9e2bbd5b3a73",
+        "9366f231-1a90-466f-b292-1a237e15ddaf",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,80 +18,187 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Carrot & cabbage slaw mix (160g)",
-      "quantity": "",
+      "id": "4366001c-0c31-41c9-b051-f5ddb2e73677",
+      "name": "carrot & cabbage slaw mix",
+      "label": "Carrot & cabbage slaw mix (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mixed-Slaw-x200.jpg"
     },
     {
-      "name": "Gochujang paste (30g)",
-      "quantity": "",
+      "id": "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+      "name": "gochujang paste",
+      "label": "Gochujang paste (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Gochujang-Paste--x200.jpg"
     },
     {
-      "name": "Brioche style buns (2pcs)",
-      "quantity": "",
+      "id": "3843fd0b-c75c-457f-99fb-378721464a4d",
+      "name": "brioche style buns",
+      "label": "Brioche style buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "Lean pork mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (10ml)",
-      "quantity": "",
+      "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (10ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "Lean pork mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+      "name": "lean pork mince (<5% fat)",
+      "label": "Lean pork mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-british-pork-mince-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (20ml) x0",
-      "quantity": "",
+      "id": "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (20ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "Rice vinegar (30ml) x0",
-      "quantity": "",
+      "id": "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Rice vinegar (15ml)",
-      "quantity": "",
+      "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml)",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "4366001c-0c31-41c9-b051-f5ddb2e73677",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "2cd864ed-57c3-4ac7-97de-523bc86677bb",
+        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

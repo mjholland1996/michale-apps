@@ -18,85 +18,205 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": " Pots & Co - chocolate ganache (45g) x2",
-      "quantity": "",
+      "id": "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+      "name": " Pots & Co - chocolate ganache",
+      "label": " Pots & Co - chocolate ganache (45g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/PotsCo-70-chocolate2-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (390g) x0",
-      "quantity": "",
+      "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (390g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (200g)",
-      "quantity": "",
+      "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g)",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Dried oregano (1tsp)",
-      "quantity": "",
+      "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "label": "Dried oregano (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Lasagne sheets (120g)",
-      "quantity": "",
+      "id": "06570702-e246-4437-9f56-d0fa56d0f307",
+      "name": "lasagne sheets",
+      "label": "Lasagne sheets (120g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x200.jpg"
     },
     {
-      "name": "Grated Italian hard cheese (30g)",
-      "quantity": "",
+      "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "label": "Grated Italian hard cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Mozzarella (125g)",
-      "quantity": "",
+      "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "label": "Mozzarella (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g) x0",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Henderson's Relish (15ml)",
-      "quantity": "",
+      "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "label": "Henderson's Relish (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "Aubergine",
-      "quantity": "",
+      "id": "5cac128e-7775-463a-8ddd-87a2f1588003",
+      "name": "aubergine",
+      "label": "Aubergine",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/aubergine-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "8bd94efe-d174-40fe-9a4f-32af74b2c73e",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "5cac128e-7775-463a-8ddd-87a2f1588003",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

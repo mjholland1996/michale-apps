@@ -18,75 +18,133 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "2 mini garlic & coriander naans",
-      "quantity": "",
+      "id": "bac68053-5d66-42d7-8860-506df48b41ca",
+      "name": "mini garlic & coriander naans",
+      "label": "2 mini garlic & coriander naans",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mini-naan-3-x200.jpg"
     },
     {
-      "name": "11g vegetable stock mix",
-      "quantity": "",
+      "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "label": "11g vegetable stock mix",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "200g paneer cheese",
-      "quantity": "",
+      "id": "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+      "name": "paneer",
+      "label": "200g paneer cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Paneer1-x200.jpg"
     },
     {
-      "name": "50g solid creamed coconut",
-      "quantity": "",
+      "id": "82127448-599d-47c3-a700-5dbe007ecd94",
+      "name": "solid creamed coconut",
+      "label": "50g solid creamed coconut",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
     },
     {
-      "name": "2 tsp ground paprika",
-      "quantity": "",
+      "id": "63e0c8e4-5e73-4e02-a17c-d150071fb307",
+      "name": "ground paprika",
+      "label": "2 tsp ground paprika",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "30ml cider vinegar",
-      "quantity": "",
+      "id": "6776a9e3-61d1-4d1a-9102-e9ed44cf94a3",
+      "name": "cider vinegar",
+      "label": "30ml cider vinegar",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "5g coriander",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "5g coriander",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "125g baby plum tomatoes",
-      "quantity": "",
+      "id": "1829b78a-527f-4811-a4e4-8319b409f369",
+      "name": "baby plum tomatoes",
+      "label": "125g baby plum tomatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-plum-tomatoes-1-x200.jpg"
     },
     {
-      "name": "1 tbsp curry powder",
-      "quantity": "",
+      "id": "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+      "name": "curry powder",
+      "label": "1 tbsp curry powder",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-korma-curry-powder-x200.jpg"
     },
     {
-      "name": "1 tsp ground turmeric",
-      "quantity": "",
+      "id": "82934249-3cee-4a78-8137-d99abc4d7d09",
+      "name": "ground turmeric",
+      "label": "1 tsp ground turmeric",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "1 tsp nigella seeds",
-      "quantity": "",
+      "id": "addb83ba-de3d-4567-9114-471a73395085",
+      "name": "nigella seeds",
+      "label": "1 tsp nigella seeds",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg"
     },
     {
-      "name": "2 garlic cloves",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "2 garlic cloves",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "100g red lentils",
-      "quantity": "",
+      "id": "38304ff0-980f-4bca-a176-a8c94e7c5df1",
+      "name": "red lentils",
+      "label": "100g red lentils",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-red-lentils-x200.jpg"
     },
     {
-      "name": "1 brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "1 brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+        "82934249-3cee-4a78-8137-d99abc4d7d09",
+        "addb83ba-de3d-4567-9114-471a73395085",
+        "38304ff0-980f-4bca-a176-a8c94e7c5df1",
+        "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+        "1829b78a-527f-4811-a4e4-8319b409f369",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "63e0c8e4-5e73-4e02-a17c-d150071fb307",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "6776a9e3-61d1-4d1a-9102-e9ed44cf94a3",
+        "82127448-599d-47c3-a700-5dbe007ecd94",
+        "b7839655-6d73-40c2-a235-30ea290a9c56"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "a2fd33ad-2d61-4bf7-8d6e-e42715ecba05",
+        "82934249-3cee-4a78-8137-d99abc4d7d09",
+        "addb83ba-de3d-4567-9114-471a73395085",
+        "38304ff0-980f-4bca-a176-a8c94e7c5df1",
+        "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+        "1829b78a-527f-4811-a4e4-8319b409f369",
+        "bac68053-5d66-42d7-8860-506df48b41ca",
+        "63e0c8e4-5e73-4e02-a17c-d150071fb307",
+        "a2a98683-4a63-46c7-8120-ea9dd36daa4c",
+        "6776a9e3-61d1-4d1a-9102-e9ed44cf94a3",
+        "82127448-599d-47c3-a700-5dbe007ecd94",
+        "b7839655-6d73-40c2-a235-30ea290a9c56"
+      ]
+    }
+  ],
+  "availableServings": [
+    2,
+    4
   ],
   "instructions": [
     {

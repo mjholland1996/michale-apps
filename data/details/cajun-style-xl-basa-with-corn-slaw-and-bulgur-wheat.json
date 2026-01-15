@@ -18,85 +18,179 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Spring onion x2",
-      "quantity": "",
+      "id": "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+      "name": "spring onion",
+      "label": "Spring onion x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-spring-onion-x200.jpg"
     },
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Basa fillets (2pcs) x2",
-      "quantity": "",
+      "id": "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+      "name": "basa fillets",
+      "label": "Basa fillets (2pcs) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Bulgur wheat (65g) x0",
-      "quantity": "",
+      "id": "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+      "name": "bulgur wheat",
+      "label": "Bulgur wheat (65g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
     },
     {
-      "name": "Sweetcorn (150g)",
-      "quantity": "",
+      "id": "bd21d770-b3dd-4873-baca-a1ac52694e61",
+      "name": "Sweetcorn",
+      "label": "Sweetcorn (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-sweetcorn-340g-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Southern fried seasoning (1tbsp)",
-      "quantity": "",
+      "id": "89dd15ea-dd4a-4539-84df-a420302b824c",
+      "name": "southern fried seasoning",
+      "label": "Southern fried seasoning (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/southern-fried-seasoning-1-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Pumpkin seeds (15g) x2",
-      "quantity": "",
+      "id": "8d49d7fe-1c65-4022-aae9-32fe3bb6df3a",
+      "name": "pumpkin seeds",
+      "label": "Pumpkin seeds (15g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x200.jpg"
     },
     {
-      "name": "Coriander (5g)",
-      "quantity": "",
+      "id": "b7839655-6d73-40c2-a235-30ea290a9c56",
+      "name": "coriander",
+      "label": "Coriander (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Shredded red cabbage (150g)",
-      "quantity": "",
+      "id": "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+      "name": "shredded red cabbage",
+      "label": "Shredded red cabbage (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Cabbage-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "Bulgur wheat (130g)",
-      "quantity": "",
+      "id": "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+      "name": "bulgur wheat",
+      "label": "Bulgur wheat (130g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-bulgur-wheat-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "bd21d770-b3dd-4873-baca-a1ac52694e61",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "8d49d7fe-1c65-4022-aae9-32fe3bb6df3a",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "89dd15ea-dd4a-4539-84df-a420302b824c",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "bd21d770-b3dd-4873-baca-a1ac52694e61",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "8d49d7fe-1c65-4022-aae9-32fe3bb6df3a",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "89dd15ea-dd4a-4539-84df-a420302b824c",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "bd21d770-b3dd-4873-baca-a1ac52694e61",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "a5e865dc-cff2-45cc-8d3b-4f95023cb408",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "8d49d7fe-1c65-4022-aae9-32fe3bb6df3a",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "89dd15ea-dd4a-4539-84df-a420302b824c",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "bd21d770-b3dd-4873-baca-a1ac52694e61",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "6e605a3f-32b0-4c8a-9b3c-43dddd595d6f",
+        "b7839655-6d73-40c2-a235-30ea290a9c56",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "8d49d7fe-1c65-4022-aae9-32fe3bb6df3a",
+        "3a2e73b7-2545-4e5c-824a-3a6a7f2ce2c7",
+        "89dd15ea-dd4a-4539-84df-a420302b824c",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "f0273bb0-bb2b-46e5-8ce4-7e09f413c97b",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4
   ],
   "instructions": [
     {

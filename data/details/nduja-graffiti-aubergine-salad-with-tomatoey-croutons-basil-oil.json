@@ -18,75 +18,182 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Tomato paste (32g)",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Ciabatta",
-      "quantity": "",
+      "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+      "name": "ciabatta",
+      "label": "Ciabatta",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
     },
     {
-      "name": " 'Nduja (40g)",
-      "quantity": "",
+      "id": "718f6599-8cba-4bcf-8744-e70a5ab19096",
+      "name": " 'Nduja",
+      "label": " 'Nduja (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-Nduja-2-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Graffiti aubergine",
-      "quantity": "",
+      "id": "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+      "name": "graffiti aubergine",
+      "label": "Graffiti aubergine",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Graffiti-Aubergine-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (30ml) x0",
-      "quantity": "",
+      "id": "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "Basil (5g) x0",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "Basil (5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Italian hard cheese (20g)",
-      "quantity": "",
+      "id": "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+      "name": "Italian hard cheese",
+      "label": "Italian hard cheese (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/35g-Italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g) x0",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Basil (10g)",
-      "quantity": "",
+      "id": "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+      "name": "basil",
+      "label": "Basil (10g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Red pepper",
-      "quantity": "",
+      "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "label": "Red pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
     },
     {
-      "name": "Rocket (50g)",
-      "quantity": "",
+      "id": "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+      "name": "rocket",
+      "label": "Rocket (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (15ml)",
-      "quantity": "",
+      "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "718f6599-8cba-4bcf-8744-e70a5ab19096",
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "718f6599-8cba-4bcf-8744-e70a5ab19096",
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "718f6599-8cba-4bcf-8744-e70a5ab19096",
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "718f6599-8cba-4bcf-8744-e70a5ab19096",
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "718f6599-8cba-4bcf-8744-e70a5ab19096",
+        "d5fc7e99-0340-4983-a486-e4f18ce5483b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "70563229-2ba7-461d-89f3-916dfa2c8ce1",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "aa3f67ab-60c3-4cf2-87d5-05bc9a3e5276",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

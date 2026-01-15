@@ -18,60 +18,155 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "0 ground smoked paprika",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "0 ground smoked paprika",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "1 tsp ground cumin",
-      "quantity": "",
+      "id": "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+      "name": "ground cumin",
+      "label": "1 tsp ground cumin",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-ground-cumin-x200.jpg"
     },
     {
-      "name": "2 tsp ground smoked paprika",
-      "quantity": "",
+      "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "label": "2 tsp ground smoked paprika",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "1 red pepper",
-      "quantity": "",
+      "id": "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+      "name": "red pepper",
+      "label": "1 red pepper",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-pepper-1-x200.jpg"
     },
     {
-      "name": "1 red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "1 red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "2 brioche style buns",
-      "quantity": "",
+      "id": "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+      "name": "brioche style buns",
+      "label": "2 brioche style buns",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "40g cheddar cheese",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "40g cheddar cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "30ml mayonnaise",
-      "quantity": "",
+      "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "label": "30ml mayonnaise",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "1 lime",
-      "quantity": "",
+      "id": "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+      "name": "lime",
+      "label": "1 lime",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lime-x200.jpg"
     },
     {
-      "name": "3 white potatoes",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "3 white potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "320g British free range skinless chicken thighs",
-      "quantity": "",
+      "id": "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+      "name": "free range skinless chicken thighs",
+      "label": "320g British free range skinless chicken thighs",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-chicken-thigh-fillets4-2-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "1e22a6fb-f22f-4ae1-b46a-862aa5680e69",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "c4a76caa-8a7d-473f-ab94-89ad816ff8d8",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "8cc1a219-f516-495d-9d3a-506bd62ae79f",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "031b8111-a382-4fe8-a4e0-3f1ecd98b846",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

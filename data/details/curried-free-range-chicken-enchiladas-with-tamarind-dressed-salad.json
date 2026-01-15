@@ -18,75 +18,187 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp) x0",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Ginger & garlic paste (15g)",
-      "quantity": "",
+      "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "label": "Ginger & garlic paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg"
     },
     {
-      "name": "Solid creamed coconut (25g)",
-      "quantity": "",
+      "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "label": "Solid creamed coconut (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
     },
     {
-      "name": "Nigella seeds (1tsp)",
-      "quantity": "",
+      "id": "07ba6283-9b57-44e5-81e0-b30d982088d4",
+      "name": "nigella seeds",
+      "label": "Nigella seeds (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/nigella-seeds.2jpg-x200.jpg"
     },
     {
-      "name": "Curry powder (1tbsp)",
-      "quantity": "",
+      "id": "72ff27f8-415a-40af-b537-92f32743fdfb",
+      "name": "curry powder",
+      "label": "Curry powder (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "British free range skinless chicken thighs (320g)",
-      "quantity": "",
+      "id": "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+      "name": "free range skinless chicken thighs",
+      "label": "British free range skinless chicken thighs (320g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-chicken-thigh-fillets4-2-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Tamarind paste (15g)",
-      "quantity": "",
+      "id": "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+      "name": "tamarind paste",
+      "label": "Tamarind paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tamarind-paste-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Plain tortillas (6pcs)",
-      "quantity": "",
+      "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+      "name": "plain tortillas",
+      "label": "Plain tortillas (6pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg"
     },
     {
-      "name": "Green chilli",
-      "quantity": "",
+      "id": "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+      "name": "green chilli",
+      "label": "Green chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-green-chilli-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "2a6039c4-3425-4c91-a976-2ef070aa08ae",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "07ba6283-9b57-44e5-81e0-b30d982088d4",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

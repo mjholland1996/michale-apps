@@ -18,56 +18,68 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "1 Dijon mustard pot (5.5g)",
-      "quantity": "",
+      "id": "5b1d8875-b9bd-4cf5-a0c1-42652c41dcb4",
+      "name": "Dijon mustard pot",
+      "label": "1 Dijon mustard pot (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "120g asparagus spears",
-      "quantity": "",
+      "id": "05dd714a-c4b0-4ad9-9786-a4e0f74e27fc",
+      "name": "asparagus spears",
+      "label": "120g asparagus spears",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Asparagus-2-x200.jpg"
     },
     {
-      "name": "325g British lamb rump",
-      "quantity": "",
+      "id": "1deb2722-3adb-4f73-ba5e-3c3a17b22315",
+      "name": "lamb rump",
+      "label": "325g British lamb rump",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/325g-British-lamb-rump-x200.jpg"
     },
     {
-      "name": "400g waxy potatoes",
-      "quantity": "",
+      "id": "20d40144-059a-457a-b3dc-9c0e41ebc2e9",
+      "name": "waxy potatoes",
+      "label": "400g waxy potatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "1 red wine vinegar sachet (15ml)",
-      "quantity": "",
+      "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "label": "1 red wine vinegar sachet (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "10g mint",
-      "quantity": "",
+      "id": "30a51d70-fcaf-4ed8-975d-9c0599d8492a",
+      "name": "mint",
+      "label": "10g mint",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mint-x200.jpg"
     },
     {
-      "name": "1/2 tsp dried chilli flakes",
-      "quantity": "",
+      "id": "b721b69b-bff1-413a-82f8-3ed2b73979a2",
+      "name": "dried chilli flakes",
+      "label": "1/2 tsp dried chilli flakes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "10g parsley",
-      "quantity": "",
+      "id": "2ad9f7c1-18f7-4974-b647-95059a432969",
+      "name": "parsley",
+      "label": "10g parsley",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "15g capers",
-      "quantity": "",
+      "id": "932a24dd-71bf-4de4-9d70-556964b5f28b",
+      "name": "capers",
+      "label": "15g capers",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/capers-x200.jpg"
     },
     {
-      "name": "1 garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "1 garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     }
   ],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [
     {
       "step": 1,

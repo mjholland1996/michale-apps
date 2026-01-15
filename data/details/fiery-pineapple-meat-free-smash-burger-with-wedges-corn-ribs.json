@@ -18,65 +18,164 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Pineapple & birds eye chilli sauce (30g)",
-      "quantity": "",
+      "id": "890bedc1-24d9-478e-abf0-039819ad69c0",
+      "name": "pineapple & birds eye chilli sauce",
+      "label": "Pineapple & birds eye chilli sauce (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pineapple-Chilli-Sauce-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (50ml)",
-      "quantity": "",
+      "id": "524ef883-ad25-46dd-9fd2-2d680cacc646",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (25ml) x0",
-      "quantity": "",
+      "id": "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (25ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Smoked sea salt flakes (1g)",
-      "quantity": "",
+      "id": "d889aa53-94e3-4b09-9198-03ba31038eb4",
+      "name": "smoked sea salt flakes",
+      "label": "Smoked sea salt flakes (1g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Smoked-salt-x200.jpg"
     },
     {
-      "name": "Sweetcorn ribs (218g)",
-      "quantity": "",
+      "id": "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+      "name": "sweetcorn ribs",
+      "label": "Sweetcorn ribs (218g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/corn-ribs-shadow-x200.jpg"
     },
     {
-      "name": "Brioche style buns (2pcs)",
-      "quantity": "",
+      "id": "3843fd0b-c75c-457f-99fb-378721464a4d",
+      "name": "brioche style buns",
+      "label": "Brioche style buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "Tomato",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Ultimate vegan burger patties (2pcs)",
-      "quantity": "",
+      "id": "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+      "name": "ultimate vegan burger patties",
+      "label": "Ultimate vegan burger patties (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
     },
     {
-      "name": "Jerk paste (24g)",
-      "quantity": "",
+      "id": "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+      "name": "jerk paste",
+      "label": "Jerk paste (24g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/jerk-paste-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Gem lettuces (2pcs) x0",
-      "quantity": "",
+      "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+      "name": "gem lettuces",
+      "label": "Gem lettuces (2pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Sweet potato x2",
-      "quantity": "",
+      "id": "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+      "name": "sweet potato",
+      "label": "Sweet potato x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sweet-potato-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+        "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+        "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+        "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+        "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "441d5ee1-5788-4e1b-a31a-970653c68bc6",
+        "890bedc1-24d9-478e-abf0-039819ad69c0",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "ce0c4ad4-1d62-4c44-be99-31a7da1f064d",
+        "1a91cd97-b4b5-4b63-9c95-59d6163df996",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,70 +18,174 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Ground smoked paprika (1tsp)",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (2tsp) x0",
-      "quantity": "",
+      "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (2tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Smoked streaky bacon (90g)",
-      "quantity": "",
+      "id": "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+      "name": "smoked streaky bacon",
+      "label": "Smoked streaky bacon (90g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
     },
     {
-      "name": "Ciabatta x2",
-      "quantity": "",
+      "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+      "name": "ciabatta",
+      "label": "Ciabatta x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Red chilli relish (40g)",
-      "quantity": "",
+      "id": "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+      "name": "red chilli relish",
+      "label": "Red chilli relish (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-jam-x200.jpg"
     },
     {
-      "name": "Tomato",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Smoked streaky bacon (45g)",
-      "quantity": "",
+      "id": "1d5d40b7-a408-47b1-b755-1a758a49417f",
+      "name": "smoked streaky bacon",
+      "label": "Smoked streaky bacon (45g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/smoked-streaky-bacon3-x200.jpg"
     },
     {
-      "name": "Lighter cheese (30g)",
-      "quantity": "",
+      "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+      "name": "lighter cheese",
+      "label": "Lighter cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Free range egg x2",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "Free range egg x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "1d5d40b7-a408-47b1-b755-1a758a49417f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "1d5d40b7-a408-47b1-b755-1a758a49417f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "c4cbe0ad-8ea0-40ea-a498-93980fbfff22",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "8df922d2-0c1d-46f1-af84-5e6991b4ec6f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

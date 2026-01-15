@@ -18,75 +18,183 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Finely chopped tomatoes (390g) x0",
-      "quantity": "",
+      "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (390g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (200g)",
-      "quantity": "",
+      "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Dried oregano (1tsp)",
-      "quantity": "",
+      "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "label": "Dried oregano (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (125g) x0",
-      "quantity": "",
+      "id": "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Intense beef stock mix (5.5g)",
-      "quantity": "",
+      "id": "ec455cb7-01fc-4470-9db4-e94afca273e4",
+      "name": "intense beef stock mix",
+      "label": "Intense beef stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-mix-x200.jpg"
     },
     {
-      "name": "Beef stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+      "name": "beef stock mix",
+      "label": "Beef stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Tomato x2",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Basil (5g)",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "Basil (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Grated Italian hard cheese (30g)",
-      "quantity": "",
+      "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "label": "Grated Italian hard cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Lean beef mince (<5% fat) (250g)",
-      "quantity": "",
+      "id": "3453b382-e269-40c1-941a-42a13727987c",
+      "name": "lean beef mince (<5% fat)",
+      "label": "Lean beef mince (<5% fat) (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "Balsamic vinegar (15ml)",
-      "quantity": "",
+      "id": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "label": "Balsamic vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "ec455cb7-01fc-4470-9db4-e94afca273e4",
+        "3453b382-e269-40c1-941a-42a13727987c",
+        "01fba203-db6f-4bc3-935e-e33a5035ad9f",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,100 +18,228 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Soy sauce (8ml) x0",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "Soy sauce (8ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Sriracha hot chilli sauce (8ml)",
-      "quantity": "",
+      "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+      "name": "sriracha hot chilli sauce",
+      "label": "Sriracha hot chilli sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (20g)",
-      "quantity": "",
+      "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (20ml) x0",
-      "quantity": "",
+      "id": "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (20ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "524ef883-ad25-46dd-9fd2-2d680cacc646",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (25ml)",
-      "quantity": "",
+      "id": "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Plain tortillas (6pcs)",
-      "quantity": "",
+      "id": "55692d26-3834-4b6f-94ce-0cd6332af610",
+      "name": "plain tortillas",
+      "label": "Plain tortillas (6pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/plain-flour-tortilla-wrap-copy-x200.jpg"
     },
     {
-      "name": "Fable® meaty pulled mushrooms (90g) x0",
-      "quantity": "",
+      "id": "73d06f42-e2ff-4015-b1a5-e7d25431a6dd",
+      "name": "Fable® meaty pulled mushrooms",
+      "label": "Fable® meaty pulled mushrooms (90g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fable-pulled-mushrooms-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Fresh root ginger (15g)",
-      "quantity": "",
+      "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "label": "Fresh root ginger (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "Fable® meaty pulled mushrooms (180g)",
-      "quantity": "",
+      "id": "c525cfc9-563e-439e-a5ae-cacb203c6bc4",
+      "name": "Fable® meaty pulled mushrooms",
+      "label": "Fable® meaty pulled mushrooms (180g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fable-pulled-mushrooms-x200.jpg"
     },
     {
-      "name": "Toasted sesame oil (10ml)",
-      "quantity": "",
+      "id": "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+      "name": "toasted sesame oil",
+      "label": "Toasted sesame oil (10ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-toasted-sesame-oil-x200.jpg"
     },
     {
-      "name": "Carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Soy sauce (15ml)",
-      "quantity": "",
+      "id": "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+      "name": "soy sauce",
+      "label": "Soy sauce (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Soy sauce (30ml) x0",
-      "quantity": "",
+      "id": "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+      "name": "soy sauce",
+      "label": "Soy sauce (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "Agave nectar (25g)",
-      "quantity": "",
+      "id": "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+      "name": "agave nectar",
+      "label": "Agave nectar (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "73d06f42-e2ff-4015-b1a5-e7d25431a6dd",
+        "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "c525cfc9-563e-439e-a5ae-cacb203c6bc4",
+        "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "73d06f42-e2ff-4015-b1a5-e7d25431a6dd",
+        "c525cfc9-563e-439e-a5ae-cacb203c6bc4",
+        "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "ae187fa5-d5e2-407e-b1c9-6f31473b4042",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "68941ea3-449d-4ce5-8fd5-f83ef98b1d69",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "c525cfc9-563e-439e-a5ae-cacb203c6bc4",
+        "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "73d06f42-e2ff-4015-b1a5-e7d25431a6dd",
+        "c525cfc9-563e-439e-a5ae-cacb203c6bc4",
+        "eeb593a0-6ae3-43cb-b5d4-e4f7a60eaa80",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "55692d26-3834-4b6f-94ce-0cd6332af610",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "d516304e-cb6e-42a9-8d0a-0e0d9477a800",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "1f3e2a0b-2299-41b1-b7fc-292eb09e1de6",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

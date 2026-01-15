@@ -18,70 +18,125 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "16g tomato paste",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "16g tomato paste",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "120g spinach",
-      "quantity": "",
+      "id": "e329fbb2-795e-457b-838e-4734e2691d32",
+      "name": "spinach",
+      "label": "120g spinach",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "1 red chilli",
-      "quantity": "",
+      "id": "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+      "name": "red chilli",
+      "label": "1 red chilli",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/red-chilli-x200.jpg"
     },
     {
-      "name": "1 tbsp curry powder",
-      "quantity": "",
+      "id": "8705c659-4836-449a-8cea-3138af6047b6",
+      "name": "curry powder",
+      "label": "1 tbsp curry powder",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "1 tsp ground turmeric",
-      "quantity": "",
+      "id": "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+      "name": "ground turmeric",
+      "label": "1 tsp ground turmeric",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-turmeric-x200.jpg"
     },
     {
-      "name": "15g fresh root ginger",
-      "quantity": "",
+      "id": "43c515bb-1548-41df-b08e-f10fa8369172",
+      "name": "fresh root ginger",
+      "label": "15g fresh root ginger",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/fresh-root-ginger-1-x200.jpg"
     },
     {
-      "name": "11g vegetable stock mix",
-      "quantity": "",
+      "id": "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+      "name": "vegetable stock mix",
+      "label": "11g vegetable stock mix",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "130g brown rice",
-      "quantity": "",
+      "id": "262b0a00-3db9-4b0b-a41a-423388b3e9cc",
+      "name": "brown basmati rice",
+      "label": "130g brown rice",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-brown-rice-x200.jpg"
     },
     {
-      "name": "2 x 100g basa fillets",
-      "quantity": "",
+      "id": "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+      "name": "basa fillets",
+      "label": "2 x 100g basa fillets",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basa-fillets-2pcs-x200.jpg"
     },
     {
-      "name": "25g solid creamed coconut",
-      "quantity": "",
+      "id": "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+      "name": "solid creamed coconut",
+      "label": "25g solid creamed coconut",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Flecked-coconut-cream-2-x200.jpg"
     },
     {
-      "name": "10g coriander",
-      "quantity": "",
+      "id": "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+      "name": "coriander",
+      "label": "10g coriander",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/10g-coriander-x200.jpg"
     },
     {
-      "name": "1 garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "1 garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "1 red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "1 red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+        "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+        "e329fbb2-795e-457b-838e-4734e2691d32",
+        "262b0a00-3db9-4b0b-a41a-423388b3e9cc",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "8705c659-4836-449a-8cea-3138af6047b6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "60c142d2-164a-42e1-8d3e-aca1b3635e15",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "44c1fcff-fadf-4b69-9d80-3d0b0baa38a2",
+        "44417cd2-bdb0-48e2-b6a3-b75bdd8ba6b7",
+        "0b0b68a5-7e0b-4f87-9ffd-3fd67f464b9f",
+        "e329fbb2-795e-457b-838e-4734e2691d32",
+        "262b0a00-3db9-4b0b-a41a-423388b3e9cc",
+        "43c515bb-1548-41df-b08e-f10fa8369172",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "d6bb4d30-38c2-4ba7-855c-ff639be62605",
+        "52ffb449-10c7-44e4-bd30-6c6f1c8ff66f",
+        "8705c659-4836-449a-8cea-3138af6047b6"
+      ]
+    }
+  ],
+  "availableServings": [
+    2,
+    4
   ],
   "instructions": [
     {

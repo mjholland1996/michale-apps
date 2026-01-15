@@ -18,85 +18,204 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (390g) x0",
-      "quantity": "",
+      "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (390g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (200g)",
-      "quantity": "",
+      "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Henderson's Relish (15ml)",
-      "quantity": "",
+      "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "label": "Henderson's Relish (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
     },
     {
-      "name": "Lasagne sheets (120g)",
-      "quantity": "",
+      "id": "06570702-e246-4437-9f56-d0fa56d0f307",
+      "name": "lasagne sheets",
+      "label": "Lasagne sheets (120g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/6-lasagne-sheets-x200.jpg"
     },
     {
-      "name": "Dried basil (1tsp)",
-      "quantity": "",
+      "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+      "name": "dried basil",
+      "label": "Dried basil (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg"
     },
     {
-      "name": "British free range skinless chicken thighs (320g)",
-      "quantity": "",
+      "id": "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+      "name": "free range skinless chicken thighs",
+      "label": "British free range skinless chicken thighs (320g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-chicken-thigh-fillets4-2-x200.jpg"
     },
     {
-      "name": "Dried oregano (1tsp)",
-      "quantity": "",
+      "id": "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+      "name": "dried oregano",
+      "label": "Dried oregano (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Rocket (20g)",
-      "quantity": "",
+      "id": "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+      "name": "rocket",
+      "label": "Rocket (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/rocket_salad_1024-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "b5ac03fb-89d6-4bdc-9b12-5174b17362b5",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "1e996b7b-5628-4e4e-8815-567555b2ffa6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "06570702-e246-4437-9f56-d0fa56d0f307",
+        "9d76a3b5-6f81-404f-b5a7-cb27d569ceee",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

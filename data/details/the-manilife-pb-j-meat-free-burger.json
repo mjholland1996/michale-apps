@@ -18,80 +18,186 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Cheese flavour slices (2pcs)",
-      "quantity": "",
+      "id": "1f74aee9-2816-4331-91eb-477996ae9d7c",
+      "name": "cheese flavour slices",
+      "label": "Cheese flavour slices (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Vegan-Cheese-Slice-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (1tsp)",
-      "quantity": "",
+      "id": "9bbbe335-1516-4488-957c-814e34eae5b1",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "524ef883-ad25-46dd-9fd2-2d680cacc646",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Vegan mayonnaise (25ml)",
-      "quantity": "",
+      "id": "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+      "name": "vegan mayonnaise",
+      "label": "Vegan mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Free-from-mayonnaise-pot-45g-x200.jpg"
     },
     {
-      "name": "Ground smoked paprika (2tsp) x0",
-      "quantity": "",
+      "id": "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+      "name": "ground smoked paprika",
+      "label": "Ground smoked paprika (2tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "Brioche style buns (2pcs)",
-      "quantity": "",
+      "id": "3843fd0b-c75c-457f-99fb-378721464a4d",
+      "name": "brioche style buns",
+      "label": "Brioche style buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "Shallot",
-      "quantity": "",
+      "id": "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+      "name": "shallot",
+      "label": "Shallot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-shallot-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (30ml) x0",
-      "quantity": "",
+      "id": "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "Ultimate vegan burger patties (2pcs)",
-      "quantity": "",
+      "id": "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+      "name": "ultimate vegan burger patties",
+      "label": "Ultimate vegan burger patties (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
     },
     {
-      "name": "Red chilli relish (25g)",
-      "quantity": "",
+      "id": "58516075-8bdb-4567-9f1f-8135695ef8b4",
+      "name": "red chilli relish",
+      "label": "Red chilli relish (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chilli-jam-x200.jpg"
     },
     {
-      "name": "Gem lettuce",
-      "quantity": "",
+      "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+      "name": "gem lettuce",
+      "label": "Gem lettuce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Gem lettuces (2pcs) x0",
-      "quantity": "",
+      "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+      "name": "gem lettuces",
+      "label": "Gem lettuces (2pcs) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/little-gem-lettuce-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (15ml)",
-      "quantity": "",
+      "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "Smooth peanut butter (26g)",
-      "quantity": "",
+      "id": "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+      "name": "smooth peanut butter",
+      "label": "Smooth peanut butter (26g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/26g-creamy-peanut-butter-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "1f74aee9-2816-4331-91eb-477996ae9d7c",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "1f74aee9-2816-4331-91eb-477996ae9d7c",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "1f74aee9-2816-4331-91eb-477996ae9d7c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "9bbbe335-1516-4488-957c-814e34eae5b1",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "1f74aee9-2816-4331-91eb-477996ae9d7c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "1f74aee9-2816-4331-91eb-477996ae9d7c",
+        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+        "9f543174-2841-4ecb-8a99-a6cad9006665",
+        "da7745b9-7d7f-49bf-8b42-9b95d8dde2c7",
+        "58516075-8bdb-4567-9f1f-8135695ef8b4",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "3139eeba-c3a1-477c-87e6-50ba5c3d21e0",
+        "80a2fb1b-cd5f-47ea-a9a0-508ccfea2629",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "524ef883-ad25-46dd-9fd2-2d680cacc646",
+        "f534e5d8-7fda-4f1f-865b-fbe2986780ae",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

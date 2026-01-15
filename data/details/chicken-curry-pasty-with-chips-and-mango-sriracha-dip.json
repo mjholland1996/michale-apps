@@ -5,7 +5,7 @@
   "description": "",
   "rating": {
     "average": 5,
-    "count": 4682
+    "count": 4685
   },
   "prepTimes": {
     "for2": 45,
@@ -18,80 +18,189 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Sriracha hot chilli sauce (8ml)",
-      "quantity": "",
+      "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+      "name": "sriracha hot chilli sauce",
+      "label": "Sriracha hot chilli sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
     },
     {
-      "name": "Chicken breast strips (125g) x0",
-      "quantity": "",
+      "id": "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+      "name": "chicken breast strips",
+      "label": "Chicken breast strips (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
     },
     {
-      "name": "Chicken breast strips (250g)",
-      "quantity": "",
+      "id": "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+      "name": "chicken breast strips",
+      "label": "Chicken breast strips (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp) x0",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Puff pastry (160g)",
-      "quantity": "",
+      "id": "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+      "name": "puff pastry",
+      "label": "Puff pastry (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/New-puff-pastry-placeholder2x-x200.jpg"
     },
     {
-      "name": "Curry powder (2tbsp) x0",
-      "quantity": "",
+      "id": "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+      "name": "curry powder",
+      "label": "Curry powder (2tbsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Curry powder (1tbsp)",
-      "quantity": "",
+      "id": "72ff27f8-415a-40af-b537-92f32743fdfb",
+      "name": "curry powder",
+      "label": "Curry powder (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Mango chutney (20g)",
-      "quantity": "",
+      "id": "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+      "name": "mango chutney",
+      "label": "Mango chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Black sesame seeds (5g)",
-      "quantity": "",
+      "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "label": "Black sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "72ff27f8-415a-40af-b537-92f32743fdfb",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "8d639d28-8052-4fc3-a7c1-f9ba842da1eb",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "bfb1ff1f-6d91-49c6-b413-b7ea8a9fdd4d",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

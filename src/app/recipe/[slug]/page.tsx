@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { RecipeDetail } from '@/types/recipe';
+import { IngredientsPanel } from '@/components/IngredientsPanel';
 import fs from 'fs';
 import path from 'path';
 
@@ -82,73 +83,13 @@ export default async function RecipePage({ params }: PageProps) {
         <div className="grid gap-8 lg:grid-cols-3">
           {/* Ingredients */}
           <div className="lg:col-span-1">
-            <div className="bg-white rounded-xl shadow-sm p-6 sticky top-4">
-              <h2 className="text-xl font-bold text-gray-900 mb-4">Ingredients</h2>
-
-              {recipe.ingredients.length > 0 ? (
-                <ul className="space-y-3">
-                  {recipe.ingredients.map((ingredient, index) => (
-                    <li key={index} className="flex items-start gap-3">
-                      {ingredient.imageUrl && (
-                        <div className="relative w-10 h-10 rounded bg-gray-100 shrink-0">
-                          <Image
-                            src={ingredient.imageUrl}
-                            alt={ingredient.name}
-                            fill
-                            className="object-cover rounded"
-                            sizes="40px"
-                          />
-                        </div>
-                      )}
-                      <div>
-                        <p className="font-medium text-gray-900">{ingredient.name}</p>
-                        {ingredient.quantity && (
-                          <p className="text-sm text-gray-500">{ingredient.quantity}</p>
-                        )}
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <p className="text-gray-500">No ingredients data available</p>
-              )}
-
-              {recipe.basics.length > 0 && (
-                <>
-                  <h3 className="text-lg font-semibold text-gray-900 mt-6 mb-3">You&apos;ll also need</h3>
-                  <ul className="space-y-1 text-gray-600">
-                    {recipe.basics.map((basic, index) => (
-                      <li key={index}>{basic}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-
-              {/* Nutrition */}
-              {recipe.nutrition.perServing.calories > 0 && (
-                <>
-                  <h3 className="text-lg font-semibold text-gray-900 mt-6 mb-3">Nutrition (per serving)</h3>
-                  <div className="grid grid-cols-2 gap-2 text-sm">
-                    <div className="bg-gray-50 rounded p-2">
-                      <p className="font-semibold">{recipe.nutrition.perServing.calories}</p>
-                      <p className="text-gray-500">kcal</p>
-                    </div>
-                    <div className="bg-gray-50 rounded p-2">
-                      <p className="font-semibold">{recipe.nutrition.perServing.protein}g</p>
-                      <p className="text-gray-500">protein</p>
-                    </div>
-                    <div className="bg-gray-50 rounded p-2">
-                      <p className="font-semibold">{recipe.nutrition.perServing.carbs}g</p>
-                      <p className="text-gray-500">carbs</p>
-                    </div>
-                    <div className="bg-gray-50 rounded p-2">
-                      <p className="font-semibold">{recipe.nutrition.perServing.fat}g</p>
-                      <p className="text-gray-500">fat</p>
-                    </div>
-                  </div>
-                </>
-              )}
-            </div>
+            <IngredientsPanel
+              ingredients={recipe.ingredients}
+              portionSizes={recipe.portionSizes}
+              availableServings={recipe.availableServings}
+              basics={recipe.basics}
+              nutrition={recipe.nutrition}
+            />
           </div>
 
           {/* Instructions */}

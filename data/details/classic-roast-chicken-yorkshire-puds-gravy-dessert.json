@@ -18,50 +18,135 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Skin-on chicken thighs (160g) x0",
-      "quantity": "",
+      "id": "327dbcc7-ec0a-49cf-bef8-0cf6ef0cc53c",
+      "name": "skin-on chicken thighs",
+      "label": "Skin-on chicken thighs (160g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2_4-skin-on-chicken-thighs-x200.jpg"
     },
     {
-      "name": "Skin-on chicken thighs (320g)",
-      "quantity": "",
+      "id": "ca9bec71-c20b-4104-963d-3620ef664ba2",
+      "name": "skin-on chicken thighs",
+      "label": "Skin-on chicken thighs (320g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2_4-skin-on-chicken-thighs-x200.jpg"
     },
     {
-      "name": "Dried thyme (0.5tsp)",
-      "quantity": "",
+      "id": "faaba086-0ac5-437b-82b0-982322df861b",
+      "name": "dried thyme",
+      "label": "Dried thyme (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-thyme-2-x200.jpg"
     },
     {
-      "name": "Sticky chocolate pudding (150g) x2",
-      "quantity": "",
+      "id": "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+      "name": "sticky chocolate pudding",
+      "label": "Sticky chocolate pudding (150g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sticky-chocolate-pudding-x200.jpg"
     },
     {
-      "name": "Blanched peas (160g)",
-      "quantity": "",
+      "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "label": "Blanched peas (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg"
     },
     {
-      "name": "Free range egg",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "Free range egg",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Gravy base (14g)",
-      "quantity": "",
+      "id": "15f1965f-b9a5-4221-a016-31728c24e736",
+      "name": "gravy base",
+      "label": "Gravy base (14g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/gravy-paste-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "327dbcc7-ec0a-49cf-bef8-0cf6ef0cc53c",
+        "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "ca9bec71-c20b-4104-963d-3620ef664ba2",
+        "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "327dbcc7-ec0a-49cf-bef8-0cf6ef0cc53c",
+        "ca9bec71-c20b-4104-963d-3620ef664ba2",
+        "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "ca9bec71-c20b-4104-963d-3620ef664ba2",
+        "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "faaba086-0ac5-437b-82b0-982322df861b",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "327dbcc7-ec0a-49cf-bef8-0cf6ef0cc53c",
+        "ca9bec71-c20b-4104-963d-3620ef664ba2",
+        "078d4a76-cad4-4e3f-aa20-9a401d9a260a",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

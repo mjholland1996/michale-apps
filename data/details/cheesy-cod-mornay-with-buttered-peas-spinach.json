@@ -18,60 +18,154 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Dijon mustard (5.5g)",
-      "quantity": "",
+      "id": "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+      "name": "Dijon mustard",
+      "label": "Dijon mustard (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (20g)",
-      "quantity": "",
+      "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Blanched peas (160g)",
-      "quantity": "",
+      "id": "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+      "name": "blanched peas",
+      "label": "Blanched peas (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/160g-peas-2-x200.jpg"
     },
     {
-      "name": "Cornflour (1tbsp)",
-      "quantity": "",
+      "id": "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+      "name": "cornflour",
+      "label": "Cornflour (1tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Cod fillets (2pcs)",
-      "quantity": "",
+      "id": "36ee321e-acbe-4fd6-919a-a01ba1670905",
+      "name": "cod fillets",
+      "label": "Cod fillets (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cod-fillets-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Cod fillet x0",
-      "quantity": "",
+      "id": "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+      "name": "cod fillet",
+      "label": "Cod fillet x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/110g-cod-fillet-x200.jpg"
     },
     {
-      "name": "Lighter cheese (30g) x2",
-      "quantity": "",
+      "id": "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+      "name": "lighter cheese",
+      "label": "Lighter cheese (30g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "52e2a7bc-2d76-46c0-a4f4-6ee2a4090785",
+        "7482eb88-9b17-4e54-8dd1-191c5e8f08db",
+        "9e04ddd6-9258-4afb-9731-bce33a9f87bb",
+        "36ee321e-acbe-4fd6-919a-a01ba1670905",
+        "1dd3a011-a8dd-4804-b092-51da7f9c2f8d",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "50831f8e-cbf7-41ed-884e-6ab078f30e3d",
+        "0af67d61-fa68-4172-bec1-09d635e3fc71",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

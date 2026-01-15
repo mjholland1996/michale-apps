@@ -18,75 +18,133 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "15ml Henderson's Relish",
-      "quantity": "",
+      "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "label": "15ml Henderson's Relish",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
     },
     {
-      "name": "200g finely chopped tomatoes",
-      "quantity": "",
+      "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "label": "200g finely chopped tomatoes",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "1 tsp dried basil",
-      "quantity": "",
+      "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+      "name": "dried basil",
+      "label": "1 tsp dried basil",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg"
     },
     {
-      "name": "2 garlic cloves",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "2 garlic cloves",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "5g basil",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "5g basil",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "250g British beef mince",
-      "quantity": "",
+      "id": "a7f888da-1e74-4180-9550-f7c69dcc5872",
+      "name": "beef mince",
+      "label": "250g British beef mince",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/british-beef-mince-x200.jpg"
     },
     {
-      "name": "11g beef stock mix",
-      "quantity": "",
+      "id": "8e096433-e7cf-4a14-95f0-c81730b98f56",
+      "name": "beef stock mix",
+      "label": "11g beef stock mix",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/beef-stock-powder-1-x200.jpg"
     },
     {
-      "name": "16g tomato paste",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "16g tomato paste",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "1 tsp dried oregano",
-      "quantity": "",
+      "id": "8bf66a89-40c9-49e4-a68b-a78efa3c5ea9",
+      "name": "dried oregano",
+      "label": "1 tsp dried oregano",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/italian-dried-oregano-x200.jpg"
     },
     {
-      "name": "40g cheddar cheese",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "40g cheddar cheese",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "1 carrot",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "1 carrot",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "8ml soy sauce",
-      "quantity": "",
+      "id": "3c07d126-f655-437c-aa1d-c38dbbae0398",
+      "name": "soy sauce",
+      "label": "8ml soy sauce",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-soy-sauce-sachet-15ml-copy-x200.jpg"
     },
     {
-      "name": "1 brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "1 brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "190g spaghetti ",
-      "quantity": "",
+      "id": "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+      "name": "spaghetti",
+      "label": "190g spaghetti ",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/spaghetti-190g-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "8bf66a89-40c9-49e4-a68b-a78efa3c5ea9",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "8e096433-e7cf-4a14-95f0-c81730b98f56",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "3c07d126-f655-437c-aa1d-c38dbbae0398",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "8bf66a89-40c9-49e4-a68b-a78efa3c5ea9",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "a7f888da-1e74-4180-9550-f7c69dcc5872",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "8e096433-e7cf-4a14-95f0-c81730b98f56",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "8deb2d63-8771-4bd0-8a9b-55cf5d96a2bc",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a"
+      ]
+    }
+  ],
+  "availableServings": [
+    2,
+    4
   ],
   "instructions": [
     {

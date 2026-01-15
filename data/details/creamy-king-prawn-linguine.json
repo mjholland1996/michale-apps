@@ -17,6 +17,8 @@
   "cuisine": "",
   "dietType": "",
   "ingredients": [],
+  "portionSizes": [],
+  "availableServings": [],
   "instructions": [],
   "nutrition": {
     "perServing": {

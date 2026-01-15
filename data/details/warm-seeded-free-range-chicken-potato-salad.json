@@ -18,75 +18,190 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "British free range egg",
-      "quantity": "",
+      "id": "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+      "name": "free range egg",
+      "label": "British free range egg",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Egg-1-x200.jpg"
     },
     {
-      "name": "Mayonnaise (30ml) x0",
-      "quantity": "",
+      "id": "34869527-4715-40aa-93c3-2a616d203aa9",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Toasted sesame seeds (5g)",
-      "quantity": "",
+      "id": "c4363e48-068d-4650-b2c3-afba8d801197",
+      "name": "toasted sesame seeds",
+      "label": "Toasted sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-toasted-sesame-seeds-x200.jpg"
     },
     {
-      "name": "Waxy potatoes (350g)",
-      "quantity": "",
+      "id": "04d00729-52ec-4664-abf3-7deeca96c6d8",
+      "name": "waxy potatoes",
+      "label": "Waxy potatoes (350g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/waxy-potatoes-1-x200.jpg"
     },
     {
-      "name": "Ground paprika (1tsp)",
-      "quantity": "",
+      "id": "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+      "name": "ground paprika",
+      "label": "Ground paprika (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-ground-paprika-x200.jpg"
     },
     {
-      "name": "British free range chicken breast portions (2pcs)",
-      "quantity": "",
+      "id": "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+      "name": "free range chicken breast portions",
+      "label": "British free range chicken breast portions (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Chicken-breast-edit-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml)",
-      "quantity": "",
+      "id": "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Panko breadcrumbs (30g)",
-      "quantity": "",
+      "id": "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+      "name": "panko breadcrumbs",
+      "label": "Panko breadcrumbs (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/30g-panko-breadcrumbs-x200.jpg"
     },
     {
-      "name": "Seasonal salad (50g)",
-      "quantity": "",
+      "id": "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+      "name": "seasonal salad",
+      "label": "Seasonal salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/lambs-lettuce-x200.jpg"
     },
     {
-      "name": "Black sesame seeds (5g)",
-      "quantity": "",
+      "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "label": "Black sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg"
     },
     {
-      "name": "White wine vinegar (15ml)",
-      "quantity": "",
+      "id": "ef566c78-5df6-49d9-8356-68789149176f",
+      "name": "white wine vinegar",
+      "label": "White wine vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-apple-cider-vinegar-x200.jpg"
     },
     {
-      "name": "Apple",
-      "quantity": "",
+      "id": "624ca93c-914e-4290-b00a-bd936adfebca",
+      "name": "apple",
+      "label": "Apple",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-apple-1-x200.jpg"
     },
     {
-      "name": "Pumpkin seeds (15g)",
-      "quantity": "",
+      "id": "d64156bb-3a9e-48c8-8531-af0db943c61b",
+      "name": "pumpkin seeds",
+      "label": "Pumpkin seeds (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Pumpkin-seeds-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "d64156bb-3a9e-48c8-8531-af0db943c61b",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+        "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "d64156bb-3a9e-48c8-8531-af0db943c61b",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "d64156bb-3a9e-48c8-8531-af0db943c61b",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+        "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "d64156bb-3a9e-48c8-8531-af0db943c61b",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "330db329-b9ee-4ba4-9e22-d0fa865ca438",
+        "fb6a565a-b912-4033-b8dc-62e6f7c62925",
+        "624ca93c-914e-4290-b00a-bd936adfebca",
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "70b7502c-e41a-45b7-ab66-d3edb68aa548",
+        "34869527-4715-40aa-93c3-2a616d203aa9",
+        "c4a8b75e-f277-402a-aa5d-a98149cdcda5",
+        "bd9a0571-27e5-48ee-a951-f2beeaa1099a",
+        "d64156bb-3a9e-48c8-8531-af0db943c61b",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "036b603f-e51f-4971-bdc8-d72ec87ece3b",
+        "c4363e48-068d-4650-b2c3-afba8d801197",
+        "04d00729-52ec-4664-abf3-7deeca96c6d8",
+        "ef566c78-5df6-49d9-8356-68789149176f"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

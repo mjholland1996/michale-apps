@@ -18,75 +18,190 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Parsnip",
-      "quantity": "",
+      "id": "a88cc6da-250c-4442-a388-e2b7d1868822",
+      "name": "parsnip",
+      "label": "Parsnip",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/100g-Parsnips-x200.jpg"
     },
     {
-      "name": "Intense chicken stock mix (5.5g)",
-      "quantity": "",
+      "id": "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+      "name": "intense chicken stock mix",
+      "label": "Intense chicken stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-mix-x200.jpg"
     },
     {
-      "name": "Brussels sprouts (100g)",
-      "quantity": "",
+      "id": "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+      "name": "Brussels sprouts",
+      "label": "Brussels sprouts (100g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Baby-Brussels-Sprouts-copy-x200.jpg"
     },
     {
-      "name": "Turkey breast joint (300g)",
-      "quantity": "",
+      "id": "cf86c589-dd49-48cc-9d0f-89774058972b",
+      "name": "turkey breast joint",
+      "label": "Turkey breast joint (300g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/turkey-joint-300g-x200.jpg"
     },
     {
-      "name": "Pigs in blankets (6pcs)",
-      "quantity": "",
+      "id": "62115d54-abd3-460f-9d57-89f6cbf91c59",
+      "name": "pigs in blankets",
+      "label": "Pigs in blankets (6pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/6-pigs-in-blankets-x200.png"
     },
     {
-      "name": "Cranberry sauce (40g)",
-      "quantity": "",
+      "id": "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+      "name": "cranberry sauce",
+      "label": "Cranberry sauce (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cranberry-sauce-1-x200.jpg"
     },
     {
-      "name": "Henderson's Relish (15ml)",
-      "quantity": "",
+      "id": "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+      "name": "Henderson's Relish",
+      "label": "Henderson's Relish (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Hendersons-Relish-New-x200.jpg"
     },
     {
-      "name": "Chicken stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "dec1c16e-4785-40e7-b689-69721141bad6",
+      "name": "chicken stock mix",
+      "label": "Chicken stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/chicken-stock-powder-1-x200.jpg"
     },
     {
-      "name": "Rosemary (5g)",
-      "quantity": "",
+      "id": "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+      "name": "rosemary",
+      "label": "Rosemary (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-rosemary-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Marmite (8g)",
-      "quantity": "",
+      "id": "23935a7d-bed7-4bb2-863d-9e826b549e47",
+      "name": "Marmite",
+      "label": "Marmite (8g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Marmite-pot-8g-2-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Honey (25g)",
-      "quantity": "",
+      "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "label": "Honey (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     },
     {
-      "name": "Pork, sage & onion stuffing (100g)",
-      "quantity": "",
+      "id": "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+      "name": "pork, sage & onion stuffing",
+      "label": "Pork, sage & onion stuffing (100g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/pork-sage--onion-stuffing-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "62115d54-abd3-460f-9d57-89f6cbf91c59",
+        "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "cf86c589-dd49-48cc-9d0f-89774058972b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "62115d54-abd3-460f-9d57-89f6cbf91c59",
+        "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "cf86c589-dd49-48cc-9d0f-89774058972b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "62115d54-abd3-460f-9d57-89f6cbf91c59",
+        "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "cf86c589-dd49-48cc-9d0f-89774058972b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "62115d54-abd3-460f-9d57-89f6cbf91c59",
+        "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "cf86c589-dd49-48cc-9d0f-89774058972b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "a18702aa-f6c1-4ad5-91e0-a0e163eec4af",
+        "65f1b281-6a5d-45cf-abc1-2b1b842cd0f1",
+        "23935a7d-bed7-4bb2-863d-9e826b549e47",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "dec1c16e-4785-40e7-b689-69721141bad6",
+        "bd3ce290-cb52-4df3-a8a2-3f7c9f7a7c28",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "625623ea-dc96-4c22-91a5-f4ffcad92b39",
+        "a88cc6da-250c-4442-a388-e2b7d1868822",
+        "62115d54-abd3-460f-9d57-89f6cbf91c59",
+        "fc1e0d74-c0bb-4bd8-b082-ab29a8578f7d",
+        "a0cbff79-0da6-4e5a-a710-50a5dd4b3316",
+        "cf86c589-dd49-48cc-9d0f-89774058972b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

@@ -18,100 +18,227 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Finely chopped tomatoes (390g) x0",
-      "quantity": "",
+      "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (390g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Finely chopped tomatoes (200g)",
-      "quantity": "",
+      "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+      "name": "finely chopped tomatoes",
+      "label": "Finely chopped tomatoes (200g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-can-of-chopped-tomatoes-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Wholewheat tortiglioni (75g) x0",
-      "quantity": "",
+      "id": "e9248f5d-efd8-49f5-b050-9357e36f5fc7",
+      "name": "wholewheat tortiglioni",
+      "label": "Wholewheat tortiglioni (75g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/wholewheat-tortiglioni-pasta-x200.jpg"
     },
     {
-      "name": "Dried basil (1tsp)",
-      "quantity": "",
+      "id": "8f225055-491a-4b53-9a69-ac7e4810d725",
+      "name": "dried basil",
+      "label": "Dried basil (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-basil-2-x200.jpg"
     },
     {
-      "name": "Wholewheat tortiglioni (150g)",
-      "quantity": "",
+      "id": "fe4fbea9-1dc8-476c-abad-e649b51eec21",
+      "name": "wholewheat tortiglioni",
+      "label": "Wholewheat tortiglioni (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/wholewheat-tortiglioni-pasta-x200.jpg"
     },
     {
-      "name": "Courgette",
-      "quantity": "",
+      "id": "5aba18db-c907-44f5-a499-3f53c5ab676a",
+      "name": "courgette",
+      "label": "Courgette",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/courgette-x200.jpg"
     },
     {
-      "name": "Basil (5g) x0",
-      "quantity": "",
+      "id": "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+      "name": "basil",
+      "label": "Basil (5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Grated Italian hard cheese (30g)",
-      "quantity": "",
+      "id": "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+      "name": "grated Italian hard cheese",
+      "label": "Grated Italian hard cheese (30g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/grated-italian-hard-cheese-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Mozzarella (125g)",
-      "quantity": "",
+      "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "label": "Mozzarella (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Basil (10g)",
-      "quantity": "",
+      "id": "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+      "name": "basil",
+      "label": "Basil (10g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/basil-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (125g)",
-      "quantity": "",
+      "id": "b3374bc8-0097-449f-9ac6-b53299104e11",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "Cherry tomatoes (250g) x0",
-      "quantity": "",
+      "id": "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+      "name": "cherry tomatoes",
+      "label": "Cherry tomatoes (250g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cherry-tomatoes-x200.jpg"
     },
     {
-      "name": "Balsamic vinegar (15ml)",
-      "quantity": "",
+      "id": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "label": "Balsamic vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "e9248f5d-efd8-49f5-b050-9357e36f5fc7"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "fe4fbea9-1dc8-476c-abad-e649b51eec21"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "fe4fbea9-1dc8-476c-abad-e649b51eec21",
+        "e9248f5d-efd8-49f5-b050-9357e36f5fc7"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "fe4fbea9-1dc8-476c-abad-e649b51eec21"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "7019b8e0-50a7-46f9-8cef-550c4359cf71",
+        "a59bfc93-dcf1-42ef-afb5-9ae6f01bc71f",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "f56ddebd-04ab-40ec-8bb5-d87c08a236db",
+        "b3374bc8-0097-449f-9ac6-b53299104e11",
+        "5aba18db-c907-44f5-a499-3f53c5ab676a",
+        "8f225055-491a-4b53-9a69-ac7e4810d725",
+        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "661b8104-1fd3-4f4f-99a8-6655f336a24b",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "fe4fbea9-1dc8-476c-abad-e649b51eec21",
+        "e9248f5d-efd8-49f5-b050-9357e36f5fc7"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

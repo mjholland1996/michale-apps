@@ -18,55 +18,149 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Flame-baked pizza bases (2pcs)",
-      "quantity": "",
+      "id": "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+      "name": "flame-baked pizza bases",
+      "label": "Flame-baked pizza bases (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-pizza-bases-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x2",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Soft goats' cheese (75g)",
-      "quantity": "",
+      "id": "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+      "name": "soft goats' cheese",
+      "label": "Soft goats' cheese (75g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/75g-goats-cheese-x200.jpg"
     },
     {
-      "name": "Baby leaf salad (50g)",
-      "quantity": "",
+      "id": "40c60e47-6a07-456c-b2fe-c551430de3fd",
+      "name": "baby leaf salad",
+      "label": "Baby leaf salad (50g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/baby-leaf-salad-x200.jpg"
     },
     {
-      "name": "Mozzarella (125g)",
-      "quantity": "",
+      "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+      "name": "mozzarella",
+      "label": "Mozzarella (125g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mozzarella-ball-125g-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Balsamic vinegar (15ml)",
-      "quantity": "",
+      "id": "8357c090-d832-41bc-a458-b13600637e1b",
+      "name": "balsamic vinegar",
+      "label": "Balsamic vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/balsamic-vinegar-1-x200.jpg"
     },
     {
-      "name": "Red onion",
-      "quantity": "",
+      "id": "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+      "name": "red onion",
+      "label": "Red onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-onion-copy-x200.jpg"
     },
     {
-      "name": "Honey (25g)",
-      "quantity": "",
+      "id": "79f3354b-1c07-4ead-a173-f97e8cddd843",
+      "name": "honey",
+      "label": "Honey (25g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-honey-pot-25g-copy-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "40c60e47-6a07-456c-b2fe-c551430de3fd",
+        "8357c090-d832-41bc-a458-b13600637e1b",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "cf47c4bc-28d2-48f8-beb2-1de1e1cb1e05",
+        "79f3354b-1c07-4ead-a173-f97e8cddd843",
+        "d93301c4-2563-4b9d-b829-991800ca87b4",
+        "4e949ce8-d92c-43fa-8c0d-110d903d6e60",
+        "e47e2330-c327-48bf-acba-8c5ed9b30b4f",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

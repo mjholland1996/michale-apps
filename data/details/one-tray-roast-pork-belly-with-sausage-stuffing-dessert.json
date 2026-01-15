@@ -18,55 +18,146 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Sticky toffee pudding (150g) x2",
-      "quantity": "",
+      "id": "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+      "name": "sticky toffee pudding",
+      "label": "Sticky toffee pudding (150g) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sticky-toffee-pudding-x200.jpg"
     },
     {
-      "name": "Pork belly (150g) x0",
-      "quantity": "",
+      "id": "3c7e0ba6-429f-4f2a-a0f1-c1f68fc42a32",
+      "name": "pork belly",
+      "label": "Pork belly (150g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-300g-british-pork-belly-x200.jpg"
     },
     {
-      "name": "Dijon mustard (18g)",
-      "quantity": "",
+      "id": "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+      "name": "Dijon mustard",
+      "label": "Dijon mustard (18g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Dijon-mustard-18g-x200.jpg"
     },
     {
-      "name": "Dried sage (1tsp)",
-      "quantity": "",
+      "id": "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+      "name": "dried sage",
+      "label": "Dried sage (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/dried-sage-2-x200.jpg"
     },
     {
-      "name": "Sausage meat (150g)",
-      "quantity": "",
+      "id": "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+      "name": "sausage meat",
+      "label": "Sausage meat (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/sausage-meat-x200.jpg"
     },
     {
-      "name": "Pork belly (300g)",
-      "quantity": "",
+      "id": "6ea4d0cf-28d1-442f-bdc0-06a1074d3f8a",
+      "name": "pork belly",
+      "label": "Pork belly (300g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-x-300g-british-pork-belly-x200.jpg"
     },
     {
-      "name": "Gravy base (14g)",
-      "quantity": "",
+      "id": "15f1965f-b9a5-4221-a016-31728c24e736",
+      "name": "gravy base",
+      "label": "Gravy base (14g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/gravy-paste-x200.jpg"
     },
     {
-      "name": "Carrot x2",
-      "quantity": "",
+      "id": "4cd305c4-d372-4d9f-8110-dae88209ce57",
+      "name": "carrot",
+      "label": "Carrot x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/carrot-x200.jpg"
     },
     {
-      "name": "Spinach (80g)",
-      "quantity": "",
+      "id": "d240500f-9c26-4286-88bc-6be3e774e96b",
+      "name": "spinach",
+      "label": "Spinach (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-baby-leaf-spinach-copy-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "3c7e0ba6-429f-4f2a-a0f1-c1f68fc42a32",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "6ea4d0cf-28d1-442f-bdc0-06a1074d3f8a",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "6ea4d0cf-28d1-442f-bdc0-06a1074d3f8a",
+        "3c7e0ba6-429f-4f2a-a0f1-c1f68fc42a32",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "6ea4d0cf-28d1-442f-bdc0-06a1074d3f8a",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "ff1d3fef-2e65-4954-9ba2-beca57c98942",
+        "4cd305c4-d372-4d9f-8110-dae88209ce57",
+        "18a15bb6-5718-4215-b7e3-7db5d654c58f",
+        "15f1965f-b9a5-4221-a016-31728c24e736",
+        "6ea4d0cf-28d1-442f-bdc0-06a1074d3f8a",
+        "3c7e0ba6-429f-4f2a-a0f1-c1f68fc42a32",
+        "14b6619e-48e9-4256-9e96-650cf7de7ad3",
+        "d240500f-9c26-4286-88bc-6be3e774e96b",
+        "843f48ba-16fb-49ab-8dab-5acc096fcdcf",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

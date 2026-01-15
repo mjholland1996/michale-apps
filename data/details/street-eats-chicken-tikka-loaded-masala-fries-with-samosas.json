@@ -18,80 +18,197 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Chicken breast strips (125g) x0",
-      "quantity": "",
+      "id": "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+      "name": "chicken breast strips",
+      "label": "Chicken breast strips (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
     },
     {
-      "name": "Chicken breast strips (250g)",
-      "quantity": "",
+      "id": "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+      "name": "chicken breast strips",
+      "label": "Chicken breast strips (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/250g-British-chicken-breast-strips-x200.jpg"
     },
     {
-      "name": "Tomato paste (32g) x0",
-      "quantity": "",
+      "id": "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+      "name": "tomato paste",
+      "label": "Tomato paste (32g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "4 vegetable samosas (140g)",
-      "quantity": "",
+      "id": "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+      "name": "4 vegetable samosas",
+      "label": "4 vegetable samosas (140g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/vegetable-samosas-x200.jpg"
     },
     {
-      "name": "Garam masala (1tsp)",
-      "quantity": "",
+      "id": "3518d21a-ac56-46f1-915a-76c1a91f79df",
+      "name": "garam masala",
+      "label": "Garam masala (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garam-masala-2-x200.jpg"
     },
     {
-      "name": "Curry powder (0.5tbsp)",
-      "quantity": "",
+      "id": "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+      "name": "curry powder",
+      "label": "Curry powder (0.5tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Curry-powder-x200.jpg"
     },
     {
-      "name": "Tomato",
-      "quantity": "",
+      "id": "5c14a222-aa12-4d98-a108-106ca1693363",
+      "name": "tomato",
+      "label": "Tomato",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tomato-x200.jpg"
     },
     {
-      "name": "Natural yoghurt (80g)",
-      "quantity": "",
+      "id": "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+      "name": "natural yoghurt",
+      "label": "Natural yoghurt (80g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/natural-yoghurt1-x200.jpg"
     },
     {
-      "name": "Mango chutney (20g)",
-      "quantity": "",
+      "id": "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+      "name": "mango chutney",
+      "label": "Mango chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Mango-chutney-2-x200.jpg"
     },
     {
-      "name": "Ginger & garlic paste (15g)",
-      "quantity": "",
+      "id": "66613362-e511-4465-b1a4-9992a919b5d0",
+      "name": "ginger & garlic paste",
+      "label": "Ginger & garlic paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/ginger-paste-x200.jpg"
     },
     {
-      "name": "Tomato paste (16g)",
-      "quantity": "",
+      "id": "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+      "name": "tomato paste",
+      "label": "Tomato paste (16g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/toamto-paste-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Green tomato chutney (20g)",
-      "quantity": "",
+      "id": "26a55263-c20c-459b-952b-7c8f07be5037",
+      "name": "green tomato chutney",
+      "label": "Green tomato chutney (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/green-tomato-chutney-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     },
     {
-      "name": "Tamarind paste (15g)",
-      "quantity": "",
+      "id": "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+      "name": "tamarind paste",
+      "label": "Tamarind paste (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/tamarind-paste-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "3518d21a-ac56-46f1-915a-76c1a91f79df",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "3518d21a-ac56-46f1-915a-76c1a91f79df",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "3518d21a-ac56-46f1-915a-76c1a91f79df",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "3518d21a-ac56-46f1-915a-76c1a91f79df",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "49ec7825-41d3-4ae5-a0bc-b45040b6612e",
+        "1e4bb09c-0d0a-4f06-a6ea-5222a3b1a43a",
+        "07f7ab2f-3887-4c32-abac-e35c6a74f96a",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "69412a18-8367-4116-b7bc-d00e7a06f1d9",
+        "3518d21a-ac56-46f1-915a-76c1a91f79df",
+        "66613362-e511-4465-b1a4-9992a919b5d0",
+        "26a55263-c20c-459b-952b-7c8f07be5037",
+        "43a5a4d4-63c2-4ab2-ac0d-1e1918f4249b",
+        "b2f5851d-f36f-44d1-a2bb-43891c8aea21",
+        "eec1fcf3-a00b-4321-bedd-d7a5c1754881",
+        "5c14a222-aa12-4d98-a108-106ca1693363",
+        "0ccd25ca-a1b2-49b3-a1d8-22b5b2d72f4b",
+        "03f6a5e1-8c58-4df1-9037-a536d4ebd1c6",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

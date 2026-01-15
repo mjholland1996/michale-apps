@@ -18,75 +18,184 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Tomato ketchup (30ml)",
-      "quantity": "",
+      "id": "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Tomato ketchup (15ml) x0",
-      "quantity": "",
+      "id": "43938034-cb9a-45cb-ad78-44234261fb46",
+      "name": "tomato ketchup",
+      "label": "Tomato ketchup (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tomato-ketchup-sachet-30ml-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml)",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml) x0",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Mustard ketchup (20g)",
-      "quantity": "",
+      "id": "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+      "name": "mustard ketchup",
+      "label": "Mustard ketchup (20g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/mustard-ketchup-x200.jpg"
     },
     {
-      "name": "Cheddar cheese (40g)",
-      "quantity": "",
+      "id": "aed1561d-bae6-487b-a645-4125a6829119",
+      "name": "cheddar cheese",
+      "label": "Cheddar cheese (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/40g-cheddar-cheese-x200.jpg"
     },
     {
-      "name": "Brioche style buns (2pcs)",
-      "quantity": "",
+      "id": "3843fd0b-c75c-457f-99fb-378721464a4d",
+      "name": "brioche style buns",
+      "label": "Brioche style buns (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brioche-roll-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (30ml)",
-      "quantity": "",
+      "id": "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (30ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "Ultimate vegan burger patties (2pcs)",
-      "quantity": "",
+      "id": "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+      "name": "ultimate vegan burger patties",
+      "label": "Ultimate vegan burger patties (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Un-meat-able-burger-pattie-x200.jpg"
     },
     {
-      "name": "Crispy onions (15g)",
-      "quantity": "",
+      "id": "61499436-65ce-4e9a-8e7b-72882f1121a8",
+      "name": "crispy onions",
+      "label": "Crispy onions (15g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Fried-onion-2-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Yellow mustard seeds (1tsp)",
-      "quantity": "",
+      "id": "3445034f-b3b9-40b5-b08f-4632d76ac043",
+      "name": "yellow mustard seeds",
+      "label": "Yellow mustard seeds (1tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Yellow-mustard-seeds-2-x200.jpg"
     },
     {
-      "name": "Red wine vinegar (15ml) x0",
-      "quantity": "",
+      "id": "3982abce-0437-40bc-950c-bc4990c45d9a",
+      "name": "red wine vinegar",
+      "label": "Red wine vinegar (15ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-red-wine-vinegar-sachet-15-ml-x200.jpg"
     },
     {
-      "name": "White potato x4",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x4",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "3445034f-b3b9-40b5-b08f-4632d76ac043"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "3445034f-b3b9-40b5-b08f-4632d76ac043"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "3445034f-b3b9-40b5-b08f-4632d76ac043"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "3445034f-b3b9-40b5-b08f-4632d76ac043"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "3843fd0b-c75c-457f-99fb-378721464a4d",
+        "aed1561d-bae6-487b-a645-4125a6829119",
+        "61499436-65ce-4e9a-8e7b-72882f1121a8",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "95d08b9d-d606-46dc-84c2-5b906d1f0bff",
+        "3982abce-0437-40bc-950c-bc4990c45d9a",
+        "c9bfadf4-a66f-4282-891a-a024f8a937fd",
+        "43938034-cb9a-45cb-ad78-44234261fb46",
+        "b67ea736-aee3-4a42-8b2c-73fb7b4e8e30",
+        "6ad96c4f-b249-4cd2-93de-8bb3776cf7de",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+        "3445034f-b3b9-40b5-b08f-4632d76ac043"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

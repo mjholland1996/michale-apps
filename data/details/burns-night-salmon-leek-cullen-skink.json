@@ -18,65 +18,165 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Leek",
-      "quantity": "",
+      "id": "645a774c-589a-4172-9f0b-dd51a3c7e739",
+      "name": "leek",
+      "label": "Leek",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/leek-x200.jpg"
     },
     {
-      "name": "Skin on salmon fillets (2pcs)",
-      "quantity": "",
+      "id": "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+      "name": "skin on salmon fillets",
+      "label": "Skin on salmon fillets (2pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-salmon-fillets-x200.jpg"
     },
     {
-      "name": "Cornish clotted cream (40g)",
-      "quantity": "",
+      "id": "488d5751-dcff-4985-88c0-bf745ff54904",
+      "name": "Cornish clotted cream",
+      "label": "Cornish clotted cream (40g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cornish-clotted-cream-x200.jpg"
     },
     {
-      "name": "Smoked sea salt flakes (1g)",
-      "quantity": "",
+      "id": "d889aa53-94e3-4b09-9198-03ba31038eb4",
+      "name": "smoked sea salt flakes",
+      "label": "Smoked sea salt flakes (1g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Smoked-salt-x200.jpg"
     },
     {
-      "name": "Intense vegetable stock mix (5.5g)",
-      "quantity": "",
+      "id": "9fba123b-025a-43b0-8a85-3397a62f044e",
+      "name": "intense vegetable stock mix",
+      "label": "Intense vegetable stock mix (5.5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/11g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "Ciabatta x2",
-      "quantity": "",
+      "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+      "name": "ciabatta",
+      "label": "Ciabatta x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/2-ciabatta-rolls-x200.jpg"
     },
     {
-      "name": "Salmon fillet x0",
-      "quantity": "",
+      "id": "fd8bf04f-60ad-42cc-a3b6-347c38cfeaff",
+      "name": "salmon fillet",
+      "label": "Salmon fillet x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/salmon-fillets-x200.jpg"
     },
     {
-      "name": "Garlic clove x2",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Parsley (5g)",
-      "quantity": "",
+      "id": "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+      "name": "parsley",
+      "label": "Parsley (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5g-parsley-copy-x200.jpg"
     },
     {
-      "name": "Brown onion",
-      "quantity": "",
+      "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+      "name": "brown onion",
+      "label": "Brown onion",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-brown-onion-x200.jpg"
     },
     {
-      "name": "Vegetable stock mix (5.5g) x0",
-      "quantity": "",
+      "id": "166bfad3-d300-465d-b61c-fef4d2965904",
+      "name": "vegetable stock mix",
+      "label": "Vegetable stock mix (5.5g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/5.5g-vegetable-stock-powder-x200.jpg"
     },
     {
-      "name": "White potato x3",
-      "quantity": "",
+      "id": "8413c9fa-ae40-4ddb-abd6-03057fc3afd5",
+      "name": "white potato",
+      "label": "White potato x3",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/potatoes-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "fd8bf04f-60ad-42cc-a3b6-347c38cfeaff",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "fd8bf04f-60ad-42cc-a3b6-347c38cfeaff",
+        "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "488d5751-dcff-4985-88c0-bf745ff54904",
+        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "9fba123b-025a-43b0-8a85-3397a62f044e",
+        "645a774c-589a-4172-9f0b-dd51a3c7e739",
+        "ffcdbf19-2791-4eb1-90fc-5db9d6db6533",
+        "fd8bf04f-60ad-42cc-a3b6-347c38cfeaff",
+        "ad9a92c9-f5b3-49ce-a582-be130ba3908b",
+        "d889aa53-94e3-4b09-9198-03ba31038eb4",
+        "166bfad3-d300-465d-b61c-fef4d2965904",
+        "8413c9fa-ae40-4ddb-abd6-03057fc3afd5"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {

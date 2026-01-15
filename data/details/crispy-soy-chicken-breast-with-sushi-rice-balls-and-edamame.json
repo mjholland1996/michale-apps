@@ -18,95 +18,217 @@
   "dietType": "",
   "ingredients": [
     {
-      "name": "Blanched edamame beans (160g)",
-      "quantity": "",
+      "id": "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+      "name": "blanched edamame beans",
+      "label": "Blanched edamame beans (160g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/80g-edamame-beans-admin-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (0.5tsp)",
-      "quantity": "",
+      "id": "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (0.5tsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Sriracha hot chilli sauce (8ml)",
-      "quantity": "",
+      "id": "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+      "name": "sriracha hot chilli sauce",
+      "label": "Sriracha hot chilli sauce (8ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Sriracha-hot-chilli-sauce-sachet-8ml-x200.jpg"
     },
     {
-      "name": "Diced chicken breast (125g) x0",
-      "quantity": "",
+      "id": "66df65e7-80b2-4c81-911b-1e399bb9ab6b",
+      "name": "diced chicken breast",
+      "label": "Diced chicken breast (125g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg"
     },
     {
-      "name": "Diced chicken breast (250g)",
-      "quantity": "",
+      "id": "b4c65e32-f116-4b82-be3f-7ef7d67d0fde",
+      "name": "diced chicken breast",
+      "label": "Diced chicken breast (250g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/British-diced-chicken-breast-2-x200.jpg"
     },
     {
-      "name": "Sushi rice (150g)",
-      "quantity": "",
+      "id": "5b608e35-d38b-42bd-a3cb-9553e0d8fa8c",
+      "name": "sushi rice",
+      "label": "Sushi rice (150g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/Sushi-rice-1-x200.jpg"
     },
     {
-      "name": "Mayonnaise (50ml) x0",
-      "quantity": "",
+      "id": "70f967b5-e78a-44a4-9450-a52705125b45",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (50ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Dried chilli flakes (1tsp) x0",
-      "quantity": "",
+      "id": "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+      "name": "dried chilli flakes",
+      "label": "Dried chilli flakes (1tsp) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tsp-dried-chilli-flakes-x200.jpg"
     },
     {
-      "name": "Sushi rice (75g) x0",
-      "quantity": "",
+      "id": "c6911e1e-0963-4410-ad05-f028b84dc626",
+      "name": "sushi rice",
+      "label": "Sushi rice (75g) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/150g-sushi-rice-v2-x200.jpg"
     },
     {
-      "name": "Cornflour (4tbsp)",
-      "quantity": "",
+      "id": "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+      "name": "cornflour",
+      "label": "Cornflour (4tbsp)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/finely-milled-cornflour-x200.jpg"
     },
     {
-      "name": "Mayonnaise (25ml)",
-      "quantity": "",
+      "id": "cc724d5b-17de-402f-bc33-8e8008f365fa",
+      "name": "mayonnaise",
+      "label": "Mayonnaise (25ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-mayonnaise-sachet-x200.jpg"
     },
     {
-      "name": "Garlic clove",
-      "quantity": "",
+      "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+      "name": "garlic clove",
+      "label": "Garlic clove",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/garlic-copy-x200.jpg"
     },
     {
-      "name": "Shichimi togarashi (2g)",
-      "quantity": "",
+      "id": "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+      "name": "shichimi togarashi",
+      "label": "Shichimi togarashi (2g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-Shichimi-Togarashi-sachet-2g-x200.jpg"
     },
     {
-      "name": "Gluten free soy sauce (15ml) x2",
-      "quantity": "",
+      "id": "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+      "name": "gluten free soy sauce",
+      "label": "Gluten free soy sauce (15ml) x2",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/GF-soy-sauce-x200.jpg"
     },
     {
-      "name": "Cucumber (0.5pcs)",
-      "quantity": "",
+      "id": "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+      "name": "cucumber",
+      "label": "Cucumber (0.5pcs)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/cucumber-x200.jpg"
     },
     {
-      "name": "Rice vinegar (30ml) x0",
-      "quantity": "",
+      "id": "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (30ml) x0",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Rice vinegar (15ml)",
-      "quantity": "",
+      "id": "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+      "name": "rice vinegar",
+      "label": "Rice vinegar (15ml)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/1-tbsp-rice-vinegar-x200.jpg"
     },
     {
-      "name": "Black sesame seeds (5g)",
-      "quantity": "",
+      "id": "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+      "name": "black sesame seeds",
+      "label": "Black sesame seeds (5g)",
       "imageUrl": "https://production-media.gousto.co.uk/cms/ingredient-image/black-sesame-seeds-x200.jpg"
     }
+  ],
+  "portionSizes": [
+    {
+      "portions": 1,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+        "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "66df65e7-80b2-4c81-911b-1e399bb9ab6b",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "c6911e1e-0963-4410-ad05-f028b84dc626"
+      ]
+    },
+    {
+      "portions": 2,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+        "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "b4c65e32-f116-4b82-be3f-7ef7d67d0fde",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "5b608e35-d38b-42bd-a3cb-9553e0d8fa8c"
+      ]
+    },
+    {
+      "portions": 3,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+        "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "66df65e7-80b2-4c81-911b-1e399bb9ab6b",
+        "b4c65e32-f116-4b82-be3f-7ef7d67d0fde",
+        "ef6fff07-cda1-491c-bffe-d6f2614bf17a",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "d6d25e38-aefd-4e18-972b-fe0eb9378ca8",
+        "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "5b608e35-d38b-42bd-a3cb-9553e0d8fa8c",
+        "c6911e1e-0963-4410-ad05-f028b84dc626"
+      ]
+    },
+    {
+      "portions": 4,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+        "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "b4c65e32-f116-4b82-be3f-7ef7d67d0fde",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "5b608e35-d38b-42bd-a3cb-9553e0d8fa8c"
+      ]
+    },
+    {
+      "portions": 5,
+      "ingredientIds": [
+        "9d0e1ad4-50bc-4219-82d4-7d568ef8070a",
+        "1d0b02a0-920b-44e2-b8c4-2fb993205dc1",
+        "f585c6d0-f7a2-45b2-982b-da6abee7c2a5",
+        "4b3f1d8a-1881-4597-ac85-6ed81114c8c5",
+        "66df65e7-80b2-4c81-911b-1e399bb9ab6b",
+        "b4c65e32-f116-4b82-be3f-7ef7d67d0fde",
+        "e005cb1e-5d67-45e3-8728-187e9bc0812c",
+        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+        "91a7f9c1-a120-4618-8ac6-448ad4a3ce38",
+        "70f967b5-e78a-44a4-9450-a52705125b45",
+        "cc724d5b-17de-402f-bc33-8e8008f365fa",
+        "feae1edf-86b4-4be6-91f1-d1b3817d87b7",
+        "5538b1f1-7fd1-4355-b5fb-afbdb25c5a47",
+        "34ad5b48-6f2b-402b-8699-1237fb821ae2",
+        "5b608e35-d38b-42bd-a3cb-9553e0d8fa8c",
+        "c6911e1e-0963-4410-ad05-f028b84dc626"
+      ]
+    }
+  ],
+  "availableServings": [
+    1,
+    2,
+    3,
+    4,
+    5
   ],
   "instructions": [
     {
