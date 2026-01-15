@@ -21,9 +21,14 @@ export interface Ingredient {
   imageUrl?: string;
 }
 
+export interface PortionIngredient {
+  id: string;
+  quantity: number;
+}
+
 export interface PortionSize {
   portions: number;
-  ingredientIds: string[];
+  ingredients: PortionIngredient[];
 }
 
 export interface RecipeDetail {

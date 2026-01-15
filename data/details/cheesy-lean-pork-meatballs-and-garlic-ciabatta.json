@@ -99,81 +99,243 @@
   "portionSizes": [
     {
       "portions": 1,
-      "ingredientIds": [
-        "8357c090-d832-41bc-a458-b13600637e1b",
-        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
-        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
-        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
-        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
-        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
-        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
-        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
-        "d93301c4-2563-4b9d-b829-991800ca87b4",
-        "0af67d61-fa68-4172-bec1-09d635e3fc71"
+      "ingredients": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "quantity": 1
+        },
+        {
+          "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+          "quantity": 1
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "quantity": 1
+        },
+        {
+          "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+          "quantity": 1
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "quantity": 1
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "quantity": 2
+        },
+        {
+          "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+          "quantity": 1
+        },
+        {
+          "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+          "quantity": 1
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "quantity": 1
+        },
+        {
+          "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+          "quantity": 1
+        }
       ]
     },
     {
       "portions": 2,
-      "ingredientIds": [
-        "8357c090-d832-41bc-a458-b13600637e1b",
-        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
-        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
-        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
-        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
-        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
-        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
-        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
-        "d93301c4-2563-4b9d-b829-991800ca87b4",
-        "0af67d61-fa68-4172-bec1-09d635e3fc71"
+      "ingredients": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "quantity": 1
+        },
+        {
+          "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+          "quantity": 1
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "quantity": 1
+        },
+        {
+          "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+          "quantity": 2
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "quantity": 1
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "quantity": 3
+        },
+        {
+          "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+          "quantity": 1
+        },
+        {
+          "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+          "quantity": 1
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "quantity": 1
+        },
+        {
+          "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+          "quantity": 1
+        }
       ]
     },
     {
       "portions": 3,
-      "ingredientIds": [
-        "8357c090-d832-41bc-a458-b13600637e1b",
-        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
-        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
-        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
-        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
-        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
-        "9f543174-2841-4ecb-8a99-a6cad9006665",
-        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
-        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
-        "d93301c4-2563-4b9d-b829-991800ca87b4",
-        "0af67d61-fa68-4172-bec1-09d635e3fc71"
+      "ingredients": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "quantity": 1
+        },
+        {
+          "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+          "quantity": 2
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "quantity": 2
+        },
+        {
+          "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+          "quantity": 3
+        },
+        {
+          "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+          "quantity": 1
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "quantity": 5
+        },
+        {
+          "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+          "quantity": 1
+        },
+        {
+          "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+          "quantity": 1
+        },
+        {
+          "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+          "quantity": 1
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "quantity": 2
+        },
+        {
+          "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+          "quantity": 2
+        }
       ]
     },
     {
       "portions": 4,
-      "ingredientIds": [
-        "8357c090-d832-41bc-a458-b13600637e1b",
-        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
-        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
-        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
-        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
-        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
-        "9f543174-2841-4ecb-8a99-a6cad9006665",
-        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
-        "d93301c4-2563-4b9d-b829-991800ca87b4",
-        "0af67d61-fa68-4172-bec1-09d635e3fc71"
+      "ingredients": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "quantity": 2
+        },
+        {
+          "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+          "quantity": 2
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "quantity": 2
+        },
+        {
+          "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+          "quantity": 4
+        },
+        {
+          "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+          "quantity": 1
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "quantity": 6
+        },
+        {
+          "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+          "quantity": 1
+        },
+        {
+          "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+          "quantity": 2
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "quantity": 2
+        },
+        {
+          "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+          "quantity": 2
+        }
       ]
     },
     {
       "portions": 5,
-      "ingredientIds": [
-        "8357c090-d832-41bc-a458-b13600637e1b",
-        "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
-        "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
-        "2405df8e-87cf-4188-bdb1-990b63ddf75b",
-        "f217148a-bb67-4f4e-a820-02a5122c2d3a",
-        "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
-        "0cdeefe0-26b8-42f2-bced-9e677f809a26",
-        "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
-        "9f543174-2841-4ecb-8a99-a6cad9006665",
-        "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
-        "8371ef5f-f73b-40c3-8e15-595f00820cf4",
-        "d93301c4-2563-4b9d-b829-991800ca87b4",
-        "0af67d61-fa68-4172-bec1-09d635e3fc71"
+      "ingredients": [
+        {
+          "id": "8357c090-d832-41bc-a458-b13600637e1b",
+          "quantity": 2
+        },
+        {
+          "id": "e6c07e0b-ad3c-4db8-8f1c-020fef39bfb3",
+          "quantity": 3
+        },
+        {
+          "id": "79dc3eeb-991b-4673-913e-fbdc339f1fcf",
+          "quantity": 3
+        },
+        {
+          "id": "2405df8e-87cf-4188-bdb1-990b63ddf75b",
+          "quantity": 5
+        },
+        {
+          "id": "f217148a-bb67-4f4e-a820-02a5122c2d3a",
+          "quantity": 1
+        },
+        {
+          "id": "b8bf2636-16a7-4c9f-845b-d0a7a4aa09d6",
+          "quantity": 1
+        },
+        {
+          "id": "0cdeefe0-26b8-42f2-bced-9e677f809a26",
+          "quantity": 8
+        },
+        {
+          "id": "3ba7a62d-1b34-4cc9-b863-4af220efe88c",
+          "quantity": 1
+        },
+        {
+          "id": "9f543174-2841-4ecb-8a99-a6cad9006665",
+          "quantity": 1
+        },
+        {
+          "id": "78e9fb95-bc0f-4abb-ba8c-1f3d94395925",
+          "quantity": 2
+        },
+        {
+          "id": "8371ef5f-f73b-40c3-8e15-595f00820cf4",
+          "quantity": 1
+        },
+        {
+          "id": "d93301c4-2563-4b9d-b829-991800ca87b4",
+          "quantity": 3
+        },
+        {
+          "id": "0af67d61-fa68-4172-bec1-09d635e3fc71",
+          "quantity": 3
+        }
       ]
     }
   ],

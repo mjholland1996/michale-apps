@@ -37,7 +37,11 @@ export function IngredientsPanel({
       );
 
   const portionEntry = portionSizes.find(ps => ps.portions === effectiveServingSize);
-  const ingredientIds = portionEntry?.ingredientIds ?? [];
+  const portionIngredients = portionEntry?.ingredients ?? [];
+
+  // Build a map of ingredient ID to quantity for this portion size
+  const quantityMap = new Map(portionIngredients.map(pi => [pi.id, pi.quantity]));
+  const ingredientIds = portionIngredients.map(pi => pi.id);
 
   // Filter ingredients to only those in the current portion size
   const filteredIngredients = ingredientIds.length > 0
@@ -46,6 +50,9 @@ export function IngredientsPanel({
 
   // Clean up ingredient label by removing "x0" suffix (data artifact)
   const cleanLabel = (label: string) => label.replace(/\s*x0$/i, '');
+
+  // Get quantity for an ingredient
+  const getQuantity = (id: string) => quantityMap.get(id) ?? 1;
 
   return (
     <div className="bg-white rounded-xl shadow-sm p-6 sticky top-4">
@@ -72,7 +79,14 @@ export function IngredientsPanel({
                 </div>
               )}
               <div>
-                <p className="font-medium text-gray-900">{cleanLabel(ingredient.label)}</p>
+                <p className="font-medium text-gray-900">
+                  {cleanLabel(ingredient.label)}
+                  {getQuantity(ingredient.id) > 1 && (
+                    <span className="ml-1 text-emerald-600 font-semibold">
+                      × {getQuantity(ingredient.id)}
+                    </span>
+                  )}
+                </p>
               </div>
             </li>
           ))}

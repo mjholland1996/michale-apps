@@ -121,12 +121,15 @@ function fetchRecipeDetail(slug) {
       ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
       ?.image;
 
-    // Process portion sizes - maps serving count to ingredient IDs
+    // Process portion sizes - maps serving count to ingredient IDs with quantities
     const portionSizes = (entry.portion_sizes ?? [])
       .filter(ps => ps.is_offered)
       .map(ps => ({
         portions: ps.portions,
-        ingredientIds: (ps.ingredients_skus ?? []).map(sku => sku.id),
+        ingredients: (ps.ingredients_skus ?? []).map(sku => ({
+          id: sku.id,
+          quantity: sku.quantities?.in_box ?? 1,
+        })),
       }));
 
     // Get available serving sizes (typically 2-5)
