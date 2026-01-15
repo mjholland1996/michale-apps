@@ -5,7 +5,8 @@ import { RecipeSummary } from '@/types/recipe';
 import recipesData from '../../data/recipes-index.json';
 
 export default function BrowsePage() {
-  const recipes = recipesData as RecipeSummary[];
+  // Only show recipes that have complete detail data (portion sizes, ingredients, etc.)
+  const recipes = (recipesData as RecipeSummary[]).filter(r => r.hasDetails);
 
   return (
     <div className="min-h-screen pb-24">
