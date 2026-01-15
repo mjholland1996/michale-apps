@@ -51,6 +51,7 @@ function extractSlug(url) {
 
 function fetchAllRecipeSummaries(limit) {
   const recipes = [];
+  const seenSlugs = new Set();
   let offset = 0;
   const pageSize = 20;
   let totalCount = Infinity;
@@ -70,6 +71,12 @@ function fetchAllRecipeSummaries(limit) {
       for (const recipe of entries) {
         if (limit && recipes.length >= limit) break;
 
+        const slug = extractSlug(recipe.url);
+
+        // Skip duplicates (API sometimes returns the same recipe twice)
+        if (seenSlugs.has(slug)) continue;
+        seenSlugs.add(slug);
+
         // Find the best image (around 700px wide)
         const image = recipe.media?.images
           ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
@@ -78,7 +85,7 @@ function fetchAllRecipeSummaries(limit) {
         recipes.push({
           uid: recipe.uid,
           title: recipe.title,
-          slug: extractSlug(recipe.url),
+          slug,
           rating: {
             average: recipe.rating?.average ?? 0,
             count: recipe.rating?.count ?? 0,
