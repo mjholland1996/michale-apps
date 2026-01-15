@@ -102,6 +102,10 @@ export function formatQuantity(amount: number, unit: string): string {
 
 /**
  * Combine ingredients from multiple recipes
+ *
+ * The `quantity` (in_box) from portionSizes means:
+ * - For weight/volume items (g, kg, ml, l, tsp, tbsp): number of PACKS → multiply by label amount
+ * - For count items (pcs, xN suffix, or no unit): the actual COUNT of items
  */
 export function combineIngredients(
   ingredientLists: Array<{
@@ -111,7 +115,7 @@ export function combineIngredients(
       name: string;
       label: string;
       imageUrl?: string;
-      quantity: number; // from portionSizes
+      quantity: number; // from portionSizes (in_box)
     }>;
   }>
 ): CombinedIngredient[] {
@@ -128,10 +132,22 @@ export function combineIngredients(
     }>;
   }>();
 
+  // Units where in_box means "number of packs" (multiply by label amount)
+  const packBasedUnits = ['g', 'kg', 'ml', 'l', 'tsp', 'tbsp'];
+
   for (const { recipeTitle, ingredients } of ingredientLists) {
     for (const ing of ingredients) {
       const { amount, unit } = parseQuantityFromLabel(ing.label);
-      const totalAmount = amount * ing.quantity;
+
+      // Determine total amount based on unit type
+      let totalAmount: number;
+      if (packBasedUnits.includes(unit.toLowerCase())) {
+        // For weight/volume: in_box is pack count, multiply by label amount
+        totalAmount = amount * ing.quantity;
+      } else {
+        // For count-based items (pcs, xN): in_box IS the actual count
+        totalAmount = ing.quantity;
+      }
 
       if (!grouped.has(ing.name)) {
         grouped.set(ing.name, { name: ing.name, items: [] });
@@ -141,7 +157,7 @@ export function combineIngredients(
         label: ing.label,
         imageUrl: ing.imageUrl,
         parsedAmount: totalAmount,
-        unit,
+        unit: packBasedUnits.includes(unit.toLowerCase()) ? unit : 'pcs',
         portionQuantity: ing.quantity,
         recipeTitle,
       });
