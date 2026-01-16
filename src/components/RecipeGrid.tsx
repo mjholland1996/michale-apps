@@ -6,10 +6,11 @@ import { RecipeCard } from './RecipeCard';
 
 interface RecipeGridProps {
   recipes: RecipeSummary[];
+  sharedIngredients?: Map<string, number>;
   pageSize?: number;
 }
 
-export function RecipeGrid({ recipes, pageSize = 12 }: RecipeGridProps) {
+export function RecipeGrid({ recipes, sharedIngredients, pageSize = 12 }: RecipeGridProps) {
   const [page, setPage] = useState(1);
 
   const totalPages = Math.ceil(recipes.length / pageSize);
@@ -21,7 +22,11 @@ export function RecipeGrid({ recipes, pageSize = 12 }: RecipeGridProps) {
       {/* Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {visibleRecipes.map((recipe) => (
-          <RecipeCard key={recipe.slug} recipe={recipe} />
+          <RecipeCard
+            key={recipe.slug}
+            recipe={recipe}
+            sharedIngredients={sharedIngredients?.get(recipe.slug)}
+          />
         ))}
       </div>
 

@@ -5,6 +5,7 @@ import { RecipeGrid } from '@/components/RecipeGrid';
 import { SelectionTracker } from '@/components/SelectionTracker';
 import { ServingSizeSelector } from '@/components/ServingSizeSelector';
 import { FilterPanel, Filters } from '@/components/FilterPanel';
+import { useMealPlan } from '@/context/MealPlanContext';
 import { RecipeSummary } from '@/types/recipe';
 import recipesData from '../../data/recipes-index.json';
 
@@ -15,6 +16,7 @@ function getTimeCategory(prepTime: number): string {
 }
 
 export default function BrowsePage() {
+  const { selectedRecipes } = useMealPlan();
   const [filters, setFilters] = useState<Filters>({
     proteins: [],
     carbs: [],
@@ -26,6 +28,42 @@ export default function BrowsePage() {
     () => (recipesData as RecipeSummary[]).filter(r => r.hasDetails),
     []
   );
+
+  // Get set of all ingredient names from selected recipes
+  const selectedIngredients = useMemo(() => {
+    const ingredients = new Set<string>();
+    for (const recipe of selectedRecipes) {
+      // Find full recipe data with ingredients
+      const fullRecipe = allRecipes.find(r => r.slug === recipe.slug);
+      if (fullRecipe?.ingredientNames) {
+        for (const ing of fullRecipe.ingredientNames) {
+          ingredients.add(ing);
+        }
+      }
+    }
+    return ingredients;
+  }, [selectedRecipes, allRecipes]);
+
+  // Compute shared ingredients count for each recipe
+  const sharedIngredientsMap = useMemo(() => {
+    const map = new Map<string, number>();
+    if (selectedIngredients.size === 0) return map;
+
+    for (const recipe of allRecipes) {
+      // Skip selected recipes
+      if (selectedRecipes.some(r => r.slug === recipe.slug)) continue;
+
+      const recipeIngredients = recipe.ingredientNames ?? [];
+      const sharedCount = recipeIngredients.filter(ing =>
+        selectedIngredients.has(ing)
+      ).length;
+
+      if (sharedCount > 0) {
+        map.set(recipe.slug, sharedCount);
+      }
+    }
+    return map;
+  }, [allRecipes, selectedRecipes, selectedIngredients]);
 
   // Filter recipes based on current filters
   const filteredRecipes = useMemo(() => {
@@ -57,6 +95,26 @@ export default function BrowsePage() {
       return true;
     });
   }, [allRecipes, filters]);
+
+  // Sort recipes: selected first, then by shared ingredients (descending), then alphabetically
+  const sortedRecipes = useMemo(() => {
+    return [...filteredRecipes].sort((a, b) => {
+      const aSelected = selectedRecipes.some(r => r.slug === a.slug);
+      const bSelected = selectedRecipes.some(r => r.slug === b.slug);
+
+      // Selected recipes first
+      if (aSelected && !bSelected) return -1;
+      if (!aSelected && bSelected) return 1;
+
+      // Then by shared ingredients count (descending)
+      const aShared = sharedIngredientsMap.get(a.slug) ?? 0;
+      const bShared = sharedIngredientsMap.get(b.slug) ?? 0;
+      if (aShared !== bShared) return bShared - aShared;
+
+      // Finally alphabetically
+      return a.title.localeCompare(b.title);
+    });
+  }, [filteredRecipes, selectedRecipes, sharedIngredientsMap]);
 
   // Compute counts for filter badges (based on all recipes, not filtered)
   const recipeCounts = useMemo(() => {
@@ -108,10 +166,18 @@ export default function BrowsePage() {
 
         {/* Results count */}
         <p className="text-sm text-gray-600 mb-4">
-          Showing {filteredRecipes.length} of {allRecipes.length} recipes
+          Showing {sortedRecipes.length} of {allRecipes.length} recipes
+          {selectedRecipes.length > 0 && sharedIngredientsMap.size > 0 && (
+            <span className="ml-2 text-amber-600">
+              (sorted by shared ingredients)
+            </span>
+          )}
         </p>
 
-        <RecipeGrid recipes={filteredRecipes} />
+        <RecipeGrid
+          recipes={sortedRecipes}
+          sharedIngredients={sharedIngredientsMap}
+        />
       </main>
 
       {/* Selection tracker */}

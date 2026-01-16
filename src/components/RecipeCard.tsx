@@ -6,9 +6,10 @@ import { useMealPlan } from '@/context/MealPlanContext';
 
 interface RecipeCardProps {
   recipe: RecipeSummary;
+  sharedIngredients?: number;
 }
 
-export function RecipeCard({ recipe }: RecipeCardProps) {
+export function RecipeCard({ recipe, sharedIngredients }: RecipeCardProps) {
   const { isSelected, toggleRecipe, canSelectMore } = useMealPlan();
   const selected = isSelected(recipe.slug);
   const canToggle = selected || canSelectMore;
@@ -30,6 +31,16 @@ export function RecipeCard({ recipe }: RecipeCardProps) {
           <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
           </svg>
+        </div>
+      )}
+
+      {/* Shared ingredients badge */}
+      {sharedIngredients !== undefined && sharedIngredients > 0 && !selected && (
+        <div className="absolute top-3 left-3 z-10 bg-amber-500 text-white text-xs font-semibold px-2 py-1 rounded-full flex items-center gap-1">
+          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+          </svg>
+          {sharedIngredients} shared
         </div>
       )}
 
