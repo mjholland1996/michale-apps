@@ -12,7 +12,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/687---Chicken-Date--Tamarind-Curry_01-1592819703164-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt5557433af4061364",
@@ -27,7 +33,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2299---Open-Steak-Sandwich-With-Balsamic-Onions-And-Chips1014-1758190315680-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt45d7347f837b09df",
@@ -42,7 +55,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1938---Simply-Perfect-Spag-Bol-4235-1576753790322-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt3b3f43188a5143b4",
@@ -72,7 +91,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2926-21-Day-Aged-Sirloin-Steak-With-Chips-And-Peppercorn-Sauce2234-1758623634926-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt4b8b01f675002922",
@@ -87,7 +112,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1454_One-Pot-Cheesy-Haddock--Leek-Chowder_004_0-1710347447576-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blte9e3a300c18676f6",
@@ -117,7 +148,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1713---Aromatic-Sri-Lankan-Chicken-Curry5550-1-2-1680793916581-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blta5bb56ee6945ba69",
@@ -147,7 +184,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2536_The-Ultimate-Vegan-Stack-Burger-3705-1607343141509-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt4c23aa8c7d1abfc1",
@@ -162,7 +206,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2513-21-Day-Aged-Sirloin-Truffled-Mushroom-Sauce--Fries4321-1762512227517-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt41f8215fc14408f8",
@@ -192,7 +242,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/919_Goan-Style-Basa--Spinach-Curry-With-Coriander-Rice_001_0-1761822585092-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt676b6b1854ae9f84",
@@ -207,7 +263,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2749-2-Bacon-Cheeseburger-With-Garlic-Butter-Fries-And-Truffle-Mayo-1758187735462-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt5564ac28f4f29121",
@@ -222,7 +286,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2852_3-Cheese-Veg-Packed-Wholegrain-Pasta-Bake-1010-1591280838041-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt096ac84e3aa80612",
@@ -237,7 +307,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2082.-Amalfi-style-Jumbo-Prawn--Lemon-Risotto-Cookbook-Page-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt7c4a6d06c7020152",
@@ -252,7 +328,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2655_Sri-Lankan-Coconut-Dal-With-Aubergine-Pickle-0672-1582891515586-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blta2a3c8de264173e0",
@@ -267,7 +349,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1448-Duck-Breast-Braised-Red-Cabbage-Potato--Parsnip-Gratin2805-1-1758187216559-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "duck"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltfaa668edcf36db19",
@@ -282,7 +371,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1574---Roast-Lamb-Creamed-Leek-Tenderstem--Redcurrant-Jus0404-1758187522831-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "lamb"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt8489f189534f6530",
@@ -312,7 +408,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1196_Paprika-Chicken-With-Tomato--Coconut-Dal_001_0-1750940274919-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt8bb82e77f1bfa313",
@@ -327,7 +430,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1493_Smoky-Beef-Enchiladas-With-Fresh-Tomato-Salsa-3310-1609778547092-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt0da01d9492a51751",
@@ -342,11 +451,17 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2942---Chicken-Date--Tamarind-Curry-With-Brown-Rice0379-1592820833540-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt107c1bde0283578f",
-    "title": "Duck Breast, Sweet Potato Purée, Pomegranate Sauce & Roast Tenderstem",
+    "title": "Duck Breast, Sweet Potato Pur\u00e9e, Pomegranate Sauce & Roast Tenderstem",
     "slug": "duck-breast-sweet-potato-puree-pomegranate-sauce-roast-tenderstem",
     "rating": {
       "average": 5,
@@ -361,7 +476,7 @@
   },
   {
     "uid": "blta9dc19d5bfa4eafc",
-    "title": "Pan-Fried Salmon, Pea Velouté, Roast Asparagus & Hasselback Potatoes",
+    "title": "Pan-Fried Salmon, Pea Velout\u00e9, Roast Asparagus & Hasselback Potatoes",
     "slug": "pan-fried-salmon-pea-veloute-roast-asparagus-hasselback-potatoes",
     "rating": {
       "average": 5,
@@ -387,7 +502,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1930-2-Malaysian-Style-Coconut-Chicken-Thigh-With-Rice-2_0-1766050509485-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt22f1780e7b000b62",
@@ -417,7 +538,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2120-2-Ultimate-Bacon-Cheeseburger-With-Rosemary-Salted-Fries-1758811195469-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt2f35ca0f09c3d83f",
@@ -432,7 +561,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2985_Sticky-Chilli-Chicken-with-Salt-and-Pepper-Chips_002_0-1657624217767-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt76d9321dfc67d431",
@@ -447,11 +582,17 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2377---Comforting-Cottage-Pie-With-Tenderstem-Broccoli0335-1667316744157-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt5f107a7dba352a4d",
-    "title": "Extra Special Bangers 'N’ Mash",
+    "title": "Extra Special Bangers 'N\u2019 Mash",
     "slug": "extra-special-bangers-n-mash",
     "rating": {
       "average": 5,
@@ -462,7 +603,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1942_Extra-Special-Bangers-N-Mash-4601-1628678919829-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blta7fb47a546cfb850",
@@ -477,7 +625,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2023---3-Cheese-Veg-Packed-Pasta-Bake-7065-1579799730289-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blta156c224407ff8f9",
@@ -492,7 +646,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2965---Simply-Perfect-Lean-Mince-Spag-Bol_03-1596470380147-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt7e47034ad61504e6",
@@ -507,7 +667,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2864---Paprika-Paneer-With-Tomato--Coconut-Dal0498-1592820563652-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blte543f5e4caf84f1e",
@@ -537,7 +703,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3231_Korean-Style-Yang-Nyum-Fried-Chicken_002_0-1714051781299-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt1289b97f46c129bc",
@@ -552,7 +724,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3380---The-PB--J-Vegan-Burger-With-Potato-Wedges-copy-1620645112799-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt27c33316f083ac20",
@@ -567,7 +746,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3366_veggieAmerican-Style-Cheeseburger-With-Potato-Wedges0111-1702291212013-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt0a264b3bca02015d",
@@ -582,7 +768,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3782---Malaysian-Style-Coconut-Basa-With-Rice3820-copy-1724921742020-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt816824335d119d73",
@@ -597,7 +789,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3912_Bang-Bang-Meat-Free-Chickn-With-Crunchy-Rice-Salad_004_0-1712832730849-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt725f94dec9e8e6a7",
@@ -612,7 +810,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3387---Comforting-Lentil-Cottage-Pie8901-1635267085579-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltbe42595eaba33f23",
@@ -627,7 +831,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3994---Malaysian-Style-Coconut-Meat-Free-Chick_n-With-Rice384-copy-1724921436832-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltb6dd1eb490c6bdaa",
@@ -642,7 +852,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4111_Garlic-Bread-Chicken-Burger-With-Roasted-Garlic-Aioli--8089-1642094318217-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt09bbaa7570d84aca",
@@ -657,7 +874,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2709-mothers-day-2-1647615745941-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltf2d14e36bd613f1b",
@@ -687,7 +910,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4264--Creamy-Chicken-Leek--Bacon-Pie-With-Tarragon-Pastry-1647512104289-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt5a3b14a25b91ee3d",
@@ -702,7 +932,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4303-2-Moroccan-Style-Lamb-Shepherds-Pie-With-Sumac-Carrots-1-1647884384169-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "lamb"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt534e25e5f770bc61",
@@ -717,7 +954,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4121---Homemade-Pesto-Chicken--Chorizo-Sandwich16125-1648561954055-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blta3775bcf78ca9bb0",
@@ -732,7 +977,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4130-Peppercorn-Rump-Steak--Mushroom-Sandwich-1758190254050-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt36c3b26c54950263",
@@ -747,7 +999,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4377---Curried-Prawn-Sandwich-With-Onion-Bhaji--Radish-Salad16839-1653411216752-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt5c3c23bca4420195",
@@ -762,7 +1021,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4606_Chicken-Curry-Pasty-with-Fries-and-Mango-Siracha-Dip_002_FIXED_0-1654533226071-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt5ba30e4ebd1aeed1",
@@ -777,7 +1042,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4592---Nduja-Graffiti-Aubergine-Salad-With-Tomatoey-Croutons--Basil-Oil0336-1654013982779-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltefe631ee4e71af03",
@@ -792,7 +1063,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4707---Crispy-Soy-Basa-With-Vegetable-Sushi-And-Edamame-Slaw17609-1657617503142-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte2dd0c1d96c3e0b8",
@@ -807,7 +1084,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4747-2_Warm-Chorizo-_-Crispy-Potato-Salad-With-Honey-Mustard-Dressing_012_0-1658917458261-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt64d66a3a5eb3f245",
@@ -822,7 +1106,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4826---Crispy-Soy-Basa-With-Seaweed-Sushi-Rice-Balls-And-Edamame-Salad-9784-1662651158941-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte54b57b53f1e7332",
@@ -837,7 +1127,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4527---Cheesy-Sausage--Egg-Sandwich-With-Crispy-Potatoes0053-1664183525941-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt5d7e752646dfc2b8",
@@ -852,7 +1149,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4951---Spiced-Beef--Mango-Chutney-Pies-with-Mustard-Seed-Root-Veg0162-1665419535764-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt58cb8c244dca0f9b",
@@ -867,7 +1170,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5007---One-Hour-Christmas-Dinner--All-The-Trimmings2637-1699280845048-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt617fc50d2d0b9d8c",
@@ -882,7 +1192,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5086---Sticky-Hoisin-Sausage-Traybake3557-copy-1721996108759-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt3f258b3199819020",
@@ -897,7 +1213,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5166-2-Char-Siu-Style-Pork-Bao-Buns-Mooli-Slaw--Loaded-Fries-1758187649922-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt0ce8685be24ddb25",
@@ -912,7 +1235,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5168-2_Char-Siu-Style-Mushroom-Bao-Buns--Loaded-Fries-1758187783288-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt04a013a1976d99a4",
@@ -927,7 +1257,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5193_Plant-Based-Sweet-Sesame-Fable-Mushroom-Tacos_003_0-1671123023018-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltea646d35b7a60577",
@@ -942,7 +1278,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/range-main-image/5135-Classic-Hot-Dog-with-Sweet-Onions-Loaded-Fries-01-1671451007105-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltcb8177c155bdd8ba",
@@ -957,7 +1300,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5334-2-Sriracha-Hot-Dog-With-Fiery-Sesame-Fries--Pickled-Slaw-0200-1675159027978-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt56f3d6575c8f3b7e",
@@ -972,7 +1322,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3312_Meat-Free-Chickn-Tom-Kha-Soup-With-Basmati-Rice_003_0-1739530932632-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blta6704b33821b5085",
@@ -1002,7 +1358,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4351-2_Beef-Chilli-Con-Carne-Baked-Sweet-Potato--Smashed-Avocado_001_0-1676992772622-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt69238462e1ff2944",
@@ -1017,7 +1379,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7692---Creamy-Chicken-Bacon--Mushroom-Stew3243-1757681706286-1758290433789-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt033b9a736931928c",
@@ -1032,7 +1401,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5404---Green-Tikka-Masala-Basa-Curry-With-Almonds--Rice0946-1678786194206-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt7a68da657fe0ca9a",
@@ -1062,7 +1437,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5660_Loaded-Patatas-Rancheros-With-Greek-Cheese-V_003_0-1756733252232-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt35c952a24dd661d6",
@@ -1077,7 +1458,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/796_Crispy-Pork-Bibimbap-With-Pak-Choi-3426-1606826604171-1681480804067-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte5107ba28290c164",
@@ -1092,7 +1479,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5253-Roast-Duck-Leg-With-Duck-Fat-Roasties-And-Red-Cabbage3528-1758187949113-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "duck"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt84da0ad369172136",
@@ -1107,7 +1501,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4056_Chilli-Cheese-Naan-with-Tandoori-Chicken_002_0-1681826171039-1683019145718-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt1efe99a364586831",
@@ -1122,7 +1522,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5319_Lamb-Meatball-Biryani-with-Minty-Mayo--Pickled-Onions_002_0-1682432876530-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "lamb"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltc61f8b7c51ee10b3",
@@ -1137,7 +1544,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5727_Chicken-Tamarind-Curry-with-Turmeric-Rice_003_0-1686053737670-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt9b1212264ad2ab7f",
@@ -1152,7 +1565,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4578-Smoky-Chicken-Thigh-01-1-3-1655209243252-1691483912928-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blta965c3c35495ea6a",
@@ -1167,7 +1586,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1196---Paprika-Chicken-With-Tomato--Coconut-Dal0506-1628690516688-1698750157182-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt62a332dbef42bd41",
@@ -1182,7 +1608,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5023_Lighter-Goan-Style-Basa--Spinach-Curry-With-Coriander-Rice-9010-1692091773944-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt7415c5b059838656",
@@ -1197,11 +1629,17 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5972---Vietnamese-Style-Fable-Mushroom--Lemongrass-Stew3367-1725023050036-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt73485f522df37773",
-    "title": "Duck A L’Orange With Hasselback Potatoes And Glazed Carrots",
+    "title": "Duck A L\u2019Orange With Hasselback Potatoes And Glazed Carrots",
     "slug": "duck-a-lorange-with-hasselback-potatoes-and-glazed-chantenay-carrots",
     "rating": {
       "average": 5,
@@ -1212,7 +1650,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6326-Duck-A-LOrange-With-Hasselback-Potatoes-And-Glazed-Carrots2506-1758188115379-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "duck"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltd637e2f2072552a2",
@@ -1227,7 +1672,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3231_Korean-Style-Yang-Nyum-Fried-Chicken_002_0-1714051781299-1715077146391-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt5182c3d8802065eb",
@@ -1242,7 +1693,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1930-2-Malaysian-Style-Coconut-Chicken-Thigh-With-Rice-2_0-1766050509485-1766404777711-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt0c026ef0e1439e3e",
@@ -1257,7 +1714,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1930---Malaysian-Style-Coconut-Chicken-With-Rice3793-copy-1724921093379-1730193675276-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt24d963b84c3d9444",
@@ -1272,7 +1735,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3782---Malaysian-Style-Coconut-Basa-With-Rice3820-copy-1724921742020-1725375286489-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt0711aaeb7ab033a1",
@@ -1287,7 +1756,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6201_Goats-Cheese-Caramelised-Onion--Hot-Honey-Pizza-V_001_0-1694696645762-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt4e2792bd7e6159a9",
@@ -1302,7 +1777,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1651---Fried-Chicken-Burger-With-Sriracha-Mayo18432-1663081576130-1695726467882-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt3ddae4db8d66d6df",
@@ -1317,7 +1799,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6200---Creamy-Chicken--Mushroom-Stew-With-Crushed-Potatoes2470-1695740657880-1696240135915-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltc542b4f6936bbc09",
@@ -1332,7 +1820,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6325_Fiery-Chipotle-MeatFree-Tacos-With-Coriander-Slaw-V_001_0-1695890905515-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blte254f8a9f254c35c",
@@ -1347,7 +1841,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5569---Crispy-Soy-Chicken-With-Sushi-Rice-Balls-And-Edamame-Salad0143-1690879360219-1697454370434-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte32fa100cfe43ad7",
@@ -1377,7 +1877,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6793-Plum-Glazed-Roast-Duck-With-Crushed-Potatoes2765-1765799764573-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "duck"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltaed3a4e9886a3472",
@@ -1392,7 +1899,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6106-Korean-Style-Fried-Chicken-Bao-Buns-1758811436245-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltbbf5f1e6b11dbb8f",
@@ -1407,7 +1921,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2798_Creamy-Chicken-Linguine-With-Tomatoes--Chilli-3362-1594031953057-1699374073298-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt3659d00cf984c21d",
@@ -1422,7 +1942,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3231_Korean-Style-Yang-Nyum-Fried-Chicken_002_0-1714051781299-1714556762896-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltb59a8cea52dbf7ca",
@@ -1437,7 +1963,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-1946-2-Chicken--Spinach-Lasagne-With-Rocket-2_0-1698922028238-1699356505081-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt9ae38e9dd7675323",
@@ -1452,7 +1984,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5048_Curried-Chicken-Enchiladas-With-Tamarind-Dressed-Salad_003_0-1701961797117-1702052879559-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt528eb79b705d7194",
@@ -1467,7 +2005,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5048_Curried-Chicken-Enchiladas-With-Tamarind-Dressed-Salad_003_0-1701961797117-1702051116167-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltdc6d67e98f7ea49c",
@@ -1482,7 +2026,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6788_Brussels-Sprouts-Cacio-E-Pepe-With-Fresh-Orecchiette_001_0-1766050315691-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt74c9c50f8def9ad3",
@@ -1497,7 +2047,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2790---Chicken-Jalfrezi-With-Jeera-Rice-without-Coriander-12782-1643735779021-1701273350647-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt2181af1e9cc8fd2f",
@@ -1512,7 +2068,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6858---Sweet-Pointed-Pepper-Truffled-Honey--Goats-Cheese-Montadito3354-1699367055115-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt8071ae252f3f0790",
@@ -1527,7 +2090,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6990_Smoked-Basa--Leek-Cullen-Skink-0061-1703684946562-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt09e1df789696a058",
@@ -1542,7 +2112,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6706---Garlic-King-Prawn-Sandwich-With-Smoky-Chips--Roasted-Pepper-Salad0750-copy-1703177394512-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt4eac0378af6a91d2",
@@ -1557,7 +2134,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1792-2_Mexican-Style-Chicken-Thigh-Tray-Bake-With-Lime-Yoghurt_002_0-1690464985796-1704200489696-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltc06f424ebb28a80d",
@@ -1572,7 +2155,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-437-2-Spiced-Chicken-Ciabatta-With-Herby-Roast-Potatoes-4_0-1713365075796-1714464875254-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltfd43f3431a53b00e",
@@ -1587,7 +2177,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5727_Chicken-Tamarind-Curry-with-Turmeric-Rice_003_0-1686053737670-1704201185489-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt53cc0a621f2cadcb",
@@ -1602,7 +2198,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2656_Chicken-Tom-Kha-Soup-0810-1583490227800-1705506578383-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte00eb6c36afd7ca2",
@@ -1617,7 +2219,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4606_Chicken-Curry-Pasty-with-Fries-and-Mango-Siracha-Dip_002_FIXED_0-1654533226071-1707123189045-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt24e470a715df60ca",
@@ -1632,7 +2240,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6155-2-Spicy-Saag-Gosht-Inspired-Beef-Meatballs--Rice-2-1697616168850-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt1f38536b518c6647",
@@ -1647,7 +2261,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7036---One-Pot-Jerk-Spiced-Fish-Chowder-With-Sweet-Potato--Corn0176-1706028042616-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt7a8d05e76763b48d",
@@ -1662,7 +2283,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-6155-2-Spicy-Saag-Gosht-Inspired-Beef-Meatballs--Rice-2-1697616168850-1708942401112-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blta93f9e270b32728d",
@@ -1677,7 +2304,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1065---Fruity-Indian-Chicken-Salad1006-1605548485355-1709023037662-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "rice"
+    ]
   },
   {
     "uid": "blt0b58d07dd821b997",
@@ -1692,7 +2326,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2944---Creamy-Chicken--Pesto-Wholewheat-Penne-With-Basil0478-1592820872568-1709023084213-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt806120d4162d1060",
@@ -1707,7 +2347,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4012_Asparagus--Chicken-Risotto-0119-1708516639086-1709724993343-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt8cf24bff9de8a99d",
@@ -1722,7 +2368,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3945_Chicken-Yellow-Pepper--Chive-Risotto_011_0-1657723417698-1711440271395-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt9f7a94de621f1b12",
@@ -1737,7 +2389,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4951---Spiced-Beef--Mango-Chutney-Pies-with-Mustard-Seed-Root-Veg0162-1665419535764-1711440362652-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltcb08365b8536575f",
@@ -1752,7 +2410,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4670---Cheesy-Chicken-Thigh-Fajita-Burger-With-Fries-And-Paprika-Mayo1813-1687362166560-1712241774706-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt0b39bbcbf9df1c83",
@@ -1767,7 +2432,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5416-2_Indian-Spiced-Chicken-Schnitzel-With-Spicy-Potatoes--Slaw_004_0-1683890893958-1712241699433-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt524ba7840bdea015",
@@ -1782,7 +2453,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7052_Oven-Baked-Butternut-Coconut--Lime-Dal-With-Cardamom_001_0-1728318170241-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt0b7a83eb714d87f1",
@@ -1797,7 +2474,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6965_Fiery-Jerk-Spiced-Pork-Meatball-Curry-With-Garlic--lime-Rice_001_0-1713364980224-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltd4e01fb0f0cfa3ec",
@@ -1812,7 +2496,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2667_Smoky-BBQ-Chicken-Pizza-0816-1583418347548-1715856873889-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt995b99f56277ffea",
@@ -1827,7 +2517,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4317---Peruvian-Style-Chicken-Chickpea-Salad--Garlic-Butter-Rice17154-1680794103054-1715857017202-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt1c91cb7eb5f8feb7",
@@ -1842,7 +2538,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1191_Brazilian-Style-Black-Beans-With-Zesty-Lime-Chicken_002_0-1686064477902-1716447623566-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt785c38a18997fd51",
@@ -1857,7 +2559,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3957---Chicken-Jalfrezi-With-Buttery-Cardamom-Rice8922-1635267743266-1716447912220-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt8385eb2483b14cd4",
@@ -1872,7 +2580,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7098-2-Gochujang-Pork--Sushi-Rice-Bowl-With-Smashed-Cucumber-4_0-1717674108728-1718186773388-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt4d7c161e03dc23ca",
@@ -1887,7 +2602,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3213_Warm-Seeded-Chicken--Potato-Salad-7155-1612806030558-1718188508394-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt3d73efa3aed7f26d",
@@ -1902,7 +2623,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1713---Aromatic-Sri-Lankan-Chicken-Curry5550-1-2-1680793916581-1718709370319-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt7c8d7e84656d31fc",
@@ -1917,7 +2644,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7205---Spicy-Range-Fiery-Ruby-Paneer-Curry0777-1720514477556-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltc8420ce68efb98e6",
@@ -1932,7 +2665,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7227-2-Cajun-Basa-With-Red-Cabbage--Corn-Slaw-And-Bulgur-Wheat-2_0-1727176945454-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "grains"
+    ]
   },
   {
     "uid": "bltdf8a54f6596c9809",
@@ -1947,7 +2686,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-4629-2_Sweet--Sticky-Five-Spice-Chicken-Burger_0591-1655122112808-1721639761337-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltc59de016dec7ce0d",
@@ -1962,7 +2708,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3782---Malaysian-Coconut-Basa--Pickled-Cucumber6562-1630936771071-1693928958355-1725030434332-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt709c41daf419630e",
@@ -1977,7 +2729,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/980---Asian-Fish-Chips-_-Sugar-Snap-Slaw0555-1605547554378-1724769440941-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blta48da8e3418a446a",
@@ -1992,7 +2750,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1968_Lemony-Chicken--Mediterranean-Veg-Bulgur-8230-1645100472647-1728899045824-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "grains"
+    ]
   },
   {
     "uid": "bltd4462f1f93ca7e32",
@@ -2007,7 +2771,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2897_Chicken-Schnitzel-With-Tomato--Basil-Sauce-0330-1599738042254-1729163914270-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltfd60644176ca0fb7",
@@ -2022,7 +2792,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1750-2_Chilli-Paneer-Masala-With-Brown-Rice--Naan_001_0-1690464929283-1729510090033-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "rice"
+    ]
   },
   {
     "uid": "blt65f12d955b0eab64",
@@ -2037,7 +2815,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2327_Cheesy-Chicken-and-Pesto-Caprese-Bake_002-1643710316854-1729508605194-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt77417b244215471d",
@@ -2052,7 +2836,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4049_Basa-Red-Pepper-and-Cherry-Tomato-Bake_001_0-1684414011585-1729165734934-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltac6b9c3f41d00fe7",
@@ -2067,7 +2857,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1949--Southern-Fried-Chicken-Burger-Fries--Garlic-Mayo-2-1729165663451-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltbf74229b9deb1395",
@@ -2082,7 +2879,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2749-2-Bacon-Cheeseburger-Garlic-Butter-Fries-And-Truffle-Mayo-1_0-1707304394978-1724074199589-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blteb816445788920a2",
@@ -2097,7 +2902,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1133_Indian-Spiced-Fish-Fingers--Mango-Mayo-2339-1597141909953-1730115394624-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt07fc59e03ef16263",
@@ -2112,7 +2923,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7201_Fiery-Ruby-Chicken-Curry_002_0-1754661599206-1756369330689-1767780523453-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "rice"
+    ]
   },
   {
     "uid": "bltb489308c65c9c800",
@@ -2127,7 +2945,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7273---Green-Tikka-Masala-Chicken-With-Rice-And-Tomato--Mint-Salad3356-1765548472384-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt22b98e8f8a3eee08",
@@ -2142,7 +2966,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7677-Burns-Night-Salmon--Leek-Cullen-Skink3506-1734529456158-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt5c0efcd4a48a0893",
@@ -2157,7 +2988,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7645-Southern-Thai-Style-Chicken-Panang-Curry-With-Brown-Rice-1744202284784-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltb5b604727b142284",
@@ -2172,7 +3009,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7125_Pan-Fried-Sea-Bass-With-Patates-Lemonates-And-Greek-Salad-0569-1713948070658-1725030730972-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt135237ebef699a2c",
@@ -2187,7 +3030,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1299---Sea-Bass-With-Lemon-And-Saffron-Risotto-WITH-PUDDING-1737391504610-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte4650041b94b4bd8",
@@ -2202,7 +3051,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4866-2_Spicy-Sichuan-Style-Pork-Noodle-Bowl_002_0-1676992840638-1738000051597-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "noodles"
+    ]
   },
   {
     "uid": "bltd51850bb8d2e9eba",
@@ -2217,7 +3072,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/step-8-3-1720617830430-1738255494896-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltaa2bc1702388230d",
@@ -2232,7 +3094,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6439---Simply-Perfect-Beef-Spag-Bol-With-Fresh-Tagliatelle2317-1692088136578-1738255945136-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt87d7a22453041152",
@@ -2247,7 +3115,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1942_Extra-Special-Bangers-N-Mash-4601-1628678919829-1743089648728-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt579bab4bf252342a",
@@ -2262,7 +3137,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7857-2-Mr-Darcys-Decadent-Chicken--Bacon-Pie-1739266534407-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt76fe8923114d3aa5",
@@ -2277,7 +3159,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2749-2-Bacon-Cheeseburger-Garlic-Butter-Fries-And-Truffle-Mayo-1_0-1707304394978-1730367593148-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blta31fd06c70a5dacd",
@@ -2292,7 +3182,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3995---Sausage-Leek--Fennel-Tortelloni11310-1640170962418-1739544662946-1739544970325-1739545211515-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "pasta"
+    ]
   },
   {
     "uid": "blt6125d6f83b91278c",
@@ -2307,7 +3205,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/3995---Sausage-Leek--Fennel-Tortelloni11310-1640170962418-1739544662946-1739544970325-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blta0fe118a9c7347ea",
@@ -2322,7 +3227,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/4894---Tomato-And-Olive-Puttanesca-Sauce-With-Tomato--Mozzarella-Tortelloni0112-1665419485565-1739544765015-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt87f9a79398676e68",
@@ -2337,7 +3248,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7301-2-Cheesy-Basa-Mornay-With-Buttered-Peas-and-Spinach-1734428157434-1739815648283-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltdb2c1a6ce689ab43",
@@ -2352,7 +3269,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6965_Fiery-Jerk-Spiced-Pork-Meatball-Curry-With-Garlic--lime-Rice_001_0-1713364980224-1741021567984-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt6c95f82f963bfb26",
@@ -2367,7 +3291,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/step-8-1741606330874-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt1b0e3076767e971c",
@@ -2382,7 +3312,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7827---Classic-Roast-Chicken-Yorkshire-Puds--Gravy--Pudding-5474-2-1741350781988-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt54ba9c184a57f6f6",
@@ -2397,7 +3333,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7158-4-Bolognese-Loaded-Fries-With-Balsamic-Tomato--Basil-Salad-2_0-1715607969262-1741626328172-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "bltaada5679df6fdbf6",
@@ -2412,7 +3354,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2120-2-Ultimate-Bacon-Cheeseburger-With-Rosemary-Salted-Fries-1759149385770-1759159149207-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt9bf9777e31cd823c",
@@ -2427,7 +3377,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-5659-2-Cambodian-Style-Aubergine-Fragrant-Pork--Lemongrass-Rice_0-1708012542536-1741626084187-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blte067e3e291d91d82",
@@ -2442,7 +3398,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2110-2-Chicken-Taquitos-With-Guac--Feta-2_0-1741962632888-1742569727554-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltd37deaffb3aa7a2a",
@@ -2457,7 +3419,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1524_German-Style-Meatballs-In-Creamy-Caper-Sauce-With-Rice_003_0-1741962355772-1742569521955-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef",
+      "chicken"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltff09f5a30ddbcb30",
@@ -2472,7 +3441,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2375---Sticky-Chilli-Chicken-With-Salt-_-Pepper-Chips4283-1602146245088-1742206910375-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt7ed980391a07dbf2",
@@ -2487,7 +3462,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/1995---Mild-Chicken-Curry-4258-1576753952570-1677589104482-2-1706612699833-1743773926310-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "rice"
+    ]
   },
   {
     "uid": "bltaa76a8090b0ed0ff",
@@ -2502,7 +3484,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6052_Turmeric-Basa-With-Sambal-Tomat--Coconut-Rice_001_0-copy-1688549643373-1744377737108-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt3570431199058328",
@@ -2517,7 +3505,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7968-2---Paneer-Tikka-Loaded-Masala-Fries-With-Samosas-1744370867237-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blta4acf2234804d7a9",
@@ -2532,7 +3526,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7967-2-Fiery-Pineapple-Meat-Free-Smash-Burger--Sweet-Potato-Wedges-With-Corn-Ribs-1744370815364-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt4eec1c63bdf51ff7",
@@ -2547,7 +3548,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7962-2---Chicken-Tikka-Loaded-Masala-Fries-With-Samosas-1744370766019-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt1cc3da1ca1522641",
@@ -2562,7 +3569,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7977-2---Hawaiian-Crispy-Chicken-With-Pineapple-Habanero-Loaded-Fries-with-Corn-Ribs-1744370971653-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt58b8c9186d3ea8f3",
@@ -2577,7 +3590,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7978-2-Hawaiian-Crispy-Tofu-Loaded-Fries-With-Pineapple--Chilli-Sauce--Corn-Ribs-1744371013773-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt7a1deb174b19fd1d",
@@ -2592,7 +3611,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7801-2-R-8351-2---Hawaiian-Crispy-Chicken-With-Pineapple-Habanero-Loaded-Fries-1744369429123-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt65c46c9f3d0ee112",
@@ -2607,7 +3632,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/7800-Buffalo-chicken-shawarma-kebab5653-1765546061739-1767689568340-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blte36a2c4eb32e0121",
@@ -2622,7 +3653,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/6320_Hearty-Beef--Carrot-Hotpot_001_0-1744365626974-1744817333627-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt763a3c187f930ff6",
@@ -2637,7 +3674,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7162-2-Cheesy-Korean-Smash-Pork--Beef-Burger--Kimchi-Style-Slaw-1744368191979-1744893914622-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "bltf320abbe44f3b7eb",
@@ -2652,7 +3696,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7801-2-R-8351-2---Hawaiian-Crispy-Chicken-With-Pineapple-Habanero-Loaded-Fries-1744369395404-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "potato"
+    ]
   },
   {
     "uid": "blt37f5c47b47ac2227",
@@ -2667,7 +3717,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7792-2---Cheesey-Indian-Spiced-Naan-Toastie-With-Curried-Mayo-1744369031988-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt5afea53ae517d59d",
@@ -2682,7 +3739,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2965---Simply-Perfect-Lean-Mince-Spag-Bol_03-1-1657638283002-1677579905395-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt745f7397aa22724f",
@@ -2697,7 +3760,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2965---Simply-Perfect-Lean-Mince-Spag-Bol_03-1-1657638283002-1679401034299-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "blt08b3c260c7184171",
@@ -2712,7 +3781,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/816---Aubergine-Parmigiana--Pesto-Bruschetta1080-copy-1657126454659-1745588825603-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt971f3b08d9c238df",
@@ -2727,7 +3802,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7510-Crispy-Smashed-Duck-With-Sambal-Sauce-And-Golden-Rice-1758191744254-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "duck"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "bltf0e589501b7d0ebf",
@@ -2742,7 +3823,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7772-2-Kimchi-Ranch-Crispy-Fried-Chicken-Burger-1744368539462-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt77cf453037a20c23",
@@ -2757,7 +3845,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2965---Simply-Perfect-Lean-Mince-Spag-Bol_03-1-1657638283002-1677600176830-1746607597000-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "bltff7de7f6dfbac92f",
@@ -2772,7 +3866,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-2696-2-Messy-One-Pot-Aubergine--Spinach-Lasagne-2830-1702291438047-1746607551402-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "bltcb7ef6dae6e404e7",
@@ -2787,7 +3887,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7853-2-Slow-Cooker-Beef-In-Black-Bean-With-Rice_0-1745916146076-1746522212981-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "rice"
+    ]
   },
   {
     "uid": "blt6a6c6cb1388b9230",
@@ -2802,7 +3908,14 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/5716---Saag-Butternut-Squash--Cashew-Curry-With-Pea--Mint-Pilaf-1703078648196-1746607500695-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "rice"
+    ]
   },
   {
     "uid": "blt749bbdc5364f3180",
@@ -2817,7 +3930,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-8332-2-BBQ--Stout-Glazed-Chicken-With-Cheesy-Bacon-Loaded-Wedges-1746106286223-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken",
+      "pork"
+    ],
+    "carbs": [
+      "bread",
+      "potato"
+    ]
   },
   {
     "uid": "blt2936fda0498cbb61",
@@ -2832,7 +3953,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/512_Warm-Lemony-Beef-Tabbouleh_001_0-1674040314826-1747312498918-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "grains"
+    ]
   },
   {
     "uid": "blta51114744bc11b5e",
@@ -2847,7 +3974,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7830-2-Loaded-Butter-Chicken-Kebab-2_0-1759765525230-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "bltf79acea30fe8033e",
@@ -2862,7 +3995,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7227-2-Cajun-Basa-With-Red-Cabbage--Corn-Slaw-And-Bulgur-Wheat-2_0-1727176945454-1765792401802-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "grains"
+    ]
   },
   {
     "uid": "blt85d3d4ead50a7255",
@@ -2877,7 +4016,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7830-2-Loaded-Butter-Chicken-Kebab-2_0-1759765473759-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt2270e6d5472507a0",
@@ -2892,7 +4037,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/8330_Butter-XL-Chicken-Curry-Loaded-Naan-With-Minty-Cucumber_002_0-1747825799177-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "chicken"
+    ],
+    "carbs": [
+      "bread"
+    ]
   },
   {
     "uid": "blt309c3603ba5ab0a5",
@@ -2907,7 +4058,15 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-8046-2-Nduja--Cherry-Tomato-Sauce-With-Spinach--Ricotta-Ravioli--Bruschetta-1747133713421-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "pork",
+      "vegetarian"
+    ],
+    "carbs": [
+      "bread",
+      "pasta"
+    ]
   },
   {
     "uid": "blt2ca847ea55580c86",
@@ -2922,7 +4081,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7850-2-Oven-Baked-Sardinian-Style-Gamberi-Con-Fregola-1747133521251-1748515241998-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "seafood"
+    ],
+    "carbs": [
+      "grains"
+    ]
   },
   {
     "uid": "blt42cf1e541509c4ef",
@@ -2937,7 +4102,13 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/2965---Simply-Perfect-Lean-Mince-Spag-Bol_03-1-1657638283002-1677600194638-1747997073235-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "beef"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   },
   {
     "uid": "bltf66495ee47665722",
@@ -2952,6 +4123,12 @@
       "for4": 0
     },
     "image": "https://production-media.gousto.co.uk/cms/mood-image/R-7787-2-Orecchiette-Alla-Norma-1749125051960-x700.jpg",
-    "hasDetails": true
+    "hasDetails": true,
+    "proteins": [
+      "vegetarian"
+    ],
+    "carbs": [
+      "pasta"
+    ]
   }
 ]

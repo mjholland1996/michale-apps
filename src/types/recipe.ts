@@ -12,6 +12,8 @@ export interface RecipeSummary {
   };
   image: string;
   hasDetails?: boolean;
+  proteins?: string[];
+  carbs?: string[];
 }
 
 export interface Ingredient {
