@@ -59,10 +59,10 @@ export function SelectionTracker() {
               Clear
             </button>
             <Link
-              href="/current"
+              href="/review"
               className="px-6 py-2 bg-emerald-600 text-white text-sm font-medium rounded-lg hover:bg-emerald-700 transition-colors"
             >
-              View Meals
+              Review & Save
             </Link>
           </div>
         </div>

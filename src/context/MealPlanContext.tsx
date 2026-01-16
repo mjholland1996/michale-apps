@@ -8,27 +8,51 @@ const STORAGE_KEY = 'gousto-meal-plan';
 
 const DEFAULT_SERVING_SIZE = 2;
 
+export interface SavedPlan {
+  id: string;
+  name: string;
+  savedAt: string;
+  recipes: RecipeSummary[];
+  servingSize: number;
+}
+
 interface MealPlanState {
   selectedRecipes: RecipeSummary[];
   servingSize: number;
+  currentPlanId: string | null;
+  currentPlanName: string | null;
+  savedPlans: SavedPlan[];
 }
 
 interface MealPlanContextType {
   selectedRecipes: RecipeSummary[];
   servingSize: number;
+  currentPlanId: string | null;
+  currentPlanName: string | null;
+  savedPlans: SavedPlan[];
   setServingSize: (size: number) => void;
   isSelected: (slug: string) => boolean;
   toggleRecipe: (recipe: RecipeSummary) => void;
   canSelectMore: boolean;
   clearSelection: () => void;
+  savePlan: (name: string) => string;
+  loadPlan: (id: string) => void;
+  deletePlan: (id: string) => void;
 }
 
 const MealPlanContext = createContext<MealPlanContextType | undefined>(undefined);
+
+function generateId(): string {
+  return Math.random().toString(36).substring(2, 9);
+}
 
 export function MealPlanProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<MealPlanState>({
     selectedRecipes: [],
     servingSize: DEFAULT_SERVING_SIZE,
+    currentPlanId: null,
+    currentPlanName: null,
+    savedPlans: [],
   });
   const [isHydrated, setIsHydrated] = useState(false);
 
@@ -38,11 +62,14 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     if (saved) {
       try {
         const parsed = JSON.parse(saved);
-        // Handle migration from old format with confirmedRecipes
+        // Handle migration from old format
         const recipes = parsed.selectedRecipes ?? parsed.confirmedRecipes ?? [];
         setState({
           selectedRecipes: recipes,
           servingSize: parsed.servingSize ?? DEFAULT_SERVING_SIZE,
+          currentPlanId: parsed.currentPlanId ?? null,
+          currentPlanName: parsed.currentPlanName ?? null,
+          savedPlans: parsed.savedPlans ?? [],
         });
       } catch {
         // Invalid data, ignore
@@ -69,6 +96,9 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
         return {
           ...prev,
           selectedRecipes: prev.selectedRecipes.filter(r => r.slug !== recipe.slug),
+          // Clear current plan association when modifying
+          currentPlanId: null,
+          currentPlanName: null,
         };
       }
       if (prev.selectedRecipes.length >= MAX_SELECTIONS) {
@@ -77,6 +107,8 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
       return {
         ...prev,
         selectedRecipes: [...prev.selectedRecipes, recipe],
+        currentPlanId: null,
+        currentPlanName: null,
       };
     });
   };
@@ -85,6 +117,8 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     setState(prev => ({
       ...prev,
       selectedRecipes: [],
+      currentPlanId: null,
+      currentPlanName: null,
     }));
   };
 
@@ -92,6 +126,49 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
     setState(prev => ({
       ...prev,
       servingSize: size,
+    }));
+  };
+
+  const savePlan = (name: string): string => {
+    const id = generateId();
+    const newPlan: SavedPlan = {
+      id,
+      name,
+      savedAt: new Date().toISOString(),
+      recipes: state.selectedRecipes,
+      servingSize: state.servingSize,
+    };
+
+    setState(prev => ({
+      ...prev,
+      currentPlanId: id,
+      currentPlanName: name,
+      savedPlans: [newPlan, ...prev.savedPlans],
+    }));
+
+    return id;
+  };
+
+  const loadPlan = (id: string) => {
+    const plan = state.savedPlans.find(p => p.id === id);
+    if (plan) {
+      setState(prev => ({
+        ...prev,
+        selectedRecipes: plan.recipes,
+        servingSize: plan.servingSize,
+        currentPlanId: plan.id,
+        currentPlanName: plan.name,
+      }));
+    }
+  };
+
+  const deletePlan = (id: string) => {
+    setState(prev => ({
+      ...prev,
+      savedPlans: prev.savedPlans.filter(p => p.id !== id),
+      // Clear current plan if it was deleted
+      currentPlanId: prev.currentPlanId === id ? null : prev.currentPlanId,
+      currentPlanName: prev.currentPlanId === id ? null : prev.currentPlanName,
     }));
   };
 
@@ -107,11 +184,17 @@ export function MealPlanProvider({ children }: { children: ReactNode }) {
       value={{
         selectedRecipes: state.selectedRecipes,
         servingSize: state.servingSize,
+        currentPlanId: state.currentPlanId,
+        currentPlanName: state.currentPlanName,
+        savedPlans: state.savedPlans,
         setServingSize,
         isSelected,
         toggleRecipe,
         canSelectMore,
         clearSelection,
+        savePlan,
+        loadPlan,
+        deletePlan,
       }}
     >
       {children}
