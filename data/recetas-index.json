@@ -1,0 +1,610 @@
+[
+  {
+    "title": "ACOMPAÑAMIENTOS",
+    "slug": "acompanamientos"
+  },
+  {
+    "title": "ACOMPAÑAR CON:",
+    "slug": "acompanar-con"
+  },
+  {
+    "title": "AJÍ RELLENO (SUEGRACHA)",
+    "slug": "aji-relleno-suegracha"
+  },
+  {
+    "title": "AJIACO DE OLLUCOS",
+    "slug": "ajiaco-de-ollucos"
+  },
+  {
+    "title": "ARROZ A LA JARDINERA",
+    "slug": "arroz-a-la-jardinera"
+  },
+  {
+    "title": "ARROZ AL AJÍ (ROSA)",
+    "slug": "arroz-al-aji-rosa"
+  },
+  {
+    "title": "ARROZ ARABE CASERO",
+    "slug": "arroz-arabe-casero"
+  },
+  {
+    "title": "ARROZ CHAUFA (SENCILLO)",
+    "slug": "arroz-chaufa-sencillo"
+  },
+  {
+    "title": "ARROZ CON AZAFRÁN",
+    "slug": "arroz-con-azafran"
+  },
+  {
+    "title": "ARROZ CON CONCHAS",
+    "slug": "arroz-con-conchas"
+  },
+  {
+    "title": "ARROZ CON MACHAS",
+    "slug": "arroz-con-machas"
+  },
+  {
+    "title": "ARROZ CON POLLO",
+    "slug": "arroz-con-pollo"
+  },
+  {
+    "title": "ARROZ TAPADO DE CARNE",
+    "slug": "arroz-tapado-de-carne"
+  },
+  {
+    "title": "ARROZ THAI",
+    "slug": "arroz-thai"
+  },
+  {
+    "title": "ASADO",
+    "slug": "asado"
+  },
+  {
+    "title": "ASADO AL OPORTO(MÓNICA)",
+    "slug": "asado-al-oportomonica"
+  },
+  {
+    "title": "ASADO CON SALSA ROJA COTA",
+    "slug": "asado-con-salsa-roja-cota"
+  },
+  {
+    "title": "ASIAN SALMON",
+    "slug": "asian-salmon"
+  },
+  {
+    "title": "BEEF TACO (TACOS’ NIGHT)",
+    "slug": "beef-taco-tacos-night"
+  },
+  {
+    "title": "BOLAS DE CARNE",
+    "slug": "bolas-de-carne"
+  },
+  {
+    "title": "BOLITAS DE CARNE CON PARMESANO",
+    "slug": "bolitas-de-carne-con-parmesano"
+  },
+  {
+    "title": "BURGER BAR * HAMBURGUESAS . 78",
+    "slug": "burger-bar-hamburguesas-78"
+  },
+  {
+    "title": "BURGER BAR * HAMBURGUESAS A LA PARRILLA",
+    "slug": "burger-bar-hamburguesas-a-la-parrilla"
+  },
+  {
+    "title": "CONCHAS CON VINAGRE BALSAMICO",
+    "slug": "conchas-con-vinagre-balsamico"
+  },
+  {
+    "title": "CONSOMÉ FINO",
+    "slug": "consome-fino"
+  },
+  {
+    "title": "CREMA DE ESPINACA",
+    "slug": "crema-de-espinaca"
+  },
+  {
+    "title": "CREMA DE TOMATE",
+    "slug": "crema-de-tomate"
+  },
+  {
+    "title": "CREMA DE ZANAHORIA Y PORO",
+    "slug": "crema-de-zanahoria-y-poro"
+  },
+  {
+    "title": "CREMA DE ZAPALLO",
+    "slug": "crema-de-zapallo"
+  },
+  {
+    "title": "CREMITA DE AJÍ",
+    "slug": "cremita-de-aji"
+  },
+  {
+    "title": "CREMITA DE HUACATAY",
+    "slug": "cremita-de-huacatay"
+  },
+  {
+    "title": "ENROLLADO DE ESPINACA",
+    "slug": "enrollado-de-espinaca"
+  },
+  {
+    "title": "ENRROLLADO DE CHANCHO AL HORNO",
+    "slug": "enrrollado-de-chancho-al-horno"
+  },
+  {
+    "title": "ENRROLLADO DE CHANCHO AL HORNO CON MERMELADA DURAZNO",
+    "slug": "enrrollado-de-chancho-al-horno-con-mermelada-durazno"
+  },
+  {
+    "title": "ENSALADA",
+    "slug": "ensalada"
+  },
+  {
+    "title": "ESPARRAGOS CON SALSA DE PEREJIL",
+    "slug": "esparragos-con-salsa-de-perejil"
+  },
+  {
+    "title": "ESTOFADO DE CARNE",
+    "slug": "estofado-de-carne"
+  },
+  {
+    "title": "ESTOFADO DE CARNE (SENCILLO)",
+    "slug": "estofado-de-carne-sencillo"
+  },
+  {
+    "title": "FETTUCCINI CON VERDURAS",
+    "slug": "fettuccini-con-verduras"
+  },
+  {
+    "title": "FILETE DE ATÚN CON PALTA Y SALSA VERDE",
+    "slug": "filete-de-atun-con-palta-y-salsa-verde"
+  },
+  {
+    "title": "FILETE DE ATÚN CON SALSA DE ENELDO (DILL) Y LIMÓN",
+    "slug": "filete-de-atun-con-salsa-de-eneldo-dill-y-limon"
+  },
+  {
+    "title": "FILETES DE ATÚN CON ENSALADA DE ARUGULA Y GARBANZOS",
+    "slug": "filetes-de-atun-con-ensalada-de-arugula-y-garbanzos"
+  },
+  {
+    "title": "FREJOLES DULCES",
+    "slug": "frejoles-dulces"
+  },
+  {
+    "title": "GARBANZOS CON PIMIENTOS COTA",
+    "slug": "garbanzos-con-pimientos-cota"
+  },
+  {
+    "title": "GLASEADO",
+    "slug": "glaseado"
+  },
+  {
+    "title": "GUACAMOLE:",
+    "slug": "guacamole"
+  },
+  {
+    "title": "GUISO DE CARNE",
+    "slug": "guiso-de-carne"
+  },
+  {
+    "title": "GUISO DE CARNE AGRIDULCE",
+    "slug": "guiso-de-carne-agridulce"
+  },
+  {
+    "title": "HAMBURGUESAS DE FILETE DE ATÚN CON SALSA THAI",
+    "slug": "hamburguesas-de-filete-de-atun-con-salsa-thai"
+  },
+  {
+    "title": "HAMBURGUESAS DE SALMÓN CON SALSA DE YOGURT Y ENELDO (FOOD MARTHA STEWART)",
+    "slug": "hamburguesas-de-salmon-con-salsa-de-yogurt-y-eneldo-food-martha-stewart"
+  },
+  {
+    "title": "LENTEJAS CON CURRY",
+    "slug": "lentejas-con-curry"
+  },
+  {
+    "title": "LETTUCE WRAPS",
+    "slug": "lettuce-wraps"
+  },
+  {
+    "title": "LOCRO DE ZAPALLO",
+    "slug": "locro-de-zapallo"
+  },
+  {
+    "title": "LOMITO AL JUGO",
+    "slug": "lomito-al-jugo"
+  },
+  {
+    "title": "LOMO AL OPORTO",
+    "slug": "lomo-al-oporto"
+  },
+  {
+    "title": "LOMO DE CERDO A LA PARRILLA",
+    "slug": "lomo-de-cerdo-a-la-parrilla"
+  },
+  {
+    "title": "LOMO ENRROLLADO DE CHANCHO ASADO",
+    "slug": "lomo-enrrollado-de-chancho-asado"
+  },
+  {
+    "title": "LOMO SALTADO",
+    "slug": "lomo-saltado"
+  },
+  {
+    "title": "MOLDE DE CARNE",
+    "slug": "molde-de-carne"
+  },
+  {
+    "title": "MOLDE DE CARNE MOLIDA",
+    "slug": "molde-de-carne-molida"
+  },
+  {
+    "title": "PAPA RELLENA YANUK",
+    "slug": "papa-rellena-yanuk"
+  },
+  {
+    "title": "PAPAS GRATIN DAUPHINOISE (JEAN PATRICK)",
+    "slug": "papas-gratin-dauphinoise-jean-patrick"
+  },
+  {
+    "title": "PARA LA SALSA",
+    "slug": "para-la-salsa"
+  },
+  {
+    "title": "PASTA CON SALSA CREMOSA DE TOMATE",
+    "slug": "pasta-con-salsa-cremosa-de-tomate"
+  },
+  {
+    "title": "PASTA CON SALSA DE PEREJIL Y JAMÓN (PATO)",
+    "slug": "pasta-con-salsa-de-perejil-y-jamon-pato"
+  },
+  {
+    "title": "PASTA CON VERDURAS",
+    "slug": "pasta-con-verduras"
+  },
+  {
+    "title": "PASTA DE AJÍ",
+    "slug": "pasta-de-aji"
+  },
+  {
+    "title": "PASTA DE TOMATE",
+    "slug": "pasta-de-tomate"
+  },
+  {
+    "title": "PASTA EN SALSA ROSA",
+    "slug": "pasta-en-salsa-rosa"
+  },
+  {
+    "title": "PASTEL DE ACELGA CON ESPINACA",
+    "slug": "pastel-de-acelga-con-espinaca"
+  },
+  {
+    "title": "PASTEL DE CHOCLO CON CARNE GASTÓN ACURIO",
+    "slug": "pastel-de-choclo-con-carne-gaston-acurio"
+  },
+  {
+    "title": "PAVO AL HORNO (NAVIDAD)",
+    "slug": "pavo-al-horno-navidad"
+  },
+  {
+    "title": "PESCADO AL HORNO",
+    "slug": "pescado-al-horno"
+  },
+  {
+    "title": "PESCADO EN SALSA DE PORO",
+    "slug": "pescado-en-salsa-de-poro"
+  },
+  {
+    "title": "POLLO A LA MOSTAZA",
+    "slug": "pollo-a-la-mostaza"
+  },
+  {
+    "title": "POLLO A LA MOSTAZA DIJON (ANA MARÍA)",
+    "slug": "pollo-a-la-mostaza-dijon-ana-maria"
+  },
+  {
+    "title": "POLLO A LA NARANJA",
+    "slug": "pollo-a-la-naranja"
+  },
+  {
+    "title": "POLLO A LA PARRILLA CON YOGURT Y MENTA",
+    "slug": "pollo-a-la-parrilla-con-yogurt-y-menta"
+  },
+  {
+    "title": "POLLO ACARAMELADO",
+    "slug": "pollo-acaramelado"
+  },
+  {
+    "title": "POLLO AL CURRY",
+    "slug": "pollo-al-curry"
+  },
+  {
+    "title": "POLLO CHI CHO CHU(GASTÓN)",
+    "slug": "pollo-chi-cho-chugaston"
+  },
+  {
+    "title": "POLLO CHI JAU KAY (TÍA CHELA)",
+    "slug": "pollo-chi-jau-kay-tia-chela"
+  },
+  {
+    "title": "POLLO CON HIERBAS",
+    "slug": "pollo-con-hierbas"
+  },
+  {
+    "title": "POLLO CON SALSA DE ALBAHACA",
+    "slug": "pollo-con-salsa-de-albahaca"
+  },
+  {
+    "title": "POLLO CON SALSA DE MOSTAZA Y MIEL",
+    "slug": "pollo-con-salsa-de-mostaza-y-miel"
+  },
+  {
+    "title": "POLLO O PAVITA SIETE SABORES",
+    "slug": "pollo-o-pavita-siete-sabores"
+  },
+  {
+    "title": "POLLOS A LA BRASA DE LA CAJA CHINA",
+    "slug": "pollos-a-la-brasa-de-la-caja-china"
+  },
+  {
+    "title": "QUICHE DE ESPINACA",
+    "slug": "quiche-de-espinaca"
+  },
+  {
+    "title": "QUICHE ESPINACA CON GRUYERE",
+    "slug": "quiche-espinaca-con-gruyere"
+  },
+  {
+    "title": "QUICHE MOZARELLA, TOMATE Y ALBAHACA",
+    "slug": "quiche-mozarella-tomate-y-albahaca"
+  },
+  {
+    "title": "QUINUA * CHAUFA DE QUINUA (DON LUCHO)",
+    "slug": "quinua-chaufa-de-quinua-don-lucho"
+  },
+  {
+    "title": "QUINUA * CHAUFA DE QUINUA II (DON LUCHO)",
+    "slug": "quinua-chaufa-de-quinua-ii-don-lucho"
+  },
+  {
+    "title": "QUINUA * ENSALADA DE QUINUA CON HIERBAS (DON LUCHO)",
+    "slug": "quinua-ensalada-de-quinua-con-hierbas-don-lucho"
+  },
+  {
+    "title": "QUINUA * PREPARACIÓN",
+    "slug": "quinua-preparacion"
+  },
+  {
+    "title": "QUINUA * QUINUA CON CEBOLLAS CARAMELIZADAS (DON LUCHO)",
+    "slug": "quinua-quinua-con-cebollas-caramelizadas-don-lucho"
+  },
+  {
+    "title": "QUINUA * QUINUA CON POLLO A LA NARANJA (DON LUCHO)",
+    "slug": "quinua-quinua-con-pollo-a-la-naranja-don-lucho"
+  },
+  {
+    "title": "QUINUA * QUINUA CON QUESO AZUL (DON LUCHO)",
+    "slug": "quinua-quinua-con-queso-azul-don-lucho"
+  },
+  {
+    "title": "QUINUA CON CHOCLO AMARILLO",
+    "slug": "quinua-con-choclo-amarillo"
+  },
+  {
+    "title": "QUINUA CON ESPÁRRAGOS",
+    "slug": "quinua-con-esparragos"
+  },
+  {
+    "title": "QUINUA CON PASAS",
+    "slug": "quinua-con-pasas"
+  },
+  {
+    "title": "QUINUA CON TOCINO, ALBAHACA Y QUESO FETA",
+    "slug": "quinua-con-tocino-albahaca-y-queso-feta"
+  },
+  {
+    "title": "QUINUA CON ZAPALLITO ITALIANO, CHOCLO AMARILLO Y SALSA PESTO",
+    "slug": "quinua-con-zapallito-italiano-choclo-amarillo-y-salsa-pesto"
+  },
+  {
+    "title": "QUINUA PEPIÁN DE QUINUA",
+    "slug": "quinua-pepian-de-quinua"
+  },
+  {
+    "title": "QUINUA Y GARBANZOS CON CURRY",
+    "slug": "quinua-y-garbanzos-con-curry"
+  },
+  {
+    "title": "RAVIOLI CON CAMOTE QUESO DE CABRA Y SALVIA",
+    "slug": "ravioli-con-camote-queso-de-cabra-y-salvia"
+  },
+  {
+    "title": "RELLENO",
+    "slug": "relleno"
+  },
+  {
+    "title": "RISOTTO DE ZAPALLITO ITALIANO Y TOMATE SECO",
+    "slug": "risotto-de-zapallito-italiano-y-tomate-seco"
+  },
+  {
+    "title": "SALMÓN CON ALMENDRAS",
+    "slug": "salmon-con-almendras"
+  },
+  {
+    "title": "SALMÓN CON NARANJA Y ACEITUNAS (FOOD MARTHA STEWART)",
+    "slug": "salmon-con-naranja-y-aceitunas-food-martha-stewart"
+  },
+  {
+    "title": "SALMÓN CON SALSA DE MOSTAZA Y DILL",
+    "slug": "salmon-con-salsa-de-mostaza-y-dill"
+  },
+  {
+    "title": "SALMÓN CON SALSA DE VINO BLANCO (FOOD MARTHA STEWART)",
+    "slug": "salmon-con-salsa-de-vino-blanco-food-martha-stewart"
+  },
+  {
+    "title": "SALMÓN GLASEADO CON SALSA DE SOYA (FOOD MARTHA STEWART)",
+    "slug": "salmon-glaseado-con-salsa-de-soya-food-martha-stewart"
+  },
+  {
+    "title": "SALSA ALBAHACA GASTÓN",
+    "slug": "salsa-albahaca-gaston"
+  },
+  {
+    "title": "SALSA DE ALBAHACA LIMEÑA",
+    "slug": "salsa-de-albahaca-limena"
+  },
+  {
+    "title": "SALSA DE CARNE",
+    "slug": "salsa-de-carne"
+  },
+  {
+    "title": "SALSA DE HONGOS SECOS(VERO COOPER)",
+    "slug": "salsa-de-hongos-secosvero-cooper"
+  },
+  {
+    "title": "SALSA DE TOMATE PARA TALLARINES",
+    "slug": "salsa-de-tomate-para-tallarines"
+  },
+  {
+    "title": "SALSA HUANCAINA",
+    "slug": "salsa-huancaina"
+  },
+  {
+    "title": "SALSA PAPA NEGRA / OCOPA (MARIA LUISA BENAVIDES)",
+    "slug": "salsa-papa-negra-ocopa-maria-luisa-benavides"
+  },
+  {
+    "title": "SALSA PARA EL ATÚN",
+    "slug": "salsa-para-el-atun"
+  },
+  {
+    "title": "SALSA PEREJIL PARA PESCADOS Y MARISCOS",
+    "slug": "salsa-perejil-para-pescados-y-mariscos"
+  },
+  {
+    "title": "SALSA PESTO",
+    "slug": "salsa-pesto"
+  },
+  {
+    "title": "SALSA PESTO ITALIANA",
+    "slug": "salsa-pesto-italiana"
+  },
+  {
+    "title": "SALSA POMODORO",
+    "slug": "salsa-pomodoro"
+  },
+  {
+    "title": "SALSA ROCOTO Y PIMIENTO TIPO OCOPA(GASTON ACURIO)",
+    "slug": "salsa-rocoto-y-pimiento-tipo-ocopagaston-acurio"
+  },
+  {
+    "title": "SALSA ROJA PARA PASTEL DE CARNE:",
+    "slug": "salsa-roja-para-pastel-de-carne"
+  },
+  {
+    "title": "SALSA THAI",
+    "slug": "salsa-thai"
+  },
+  {
+    "title": "SALSA TUCO CON CARNE",
+    "slug": "salsa-tuco-con-carne"
+  },
+  {
+    "title": "SALSA:",
+    "slug": "salsa"
+  },
+  {
+    "title": "SALSAS:",
+    "slug": "salsas"
+  },
+  {
+    "title": "SANCOCHADO",
+    "slug": "sancochado"
+  },
+  {
+    "title": "SECO DE CARNE",
+    "slug": "seco-de-carne"
+  },
+  {
+    "title": "SOPA DE ESPINACA Y TOMATE",
+    "slug": "sopa-de-espinaca-y-tomate"
+  },
+  {
+    "title": "SOPA DE PORO",
+    "slug": "sopa-de-poro"
+  },
+  {
+    "title": "SOPA QUEMA GRASA",
+    "slug": "sopa-quema-grasa"
+  },
+  {
+    "title": "SOUFFLÉ DE ESPINACA",
+    "slug": "souffle-de-espinaca"
+  },
+  {
+    "title": "SOUFFLÉ DE ESPINACA (LIGHT)",
+    "slug": "souffle-de-espinaca-light"
+  },
+  {
+    "title": "SOUFFLÉ DE ZANAHORIA (IRENE)",
+    "slug": "souffle-de-zanahoria-irene"
+  },
+  {
+    "title": "SOUFFLÉ GRATINADO DE ZAPALLITOS ITALIANOS",
+    "slug": "souffle-gratinado-de-zapallitos-italianos"
+  },
+  {
+    "title": "SPAGUETTI EN SALSA CARBONARA",
+    "slug": "spaguetti-en-salsa-carbonara"
+  },
+  {
+    "title": "TALLARINES EN SALSA DE PESCADO",
+    "slug": "tallarines-en-salsa-de-pescado"
+  },
+  {
+    "title": "TALLARINES PRIMAVERA",
+    "slug": "tallarines-primavera"
+  },
+  {
+    "title": "TOMATES CONFITADOS",
+    "slug": "tomates-confitados"
+  },
+  {
+    "title": "UCHUCUTA",
+    "slug": "uchucuta"
+  },
+  {
+    "title": "WRAP BLT",
+    "slug": "wrap-blt"
+  },
+  {
+    "title": "WRAP DE ESPINACA",
+    "slug": "wrap-de-espinaca"
+  },
+  {
+    "title": "WRAP DE JAMÓN Y QUESO",
+    "slug": "wrap-de-jamon-y-queso"
+  },
+  {
+    "title": "WRAP DE POLLO",
+    "slug": "wrap-de-pollo"
+  },
+  {
+    "title": "WRAP DE POLLO AL CURRY",
+    "slug": "wrap-de-pollo-al-curry"
+  },
+  {
+    "title": "WRAP DE POLLO AL PESTO CON TOMATES DESHIDRATADOS",
+    "slug": "wrap-de-pollo-al-pesto-con-tomates-deshidratados"
+  },
+  {
+    "title": "WRAP DE ROAST BEEF",
+    "slug": "wrap-de-roast-beef"
+  },
+  {
+    "title": "WRAP O PITA CAPRESE",
+    "slug": "wrap-o-pita-caprese"
+  }
+]

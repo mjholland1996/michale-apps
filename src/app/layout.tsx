@@ -14,8 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Meal Planner",
-  description: "Plan your weekly meals with Gousto recipes",
+  title: {
+    default: "Michale Apps",
+    template: "%s | Michale Apps",
+  },
+  description: "A collection of personal web apps",
 };
 
 export default function RootLayout({

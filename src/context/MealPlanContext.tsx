@@ -4,7 +4,7 @@ import { createContext, useContext, useEffect, useState, ReactNode } from 'react
 import { RecipeSummary } from '@/types/recipe';
 
 const MAX_SELECTIONS = 5;
-const STORAGE_KEY = 'gousto-meal-plan';
+const STORAGE_KEY = 'michale-apps-meal-plan';
 
 const DEFAULT_SERVING_SIZE = 2;
 

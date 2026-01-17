@@ -1,187 +1,60 @@
-'use client';
+import Link from 'next/link';
 
-import { useState, useMemo } from 'react';
-import { RecipeGrid } from '@/components/RecipeGrid';
-import { SelectionTracker } from '@/components/SelectionTracker';
-import { ServingSizeSelector } from '@/components/ServingSizeSelector';
-import { FilterPanel, Filters } from '@/components/FilterPanel';
-import { useMealPlan } from '@/context/MealPlanContext';
-import { RecipeSummary } from '@/types/recipe';
-import recipesData from '../../data/recipes-index.json';
-
-function getTimeCategory(prepTime: number): string {
-  if (prepTime <= 25) return 'quick';
-  if (prepTime <= 45) return 'medium';
-  return 'long';
-}
-
-export default function BrowsePage() {
-  const { selectedRecipes } = useMealPlan();
-  const [filters, setFilters] = useState<Filters>({
-    proteins: [],
-    carbs: [],
-    time: null,
-  });
-
-  // Only show recipes that have complete detail data
-  const allRecipes = useMemo(
-    () => (recipesData as RecipeSummary[]).filter(r => r.hasDetails),
-    []
-  );
-
-  // Get set of all ingredient names from selected recipes
-  const selectedIngredients = useMemo(() => {
-    const ingredients = new Set<string>();
-    for (const recipe of selectedRecipes) {
-      // Find full recipe data with ingredients
-      const fullRecipe = allRecipes.find(r => r.slug === recipe.slug);
-      if (fullRecipe?.ingredientNames) {
-        for (const ing of fullRecipe.ingredientNames) {
-          ingredients.add(ing);
-        }
-      }
-    }
-    return ingredients;
-  }, [selectedRecipes, allRecipes]);
-
-  // Compute shared ingredients count for each recipe
-  const sharedIngredientsMap = useMemo(() => {
-    const map = new Map<string, number>();
-    if (selectedIngredients.size === 0) return map;
-
-    for (const recipe of allRecipes) {
-      // Skip selected recipes
-      if (selectedRecipes.some(r => r.slug === recipe.slug)) continue;
-
-      const recipeIngredients = recipe.ingredientNames ?? [];
-      const sharedCount = recipeIngredients.filter(ing =>
-        selectedIngredients.has(ing)
-      ).length;
-
-      if (sharedCount > 0) {
-        map.set(recipe.slug, sharedCount);
-      }
-    }
-    return map;
-  }, [allRecipes, selectedRecipes, selectedIngredients]);
-
-  // Filter recipes based on current filters
-  const filteredRecipes = useMemo(() => {
-    return allRecipes.filter(recipe => {
-      // Protein filter (OR logic - match any selected protein)
-      if (filters.proteins.length > 0) {
-        const recipeProteins = recipe.proteins ?? [];
-        if (!filters.proteins.some(p => recipeProteins.includes(p))) {
-          return false;
-        }
-      }
-
-      // Carb filter (OR logic - match any selected carb)
-      if (filters.carbs.length > 0) {
-        const recipeCarbs = recipe.carbs ?? [];
-        if (!filters.carbs.some(c => recipeCarbs.includes(c))) {
-          return false;
-        }
-      }
-
-      // Time filter
-      if (filters.time) {
-        const timeCategory = getTimeCategory(recipe.prepTimes.for2);
-        if (timeCategory !== filters.time) {
-          return false;
-        }
-      }
-
-      return true;
-    });
-  }, [allRecipes, filters]);
-
-  // Sort recipes: selected first, then by shared ingredients (descending), then alphabetically
-  const sortedRecipes = useMemo(() => {
-    return [...filteredRecipes].sort((a, b) => {
-      const aSelected = selectedRecipes.some(r => r.slug === a.slug);
-      const bSelected = selectedRecipes.some(r => r.slug === b.slug);
-
-      // Selected recipes first
-      if (aSelected && !bSelected) return -1;
-      if (!aSelected && bSelected) return 1;
-
-      // Then by shared ingredients count (descending)
-      const aShared = sharedIngredientsMap.get(a.slug) ?? 0;
-      const bShared = sharedIngredientsMap.get(b.slug) ?? 0;
-      if (aShared !== bShared) return bShared - aShared;
-
-      // Finally alphabetically
-      return a.title.localeCompare(b.title);
-    });
-  }, [filteredRecipes, selectedRecipes, sharedIngredientsMap]);
-
-  // Compute counts for filter badges (based on all recipes, not filtered)
-  const recipeCounts = useMemo(() => {
-    const proteins: Record<string, number> = {};
-    const carbs: Record<string, number> = {};
-    const time: Record<string, number> = {};
-
-    for (const recipe of allRecipes) {
-      // Count proteins
-      for (const p of recipe.proteins ?? []) {
-        proteins[p] = (proteins[p] ?? 0) + 1;
-      }
-
-      // Count carbs
-      for (const c of recipe.carbs ?? []) {
-        carbs[c] = (carbs[c] ?? 0) + 1;
-      }
-
-      // Count time categories
-      const timeCategory = getTimeCategory(recipe.prepTimes.for2);
-      time[timeCategory] = (time[timeCategory] ?? 0) + 1;
-    }
-
-    return { proteins, carbs, time };
-  }, [allRecipes]);
-
+export default function HomePage() {
   return (
-    <div className="min-h-screen pb-24">
+    <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200 sticky top-0 z-40">
-        <div className="max-w-7xl mx-auto px-4 py-4">
-          <div className="flex items-start justify-between gap-4">
-            <div>
-              <h1 className="text-2xl font-bold text-gray-900">Choose Your Meals</h1>
-              <p className="text-gray-600 mt-1">Select up to 5 recipes for your weekly meal plan</p>
-            </div>
-            <ServingSizeSelector />
-          </div>
+      <header className="bg-white border-b border-gray-200">
+        <div className="max-w-4xl mx-auto px-4 py-6">
+          <h1 className="text-3xl font-bold text-gray-900">Michale Apps</h1>
+          <p className="text-gray-600 mt-2">A collection of personal web apps</p>
         </div>
       </header>
 
-      {/* Main content */}
-      <main className="max-w-7xl mx-auto px-4 py-6">
-        <FilterPanel
-          filters={filters}
-          onChange={setFilters}
-          recipeCounts={recipeCounts}
-        />
+      {/* Apps grid */}
+      <main className="max-w-4xl mx-auto px-4 py-8">
+        <div className="grid gap-6 sm:grid-cols-2">
+          {/* Meal Planner */}
+          <Link
+            href="/meal-planner"
+            className="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow group"
+          >
+            <div className="h-32 bg-gradient-to-br from-emerald-500 to-emerald-600 flex items-center justify-center">
+              <svg className="w-16 h-16 text-white/90" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+              </svg>
+            </div>
+            <div className="p-5">
+              <h2 className="text-xl font-semibold text-gray-900 group-hover:text-emerald-600 transition-colors">
+                Gousto Meal Planner
+              </h2>
+              <p className="text-gray-600 mt-2 text-sm">
+                Plan weekly meals, generate shopping lists, and save your favourite meal plans.
+              </p>
+            </div>
+          </Link>
 
-        {/* Results count */}
-        <p className="text-sm text-gray-600 mb-4">
-          Showing {sortedRecipes.length} of {allRecipes.length} recipes
-          {selectedRecipes.length > 0 && sharedIngredientsMap.size > 0 && (
-            <span className="ml-2 text-amber-600">
-              (sorted by shared ingredients)
-            </span>
-          )}
-        </p>
-
-        <RecipeGrid
-          recipes={sortedRecipes}
-          sharedIngredients={sharedIngredientsMap}
-        />
+          {/* Recetas Peruanas */}
+          <Link
+            href="/recetas"
+            className="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow group"
+          >
+            <div className="h-32 bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center">
+              <svg className="w-16 h-16 text-white/90" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+              </svg>
+            </div>
+            <div className="p-5">
+              <h2 className="text-xl font-semibold text-gray-900 group-hover:text-amber-600 transition-colors">
+                Recetas Peruanas
+              </h2>
+              <p className="text-gray-600 mt-2 text-sm">
+                Traditional family recipes in Spanish, passed down through generations.
+              </p>
+            </div>
+          </Link>
+        </div>
       </main>
-
-      {/* Selection tracker */}
-      <SelectionTracker />
     </div>
   );
 }
