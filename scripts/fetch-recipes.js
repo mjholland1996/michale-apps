@@ -1,12 +1,12 @@
 /**
- * Script to fetch recipe data from Gousto's API
+ * Script to fetch recipe summaries from Gousto's API
  *
  * Usage:
- *   node scripts/fetch-recipes.js [--limit N] [--details]
+ *   node scripts/fetch-recipes.js [--limit N] [--force]
  *
  * Options:
  *   --limit N    Only fetch N recipes (for testing)
- *   --details    Also fetch full recipe details (ingredients, method)
+ *   --force      Force refresh even if cache exists
  */
 
 const fs = require('fs');
@@ -15,11 +15,63 @@ const { execSync } = require('child_process');
 
 const API_BASE = 'https://production-api.gousto.co.uk/cmsreadbroker/v1';
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const RECIPES_FILE = path.join(DATA_DIR, 'recipes.json');
-const DETAILS_DIR = path.join(DATA_DIR, 'details');
+const INDEX_FILE = path.join(DATA_DIR, 'recipes-index.json');
 
 // Rate limiting: delay between requests (ms)
 const DELAY_BETWEEN_REQUESTS = 500;
+
+// Protein detection patterns (order matters - more specific first)
+const PROTEIN_PATTERNS = [
+  { pattern: /\b(chick'?n|chicken)\b/i, label: 'Chicken' },
+  { pattern: /\b(beef|steak|sirloin|rump|brisket)\b/i, label: 'Beef' },
+  { pattern: /\b(pork|bacon|ham|sausage|chorizo|pancetta)\b/i, label: 'Pork' },
+  { pattern: /\b(lamb)\b/i, label: 'Lamb' },
+  { pattern: /\b(duck)\b/i, label: 'Duck' },
+  { pattern: /\b(turkey|pavita)\b/i, label: 'Turkey' },
+  { pattern: /\b(salmon|cod|tuna|fish|basa|hake|pollock|sea bass|seabass|trout|mackerel|sardine)\b/i, label: 'Fish' },
+  { pattern: /\b(prawn|shrimp|scallop|mussel|clam|crab|lobster|seafood)\b/i, label: 'Seafood' },
+  { pattern: /\b(paneer|tofu|halloumi|tempeh)\b/i, label: 'Vegetarian' },
+  { pattern: /\b(plant.?based|meat.?free|vegan|veggie|vegetarian)\b/i, label: 'Vegetarian' },
+];
+
+// Carb detection patterns
+const CARB_PATTERNS = [
+  { pattern: /\b(rice|risotto|pilaf|biryani)\b/i, label: 'Rice' },
+  { pattern: /\b(pasta|spaghetti|penne|tagliatelle|linguine|fettuccine|fusilli|rigatoni|orzo|macaroni)\b/i, label: 'Pasta' },
+  { pattern: /\b(lasagne|lasagna|cannelloni)\b/i, label: 'Pasta' },
+  { pattern: /\b(gnocchi)\b/i, label: 'Gnocchi' },
+  { pattern: /\b(noodle|ramen|udon|lo mein|chow mein|pad thai)\b/i, label: 'Noodles' },
+  { pattern: /\b(potato|chips|fries|mash|wedges|roasties|gratin)\b/i, label: 'Potato' },
+  { pattern: /\b(bread|naan|flatbread|pitta|pita|wrap|tortilla|bun|ciabatta|focaccia|brioche|baguette)\b/i, label: 'Bread' },
+  { pattern: /\b(couscous)\b/i, label: 'Couscous' },
+  { pattern: /\b(quinoa)\b/i, label: 'Quinoa' },
+];
+
+/**
+ * Extract proteins from recipe title
+ */
+function extractProteins(title) {
+  const proteins = new Set();
+  for (const { pattern, label } of PROTEIN_PATTERNS) {
+    if (pattern.test(title)) {
+      proteins.add(label);
+    }
+  }
+  return Array.from(proteins);
+}
+
+/**
+ * Extract carbs from recipe title
+ */
+function extractCarbs(title) {
+  const carbs = new Set();
+  for (const { pattern, label } of CARB_PATTERNS) {
+    if (pattern.test(title)) {
+      carbs.add(label);
+    }
+  }
+  return Array.from(carbs);
+}
 
 function sleep(ms) {
   execSync(`sleep ${ms / 1000}`);
@@ -82,19 +134,21 @@ function fetchAllRecipeSummaries(limit) {
           ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
           ?.image ?? '';
 
+        // Extract proteins and carbs from title
+        const proteins = extractProteins(recipe.title);
+        const carbs = extractCarbs(recipe.title);
+
         recipes.push({
           uid: recipe.uid,
           title: recipe.title,
           slug,
-          rating: {
-            average: recipe.rating?.average ?? 0,
-            count: recipe.rating?.count ?? 0,
-          },
           prepTimes: {
             for2: recipe.prep_times?.for_2 ?? 0,
             for4: recipe.prep_times?.for_4 ?? 0,
           },
           image,
+          proteins,
+          carbs,
         });
       }
 
@@ -110,155 +164,11 @@ function fetchAllRecipeSummaries(limit) {
   return recipes;
 }
 
-function fetchRecipeDetail(slug) {
-  const url = `${API_BASE}/recipe/${slug}`;
-
-  try {
-    const data = fetchJsonSync(url);
-    const entry = data.data?.entry;
-    if (!entry) return null;
-
-    // Find main and mood images
-    const mainImage = entry.media?.images
-      ?.filter(img => img.type !== 'mood')
-      ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
-      ?.image ?? '';
-    const moodImage = entry.media?.images
-      ?.filter(img => img.type === 'mood')
-      ?.sort((a, b) => Math.abs(a.width - 700) - Math.abs(b.width - 700))[0]
-      ?.image;
-
-    // Process portion sizes - maps serving count to ingredient IDs with quantities
-    const portionSizes = (entry.portion_sizes ?? [])
-      .filter(ps => ps.is_offered)
-      .map(ps => ({
-        portions: ps.portions,
-        ingredients: (ps.ingredients_skus ?? []).map(sku => ({
-          id: sku.id,
-          quantity: sku.quantities?.in_box ?? 1,
-        })),
-      }));
-
-    // Get available serving sizes (typically 2-5)
-    const availableServings = portionSizes.map(ps => ps.portions).sort((a, b) => a - b);
-
-    // Store all ingredients with their IDs for portion-based filtering
-    const ingredients = (entry.ingredients ?? []).map(ing => ({
-      id: ing.gousto_uuid ?? ing.uid ?? '',
-      name: ing.name ?? '',
-      label: ing.label ?? ing.title ?? '',
-      imageUrl: ing.media?.images?.[0]?.image,
-    }));
-
-    return {
-      uid: entry.uid,
-      title: entry.title,
-      slug: extractSlug(entry.url),
-      description: entry.seo_description ?? '',
-      rating: {
-        average: entry.rating?.average ?? 0,
-        count: entry.rating?.count ?? 0,
-      },
-      prepTimes: {
-        for2: entry.prep_times?.for_2 ?? 0,
-        for4: entry.prep_times?.for_4 ?? 0,
-      },
-      images: {
-        main: mainImage,
-        mood: moodImage,
-      },
-      cuisine: entry.recipe_cuisine ?? '',
-      dietType: entry.recipe_diet_type ?? '',
-      ingredients,
-      portionSizes,
-      availableServings,
-      instructions: (entry.cooking_instructions ?? [])
-        .sort((a, b) => a.order - b.order)
-        .map((inst, index) => ({
-          step: index + 1,
-          text: inst.instruction,
-          imageUrl: inst.media?.images?.[0]?.image,
-        })),
-      nutrition: {
-        perServing: {
-          calories: entry.nutritional_information?.per_portion?.energy_kcal ?? 0,
-          protein: entry.nutritional_information?.per_portion?.protein_grams ?? 0,
-          carbs: entry.nutritional_information?.per_portion?.carbs_grams ?? 0,
-          fat: entry.nutritional_information?.per_portion?.fat_grams ?? 0,
-        },
-      },
-      basics: (entry.basics ?? []).map(b => b.title ?? b.label ?? ''),
-    };
-  } catch (error) {
-    console.error(`Error fetching details for ${slug}:`, error.message);
-    return null;
-  }
-}
-
-function fetchAllDetails(recipes) {
-  if (!fs.existsSync(DETAILS_DIR)) {
-    fs.mkdirSync(DETAILS_DIR, { recursive: true });
-  }
-
-  // Load existing details to skip already fetched
-  const existingFiles = new Set(
-    fs.existsSync(DETAILS_DIR)
-      ? fs.readdirSync(DETAILS_DIR).map(f => f.replace('.json', ''))
-      : []
-  );
-
-  const toFetch = recipes.filter(r => !existingFiles.has(r.slug));
-  console.log(`Fetching details for ${toFetch.length} recipes (${existingFiles.size} already cached)...`);
-
-  for (let i = 0; i < toFetch.length; i++) {
-    const recipe = toFetch[i];
-    console.log(`[${i + 1}/${toFetch.length}] Fetching ${recipe.slug}...`);
-
-    const detail = fetchRecipeDetail(recipe.slug);
-    if (detail) {
-      // Skip recipes without portion size data (can't accurately show serving info)
-      if (detail.availableServings.length === 0) {
-        console.log(`  Skipping ${recipe.slug} - no portion size data available`);
-        continue;
-      }
-      fs.writeFileSync(
-        path.join(DETAILS_DIR, `${recipe.slug}.json`),
-        JSON.stringify(detail, null, 2)
-      );
-    }
-
-    sleep(DELAY_BETWEEN_REQUESTS);
-  }
-
-  console.log('Done fetching details');
-}
-
-function combineDataForExport() {
-  console.log('Combining data for export...');
-
-  const summaries = JSON.parse(fs.readFileSync(RECIPES_FILE, 'utf-8'));
-  const recipesWithDetails = [];
-
-  for (const summary of summaries) {
-    const detailFile = path.join(DETAILS_DIR, `${summary.slug}.json`);
-    const hasDetails = fs.existsSync(detailFile);
-    recipesWithDetails.push({ ...summary, hasDetails });
-  }
-
-  // Write combined summary file
-  fs.writeFileSync(
-    path.join(DATA_DIR, 'recipes-index.json'),
-    JSON.stringify(recipesWithDetails, null, 2)
-  );
-
-  console.log(`Combined ${recipesWithDetails.length} recipes, ${recipesWithDetails.filter(r => r.hasDetails).length} with details`);
-}
-
 function main() {
   const args = process.argv.slice(2);
   const limitIndex = args.indexOf('--limit');
   const limit = limitIndex !== -1 ? parseInt(args[limitIndex + 1], 10) : undefined;
-  const fetchDetails = args.includes('--details');
+  const force = args.includes('--force');
 
   // Ensure data directory exists
   if (!fs.existsSync(DATA_DIR)) {
@@ -267,30 +177,35 @@ function main() {
 
   // Fetch summaries
   let recipes;
-  if (fs.existsSync(RECIPES_FILE) && !args.includes('--force')) {
+  if (fs.existsSync(INDEX_FILE) && !force) {
     console.log('Loading existing recipes from cache...');
-    recipes = JSON.parse(fs.readFileSync(RECIPES_FILE, 'utf-8'));
+    console.log('Use --force to refresh from API');
+    recipes = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf-8'));
     if (limit && recipes.length > limit) {
       recipes = recipes.slice(0, limit);
     }
+    console.log(`Loaded ${recipes.length} recipes from cache`);
   } else {
     recipes = fetchAllRecipeSummaries(limit);
-    fs.writeFileSync(RECIPES_FILE, JSON.stringify(recipes, null, 2));
+    fs.writeFileSync(INDEX_FILE, JSON.stringify(recipes, null, 2));
+    console.log(`Saved ${recipes.length} recipes to ${INDEX_FILE}`);
   }
 
-  // Optionally fetch details
-  if (fetchDetails) {
-    fetchAllDetails(recipes);
+  // Print stats
+  const proteinStats = {};
+  const carbStats = {};
+  for (const recipe of recipes) {
+    for (const p of recipe.proteins || []) {
+      proteinStats[p] = (proteinStats[p] || 0) + 1;
+    }
+    for (const c of recipe.carbs || []) {
+      carbStats[c] = (carbStats[c] || 0) + 1;
+    }
   }
+  console.log('\nProtein distribution:', proteinStats);
+  console.log('Carb distribution:', carbStats);
 
-  // Combine data
-  combineDataForExport();
-
-  console.log('\nDone! Data saved to:');
-  console.log(`  - ${RECIPES_FILE}`);
-  if (fetchDetails) {
-    console.log(`  - ${DETAILS_DIR}/`);
-  }
+  console.log('\nDone!');
 }
 
 main();

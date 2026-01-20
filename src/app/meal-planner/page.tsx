@@ -10,7 +10,7 @@ import { useMealPlan } from '@/context/MealPlanContext';
 import { RecipeSummary } from '@/types/recipe';
 import recipesData from '../../../data/recipes-index.json';
 
-function getTimeCategory(prepTime: number): string {
+function getTimeCategory(prepTime: number): 'quick' | 'medium' | 'long' {
   if (prepTime <= 25) return 'quick';
   if (prepTime <= 45) return 'medium';
   return 'long';
@@ -25,49 +25,9 @@ export default function BrowsePage() {
     time: null,
   });
 
-  // Only show recipes that have complete detail data
-  const allRecipes = useMemo(
-    () => (recipesData as RecipeSummary[]).filter(r => r.hasDetails),
-    []
-  );
+  const allRecipes = recipesData as RecipeSummary[];
 
-  // Get set of all ingredient names from selected recipes
-  const selectedIngredients = useMemo(() => {
-    const ingredients = new Set<string>();
-    for (const recipe of selectedRecipes) {
-      // Find full recipe data with ingredients
-      const fullRecipe = allRecipes.find(r => r.slug === recipe.slug);
-      if (fullRecipe?.ingredientNames) {
-        for (const ing of fullRecipe.ingredientNames) {
-          ingredients.add(ing);
-        }
-      }
-    }
-    return ingredients;
-  }, [selectedRecipes, allRecipes]);
-
-  // Compute shared ingredients count for each recipe
-  const sharedIngredientsMap = useMemo(() => {
-    const map = new Map<string, number>();
-    if (selectedIngredients.size === 0) return map;
-
-    for (const recipe of allRecipes) {
-      // Skip selected recipes
-      if (selectedRecipes.some(r => r.slug === recipe.slug)) continue;
-
-      const recipeIngredients = recipe.ingredientNames ?? [];
-      const sharedCount = recipeIngredients.filter(ing =>
-        selectedIngredients.has(ing)
-      ).length;
-
-      if (sharedCount > 0) {
-        map.set(recipe.slug, sharedCount);
-      }
-    }
-    return map;
-  }, [allRecipes, selectedRecipes, selectedIngredients]);
-
-  // Filter recipes based on current filters and search query
+  // Filter recipes based on search query and filters
   const filteredRecipes = useMemo(() => {
     return allRecipes.filter(recipe => {
       // Search filter (case-insensitive title match)
@@ -105,7 +65,7 @@ export default function BrowsePage() {
     });
   }, [allRecipes, filters, searchQuery]);
 
-  // Sort recipes: selected first, then by shared ingredients (descending), then alphabetically
+  // Sort recipes: selected first, then alphabetically
   const sortedRecipes = useMemo(() => {
     return [...filteredRecipes].sort((a, b) => {
       const aSelected = selectedRecipes.some(r => r.slug === a.slug);
@@ -115,21 +75,16 @@ export default function BrowsePage() {
       if (aSelected && !bSelected) return -1;
       if (!aSelected && bSelected) return 1;
 
-      // Then by shared ingredients count (descending)
-      const aShared = sharedIngredientsMap.get(a.slug) ?? 0;
-      const bShared = sharedIngredientsMap.get(b.slug) ?? 0;
-      if (aShared !== bShared) return bShared - aShared;
-
-      // Finally alphabetically
+      // Then alphabetically
       return a.title.localeCompare(b.title);
     });
-  }, [filteredRecipes, selectedRecipes, sharedIngredientsMap]);
+  }, [filteredRecipes, selectedRecipes]);
 
   // Compute counts for filter badges (based on all recipes, not filtered)
   const recipeCounts = useMemo(() => {
     const proteins: Record<string, number> = {};
     const carbs: Record<string, number> = {};
-    const time: Record<string, number> = {};
+    const time: Record<string, number> = { quick: 0, medium: 0, long: 0 };
 
     for (const recipe of allRecipes) {
       // Count proteins
@@ -215,17 +170,9 @@ export default function BrowsePage() {
         {/* Results count */}
         <p className="text-sm text-gray-600 mb-4">
           Showing {sortedRecipes.length} of {allRecipes.length} recipes
-          {selectedRecipes.length > 0 && sharedIngredientsMap.size > 0 && (
-            <span className="ml-2 text-amber-600">
-              (sorted by shared ingredients)
-            </span>
-          )}
         </p>
 
-        <RecipeGrid
-          recipes={sortedRecipes}
-          sharedIngredients={sharedIngredientsMap}
-        />
+        <RecipeGrid recipes={sortedRecipes} />
       </main>
 
       {/* Selection tracker */}

@@ -2,19 +2,13 @@ export interface RecipeSummary {
   uid: string;
   title: string;
   slug: string;
-  rating: {
-    average: number;
-    count: number;
-  };
   prepTimes: {
     for2: number;
     for4: number;
   };
   image: string;
-  hasDetails?: boolean;
-  proteins?: string[];
-  carbs?: string[];
-  ingredientNames?: string[];
+  proteins: string[];
+  carbs: string[];
 }
 
 export interface Ingredient {
@@ -39,10 +33,6 @@ export interface RecipeDetail {
   title: string;
   slug: string;
   description: string;
-  rating: {
-    average: number;
-    count: number;
-  };
   prepTimes: {
     for2: number;
     for4: number;
